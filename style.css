@@ -354,8 +354,8 @@ main {
 
 .product-row {
   display: grid;
-  grid-template-columns: 1fr auto auto;
-  align-items: center;
+  grid-template-columns: 72px 1fr auto auto;
+  align-items: start;
   gap: 0.8rem;
   padding: 0.72rem 1rem;
   border-bottom: 1px solid #f2e8dd;
@@ -363,6 +363,43 @@ main {
 
 .product-row:last-child {
   border-bottom: 0;
+}
+
+.product-thumb-link {
+  display: inline-flex;
+  width: 72px;
+  height: 72px;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--clr-border);
+  background: #fff;
+}
+
+.product-thumb {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.product-thumb-placeholder {
+  width: 72px;
+  height: 72px;
+  border-radius: 10px;
+  border: 1px dashed var(--clr-border);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--clr-muted);
+  font-size: 0.73rem;
+  font-weight: 600;
+  background: #fff;
+}
+
+.product-main {
+  display: grid;
+  gap: 0.35rem;
+  min-width: 0;
 }
 
 .product-link {
@@ -373,6 +410,25 @@ main {
 
 .product-link:hover {
   color: #6e2c4d;
+}
+
+.product-specs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.product-spec-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.15rem 0.48rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: #f8f0e7;
+  color: #6a4f3a;
+  border: 1px solid #edd9c5;
 }
 
 .product-price {
@@ -411,6 +467,29 @@ main {
   background: #f4f4f6;
   color: #576072;
   border-color: #d8dce3;
+}
+
+@media (max-width: 800px) {
+  .product-row {
+    grid-template-columns: 60px 1fr;
+    gap: 0.6rem;
+  }
+
+  .product-price-wrap {
+    grid-column: 2 / 3;
+    justify-self: start;
+  }
+
+  .availability-tag {
+    grid-column: 2 / 3;
+    justify-self: start;
+  }
+
+  .product-thumb-link,
+  .product-thumb-placeholder {
+    width: 60px;
+    height: 60px;
+  }
 }
 
 .no-products-section {

@@ -1,4 +1,8 @@
 async function loadShopifyProducts() {
+  if (typeof shopifyProductsCatalog !== "undefined" && shopifyProductsCatalog) {
+    return shopifyProductsCatalog;
+  }
+
   const response = await fetch("shopify-products.json");
   if (!response.ok) {
     throw new Error(`Failed to load shopify-products.json (${response.status})`);
@@ -28,6 +32,16 @@ function formatGeneratedAt(isoDate) {
     hour: "numeric",
     minute: "2-digit"
   });
+}
+
+function formatNumber(value, unit) {
+  if (typeof value !== "number" || Number.isNaN(value)) {
+    return "Not specified";
+  }
+  if (Number.isInteger(value)) {
+    return `${value} ${unit}`;
+  }
+  return `${value.toFixed(1)} ${unit}`;
 }
 
 function escapeHtml(str) {
@@ -81,17 +95,38 @@ function buildProductRow(product) {
     product.compareAtPrice > product.price
       ? `<span class="product-compare-at">${formatCurrency(product.compareAtPrice)}</span>`
       : "";
+  const imageHtml = product.image
+    ? `<img class="product-image" src="${escapeHtml(product.image)}" alt="${escapeHtml(product.title)}" loading="lazy" decoding="async" />`
+    : '<div class="product-image product-image-placeholder" aria-hidden="true">No image</div>';
+  const yarnWeight = product.yarnWeight ? escapeHtml(product.yarnWeight) : "Not specified";
+  const ballSizeGrams = formatNumber(product.ballSizeGrams, "g");
+  const ballSizeMeters = formatNumber(product.ballSizeMeters, "m");
+  const colorFamily = product.colorFamily ? escapeHtml(product.colorFamily) : "Not specified";
 
   return `
     <li class="product-row">
-      <a href="${escapeHtml(product.productUrl)}" target="_blank" rel="noopener noreferrer" class="product-link">
-        ${escapeHtml(product.title)}
-      </a>
-      <div class="product-price-wrap">
-        <span class="product-price">${formatCurrency(product.price)}</span>
-        ${compareAtHtml}
+      <div class="product-main">
+        <a href="${escapeHtml(product.productUrl)}" target="_blank" rel="noopener noreferrer" class="product-thumb-link" aria-label="${escapeHtml(product.title)}">
+          ${imageHtml}
+        </a>
+        <div class="product-details">
+          <a href="${escapeHtml(product.productUrl)}" target="_blank" rel="noopener noreferrer" class="product-link">
+            ${escapeHtml(product.title)}
+          </a>
+          <div class="product-spec-grid">
+            <span class="spec-chip"><strong>Yarn weight:</strong> ${yarnWeight}</span>
+            <span class="spec-chip"><strong>Ball/hank:</strong> ${ballSizeGrams} / ${ballSizeMeters}</span>
+            <span class="spec-chip"><strong>Colour:</strong> ${colorFamily}</span>
+          </div>
+        </div>
       </div>
-      <span class="availability-tag ${availabilityClass}">${availabilityLabel}</span>
+      <div class="product-side">
+        <div class="product-price-wrap">
+          <span class="product-price">${formatCurrency(product.price)}</span>
+          ${compareAtHtml}
+        </div>
+        <span class="availability-tag ${availabilityClass}">${availabilityLabel}</span>
+      </div>
     </li>
   `;
 }
@@ -204,8 +239,9 @@ async function init() {
     document.getElementById("vendor-summary").textContent = `${stores.length} Shopify vendors`;
     document.getElementById("product-summary").textContent = `${totalProducts} listed products`;
     document.getElementById("catalog-generated-at").textContent = `Catalog generated: ${formatGeneratedAt(data.generatedAt)}`;
+    const coverage = data.coverage || {};
     document.getElementById("catalog-source-note").textContent =
-      "Products are pulled from public Shopify storefront endpoints and shown in best-selling/order returned by each store.";
+      `Coverage: images ${coverage.withImage || 0}/${coverage.productTotal || 0}, yarn weight ${coverage.withYarnWeight || 0}, grams ${coverage.withBallSizeGrams || 0}, meters ${coverage.withBallSizeMeters || 0}, colour family ${coverage.withColorFamily || 0}.`;
 
     renderNoProducts(stores.filter((store) => store.products.length === 0));
 
