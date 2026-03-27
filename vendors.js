@@ -18,7 +18,8 @@ const vendors = [
     "social": {
       "instagram": "https://www.instagram.com/fleeceandharmony/",
       "facebook": "https://www.facebook.com/FleeceandHarmony"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Tanis Fiber Arts",
@@ -50,7 +51,8 @@ const vendors = [
     "social": {
       "instagram": "https://www.instagram.com/thefibrecoyarns/",
       "facebook": "https://www.facebook.com/TheFibreCo"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Quince & Co.",
@@ -61,7 +63,8 @@ const vendors = [
       "instagram": "https://www.instagram.com/quinceandco/",
       "facebook": "https://www.facebook.com/quinceandco",
       "ravelry": "https://www.ravelry.com/yarns/brands/quince-co"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Malabrigo Yarn",
@@ -82,7 +85,8 @@ const vendors = [
     "social": {
       "instagram": "https://www.instagram.com/lainemagazine/",
       "facebook": "https://www.facebook.com/lainemagazine"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Fringe Supply Co.",
@@ -123,7 +127,8 @@ const vendors = [
       "instagram": "https://www.instagram.com/hedgehog_fibres/",
       "facebook": "https://www.facebook.com/hedgehogfibres",
       "ravelry": "https://www.ravelry.com/yarns/brands/hedgehog-fibres"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "String Theory Colorworks",
@@ -133,7 +138,8 @@ const vendors = [
     "social": {
       "instagram": "https://www.instagram.com/stringtheorycolorworks/",
       "ravelry": "https://www.ravelry.com/yarns/brands/string-theory-colorworks"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Blue Sky Fibers",
@@ -163,7 +169,8 @@ const vendors = [
     "social": {
       "instagram": "https://www.instagram.com/labienaimee/",
       "ravelry": "https://www.ravelry.com/yarns/brands/la-bien-aim-e"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Spincycle Yarns",
@@ -173,7 +180,8 @@ const vendors = [
     "social": {
       "instagram": "https://www.instagram.com/spincycleyarns/",
       "ravelry": "https://www.ravelry.com/yarns/brands/spincycle-yarns"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Urth Yarns",
@@ -183,7 +191,8 @@ const vendors = [
     "social": {
       "instagram": "https://www.instagram.com/urthyarns/",
       "facebook": "https://www.facebook.com/UrthYarns"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Wool and the Gang",
@@ -204,7 +213,8 @@ const vendors = [
       "instagram": "https://www.instagram.com/pompommag/",
       "facebook": "https://www.facebook.com/pompomquarterly",
       "ravelry": "https://www.ravelry.com/pattern-source/pom-pom-quarterly"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Indigodragonfly",
@@ -215,7 +225,8 @@ const vendors = [
       "instagram": "https://www.instagram.com/indigodragonfly/",
       "facebook": "https://www.facebook.com/indigodragonfly",
       "ravelry": "https://www.ravelry.com/yarns/brands/indigodragonfly"
-    }
+    },
+    "isShopify": true
   },
   {
     "name": "Cascade Yarns",
@@ -257,7 +268,8 @@ const vendors = [
     "name": "Addiction Yarns",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.addictionyarns.com"
+    "website": "https://www.addictionyarns.com",
+    "isShopify": true
   },
   {
     "name": "All Wound Up",
@@ -269,43 +281,50 @@ const vendors = [
     "name": "Alley Cat Yarns",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://alleycatyarns.ca/"
+    "website": "https://alleycatyarns.ca/",
+    "isShopify": true
   },
   {
     "name": "Amaranth Fibres",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://amaranthfibres.com/"
+    "website": "https://amaranthfibres.com/",
+    "isShopify": true
   },
   {
     "name": "Ancient Arts",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://ancientartsfibre.com/"
+    "website": "https://ancientartsfibre.com/",
+    "isShopify": true
   },
   {
     "name": "Artfil",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://artfil.ca/"
+    "website": "https://artfil.ca/",
+    "isShopify": true
   },
   {
     "name": "Atelier Perluette",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.atelierperluette.com/"
+    "website": "https://www.atelierperluette.com/",
+    "isShopify": true
   },
   {
     "name": "Bar A Tricot",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://baratricot.com/en/"
+    "website": "https://baratricot.com/en/",
+    "isShopify": true
   },
   {
     "name": "Big Blue Moma 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.bigbluemoma.com/"
+    "website": "https://www.bigbluemoma.com/",
+    "isShopify": true
   },
   {
     "name": "Birch Grove",
@@ -320,13 +339,15 @@ const vendors = [
     "name": "Biscotte 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.biscotteyarns.ca"
+    "website": "https://www.biscotteyarns.ca",
+    "isShopify": true
   },
   {
     "name": "TOGETHER COLOUR 2020",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://shop.thebluebrick.ca/"
+    "website": "https://shop.thebluebrick.ca/",
+    "isShopify": true
   },
   {
     "name": "Black Sheep Farm",
@@ -344,7 +365,8 @@ const vendors = [
     "name": "Brine Dyeworks",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://brinedyeworks.ca/"
+    "website": "https://brinedyeworks.ca/",
+    "isShopify": true
   },
   {
     "name": "Bunny Mushroom Bags",
@@ -359,7 +381,8 @@ const vendors = [
     "name": "BTL Logo 2024 Colour",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://bythelakeside.com/"
+    "website": "https://bythelakeside.com/",
+    "isShopify": true
   },
   {
     "name": "By the Yhard",
@@ -392,13 +415,15 @@ const vendors = [
     "name": "the Cozy Knitter",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.thecozyknitter.com/"
+    "website": "https://www.thecozyknitter.com/",
+    "isShopify": true
   },
   {
     "name": "Crazy About Yarn",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.crazyaboutyarn.ca"
+    "website": "https://www.crazyaboutyarn.ca",
+    "isShopify": true
   },
   {
     "name": "Creation Miss Couture",
@@ -452,13 +477,15 @@ const vendors = [
     "name": "Feisty Fibres",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://feistyfibres.com"
+    "website": "https://feistyfibres.com",
+    "isShopify": true
   },
   {
     "name": "Ferme Fiola Farm",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.fermefiolafarm.ca/"
+    "website": "https://www.fermefiolafarm.ca/",
+    "isShopify": true
   },
   {
     "name": "Logo Fermerecreativecaza 300x191",
@@ -479,37 +506,43 @@ const vendors = [
     "name": "Fibre Goddess",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.fibregoddess.ca"
+    "website": "https://www.fibregoddess.ca",
+    "isShopify": true
   },
   {
     "name": "Fibres Filantes",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://fibresfilantes.ca/"
+    "website": "https://fibresfilantes.ca/",
+    "isShopify": true
   },
   {
     "name": "Fireweed Fibre Co",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://fireweedfibreco.com/"
+    "website": "https://fireweedfibreco.com/",
+    "isShopify": true
   },
   {
     "name": "the Frosted Stitch 2",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://thefrostedstitch.ca/"
+    "website": "https://thefrostedstitch.ca/",
+    "isShopify": true
   },
   {
     "name": "Full Moon Fibres",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "http://www.fullmoonfibres.ca"
+    "website": "http://www.fullmoonfibres.ca",
+    "isShopify": true
   },
   {
     "name": "Fyberring Logo New Blue PNG",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://fyberring.com/"
+    "website": "https://fyberring.com/",
+    "isShopify": true
   },
   {
     "name": "Genna",
@@ -521,13 +554,15 @@ const vendors = [
     "name": "Gingersnap",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://gingersnapthat.com/"
+    "website": "https://gingersnapthat.com/",
+    "isShopify": true
   },
   {
     "name": "Gobsmacked Yarn 2",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://gobsmackedyarn.ca"
+    "website": "https://gobsmackedyarn.ca",
+    "isShopify": true
   },
   {
     "name": "Goobles",
@@ -542,7 +577,8 @@ const vendors = [
     "name": "Good Grief",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://goodgriefyarn.com/collections/good-grief-yarns"
+    "website": "https://goodgriefyarn.com/collections/good-grief-yarns",
+    "isShopify": true
   },
   {
     "name": "the Green Button Jar",
@@ -554,7 +590,8 @@ const vendors = [
     "name": "Hamstersyarns",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.hamstersyarns.ca"
+    "website": "https://www.hamstersyarns.ca",
+    "isShopify": true
   },
   {
     "name": "Handknit Yarn Studio",
@@ -578,7 +615,8 @@ const vendors = [
     "name": "Hoko Hoko 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://hokohokofibreco.com/"
+    "website": "https://hokohokofibreco.com/",
+    "isShopify": true
   },
   {
     "name": "Holistic Needle Craft",
@@ -593,19 +631,22 @@ const vendors = [
     "name": "Hooking Outside the Lines 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://hookingoutsidethelines.com/"
+    "website": "https://hookingoutsidethelines.com/",
+    "isShopify": true
   },
   {
     "name": "Irene Textile 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://irenetextile.com/en"
+    "website": "https://irenetextile.com/en",
+    "isShopify": true
   },
   {
     "name": "Je Laine Yarns",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://jelaineyarns.com/"
+    "website": "https://jelaineyarns.com/",
+    "isShopify": true
   },
   {
     "name": "Juniper & Ginger",
@@ -617,7 +658,8 @@ const vendors = [
     "name": "Knitted Bliss Stitching",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://shop.knittedbliss.com/"
+    "website": "https://shop.knittedbliss.com/",
+    "isShopify": true
   },
   {
     "name": "Knitty",
@@ -635,7 +677,8 @@ const vendors = [
     "name": "the Lab Fibers",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://thelabfibers.com/"
+    "website": "https://thelabfibers.com/",
+    "isShopify": true
   },
   {
     "name": "L'aime Laine 1",
@@ -647,13 +690,15 @@ const vendors = [
     "name": "LDH Scissors",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://ldhscissors.ca"
+    "website": "https://ldhscissors.ca",
+    "isShopify": true
   },
   {
     "name": "Leo & Roxy 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.leoandroxyyarnco.com/"
+    "website": "https://www.leoandroxyyarnco.com/",
+    "isShopify": true
   },
   {
     "name": "Les Belles Bouclettes",
@@ -665,13 +710,15 @@ const vendors = [
     "name": "Les Garcons",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://boutiquelesgarcons.com"
+    "website": "https://boutiquelesgarcons.com",
+    "isShopify": true
   },
   {
     "name": "Les Laines Mailles A Part",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.leslainesmaillesapart.com/"
+    "website": "https://www.leslainesmaillesapart.com/",
+    "isShopify": true
   },
   {
     "name": "Les Moutons De Richard",
@@ -683,7 +730,8 @@ const vendors = [
     "name": "Lichen and Lace",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "http://www.lichenandlace.com"
+    "website": "http://www.lichenandlace.com",
+    "isShopify": true
   },
   {
     "name": "Li'l Red Kettlehead",
@@ -698,13 +746,15 @@ const vendors = [
     "name": "Little Barn Studio 2",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.littlebarnstudio.ca"
+    "website": "https://www.littlebarnstudio.ca",
+    "isShopify": true
   },
   {
     "name": "the Little Red Mitten 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://littleredmitten.com/"
+    "website": "https://littleredmitten.com/",
+    "isShopify": true
   },
   {
     "name": "Long Way Homestead 2",
@@ -728,7 +778,8 @@ const vendors = [
     "name": "Ma Laine Maison 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://malainemaison.com/"
+    "website": "https://malainemaison.com/",
+    "isShopify": true
   },
   {
     "name": "Transparent Logo (big)",
@@ -740,7 +791,8 @@ const vendors = [
     "name": "Muster",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://musterpattern.ca/"
+    "website": "https://musterpattern.ca/",
+    "isShopify": true
   },
   {
     "name": "Nerds With Needles",
@@ -752,7 +804,8 @@ const vendors = [
     "name": "Numana Yarns 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.numanayarns.com"
+    "website": "https://www.numanayarns.com",
+    "isShopify": true
   },
   {
     "name": "Ocean Praire Designs",
@@ -767,7 +820,8 @@ const vendors = [
     "name": "Ok Logo 3",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.octoberknits.com"
+    "website": "https://www.octoberknits.com",
+    "isShopify": true
   },
   {
     "name": "Odd Cat Yarn",
@@ -791,7 +845,8 @@ const vendors = [
     "name": "Pretty Little Yarns 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://prettylittleyarns.ca/"
+    "website": "https://prettylittleyarns.ca/",
+    "isShopify": true
   },
   {
     "name": "Pretty String Yarn Co",
@@ -827,25 +882,29 @@ const vendors = [
     "name": "Revolution Wool",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://revolutionwoolco.com/"
+    "website": "https://revolutionwoolco.com/",
+    "isShopify": true
   },
   {
     "name": "Roving Textiles",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.rovingtextiles.com"
+    "website": "https://www.rovingtextiles.com",
+    "isShopify": true
   },
   {
     "name": "Ruach Crafts",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://ruachcrafts.com/"
+    "website": "https://ruachcrafts.com/",
+    "isShopify": true
   },
   {
     "name": "Scrumptiouspurl",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.scrumptiouspurl.com/"
+    "website": "https://www.scrumptiouspurl.com/",
+    "isShopify": true
   },
   {
     "name": "Sew Shevaun",
@@ -860,19 +919,22 @@ const vendors = [
     "name": "Sheeps Ahoy",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://sheepsahoy.com/"
+    "website": "https://sheepsahoy.com/",
+    "isShopify": true
   },
   {
     "name": "Signature Yarns 1",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://signatureyarns.com/"
+    "website": "https://signatureyarns.com/",
+    "isShopify": true
   },
   {
     "name": "Smiling Sheep",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://smilingsheepfineyarns.com/"
+    "website": "https://smilingsheepfineyarns.com/",
+    "isShopify": true
   },
   {
     "name": "Soft Spoken",
@@ -884,19 +946,22 @@ const vendors = [
     "name": "Sonder Yarn",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "http://www.sonderyarnco.com"
+    "website": "http://www.sonderyarnco.com",
+    "isShopify": true
   },
   {
     "name": "Songbird Yarn & Fibres",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "http://songbirdfibres.ca"
+    "website": "http://songbirdfibres.ca",
+    "isShopify": true
   },
   {
     "name": "Sound Yarn & Fibre",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "http://www.soundyarnandfibre.ca"
+    "website": "http://www.soundyarnandfibre.ca",
+    "isShopify": true
   },
   {
     "name": "SPJ Retreats Logo",
@@ -914,19 +979,22 @@ const vendors = [
     "name": "STE.MARG.SCOT.",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://stemargscot.com/"
+    "website": "https://stemargscot.com/",
+    "isShopify": true
   },
   {
     "name": "Stix & Stones",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.stixandstonesnb.ca"
+    "website": "https://www.stixandstonesnb.ca",
+    "isShopify": true
   },
   {
     "name": "Thread and Maple",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.threadandmaple.com"
+    "website": "https://www.threadandmaple.com",
+    "isShopify": true
   },
   {
     "name": "Toronto Knitters Guild 1",
@@ -938,25 +1006,29 @@ const vendors = [
     "name": "Tully's Yarn",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.tullysyarn.com/"
+    "website": "https://www.tullysyarn.com/",
+    "isShopify": true
   },
   {
     "name": "the Wandering Flock",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "http://www.thewanderingflock.com"
+    "website": "http://www.thewanderingflock.com",
+    "isShopify": true
   },
   {
     "name": "Waxwing 2",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.waxwingyarn.com"
+    "website": "https://www.waxwingyarn.com",
+    "isShopify": true
   },
   {
     "name": "Waypoint Fibreworks 2",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://waypointfibreworks.ca/"
+    "website": "https://waypointfibreworks.ca/",
+    "isShopify": true
   },
   {
     "name": "the Woodlot",
@@ -977,7 +1049,8 @@ const vendors = [
     "name": "Winstonfibresco",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.winstonfibresco.com"
+    "website": "https://www.winstonfibresco.com",
+    "isShopify": true
   },
   {
     "name": "Woolgrown Logo",
@@ -989,13 +1062,15 @@ const vendors = [
     "name": "Wonder Twin Fibrearts",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "http://www.wondertwinfibrearts.com"
+    "website": "http://www.wondertwinfibrearts.com",
+    "isShopify": true
   },
   {
     "name": "Worth Mending",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://www.worthmending.com"
+    "website": "https://www.worthmending.com",
+    "isShopify": true
   },
   {
     "name": "Wyldespun",
@@ -1007,7 +1082,8 @@ const vendors = [
     "name": "Yarnindulgences",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://YarnIndulgences.com"
+    "website": "https://YarnIndulgences.com",
+    "isShopify": true
   },
   {
     "name": "Yoriko Oki",
@@ -1019,7 +1095,8 @@ const vendors = [
     "name": "Your Next Knit",
     "category": "Marketplace Vendor",
     "description": "Vendor listed on the Knit Social Knit City Toronto marketplace page.",
-    "website": "https://yournextknit.com/"
+    "website": "https://yournextknit.com/",
+    "isShopify": true
   },
   {
     "name": "Messenger Creation",
