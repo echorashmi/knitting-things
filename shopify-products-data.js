@@ -1,0 +1,8031 @@
+const shopifyProductsCatalog = {
+  "generatedAt": "2026-03-27T11:01:29.659Z",
+  "vendorCount": 77,
+  "storesWithProducts": 69,
+  "storesWithoutProducts": 8,
+  "productsPerStore": 10,
+  "stores": [
+    {
+      "vendorName": "Fleece & Harmony",
+      "website": "https://fleeceandharmony.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "10 Years In The Making",
+          "handle": "10-years-in-the-making",
+          "productUrl": "https://fleeceandharmony.ca/products/10-years-in-the-making",
+          "price": 37,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "150 Scandinavian Motifs",
+          "handle": "150-scandinavian-motifs",
+          "productUrl": "https://fleeceandharmony.ca/products/150-scandinavian-motifs",
+          "price": 27,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Accessories",
+          "handle": "52-weeks-of-accessories",
+          "productUrl": "https://fleeceandharmony.ca/products/52-weeks-of-accessories",
+          "price": 59,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Easy Knits",
+          "handle": "52-weeks-of-easy-knits",
+          "productUrl": "https://fleeceandharmony.ca/products/52-weeks-of-easy-knits",
+          "price": 59,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Scarves",
+          "handle": "52-weeks-of-scarves",
+          "productUrl": "https://fleeceandharmony.ca/products/52-weeks-of-scarves",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Shawls",
+          "handle": "52-weeks-of-shawls",
+          "productUrl": "https://fleeceandharmony.ca/products/52-weeks-of-shawls",
+          "price": 56,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Socks",
+          "handle": "52-weeks-of-socks",
+          "productUrl": "https://fleeceandharmony.ca/products/52-weeks-of-socks",
+          "price": 59,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Socks Volume 2",
+          "handle": "52-weeks-of-socks-volume-2",
+          "productUrl": "https://fleeceandharmony.ca/products/52-weeks-of-socks-volume-2",
+          "price": 59,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "65 New Christmas Balls To Knit",
+          "handle": "65-new-christmas-balls-to-knit",
+          "productUrl": "https://fleeceandharmony.ca/products/65-new-christmas-balls-to-knit",
+          "price": 23,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "A Night Without Stars",
+          "handle": "a-night-without-stars-yarn",
+          "productUrl": "https://fleeceandharmony.ca/products/a-night-without-stars-yarn",
+          "price": 22,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Fleece & Harmony PEI",
+          "productType": "Yarns",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "The Fibre Co.",
+      "website": "https://thefibreco.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "&Make Aran",
+          "handle": "andmake-aran",
+          "productUrl": "https://thefibreco.com/products/andmake-aran",
+          "price": 10.5,
+          "compareAtPrice": 17.5,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "&Make DK",
+          "handle": "andmake-dk",
+          "productUrl": "https://thefibreco.com/products/andmake-dk",
+          "price": 5.1,
+          "compareAtPrice": 8.5,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "&Make Project Bag",
+          "handle": "andmake-project-bag",
+          "productUrl": "https://thefibreco.com/products/andmake-project-bag",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Project bag",
+          "image": null
+        },
+        {
+          "title": "&Make Shade Card",
+          "handle": "andmake-shade-card",
+          "productUrl": "https://thefibreco.com/products/andmake-shade-card",
+          "price": 1,
+          "compareAtPrice": 10,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "&Make Super Bulky",
+          "handle": "andmake-super-bulky",
+          "productUrl": "https://thefibreco.com/products/andmake-super-bulky",
+          "price": 8,
+          "compareAtPrice": 16,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "A-line Cardigan Pattern",
+          "handle": "a-line-cardigan-pattern",
+          "productUrl": "https://thefibreco.com/products/a-line-cardigan-pattern",
+          "price": 7,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Acadia",
+          "handle": "acadia",
+          "productUrl": "https://thefibreco.com/products/acadia",
+          "price": 10.5,
+          "compareAtPrice": 17.5,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Aimsir Pattern",
+          "handle": "aimsir-pattern",
+          "productUrl": "https://thefibreco.com/products/aimsir-pattern",
+          "price": 7,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Airglow Shawl Pattern",
+          "handle": "airglow-shawl-pattern",
+          "productUrl": "https://thefibreco.com/products/airglow-shawl-pattern",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "All Stripes Sweater Kit (&Make Aran)",
+          "handle": "all-stripes-sweater-kit-andmake-aran",
+          "productUrl": "https://thefibreco.com/products/all-stripes-sweater-kit-andmake-aran",
+          "price": 0,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Fibre Co.",
+          "productType": "Kit",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Quince & Co.",
+      "website": "https://quinceandco.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "'nduja socks",
+          "handle": "nduja-socks",
+          "productUrl": "https://quinceandco.com/products/nduja-socks",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Mirva Scivola",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "5 shawls",
+          "handle": "5-shawls-knitting-collection",
+          "productUrl": "https://quinceandco.com/products/5-shawls-knitting-collection",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Melanie Berg",
+          "productType": "Collection",
+          "image": null
+        },
+        {
+          "title": "70 yard mitts",
+          "handle": "70-yard-mitts",
+          "productUrl": "https://quinceandco.com/products/70-yard-mitts",
+          "price": 0,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hannah Fettig",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "90-degrees",
+          "handle": "90-degrees",
+          "productUrl": "https://quinceandco.com/products/90-degrees",
+          "price": 5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Katherine Mehls",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "a cat in here pin",
+          "handle": "a-cat-in-here-pin",
+          "productUrl": "https://quinceandco.com/products/a-cat-in-here-pin",
+          "price": 21,
+          "compareAtPrice": 35,
+          "available": true,
+          "vendor": "Lucid Islet",
+          "productType": "Accessories",
+          "image": null
+        },
+        {
+          "title": "a little romance",
+          "handle": "a-little-romance",
+          "productUrl": "https://quinceandco.com/products/a-little-romance",
+          "price": 5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Dani Berg",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "abbey road socks",
+          "handle": "abbey-road-socks",
+          "productUrl": "https://quinceandco.com/products/abbey-road-socks",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ann Budd",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "abigail cardi",
+          "handle": "abigail-cardi",
+          "productUrl": "https://quinceandco.com/products/abigail-cardi",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Cecily Glowik MacDonald",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "abol",
+          "handle": "abol",
+          "productUrl": "https://quinceandco.com/products/abol",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Trin-Annelie",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "abree",
+          "handle": "abree",
+          "productUrl": "https://quinceandco.com/products/abree",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hanna Maciejewska",
+          "productType": "Pattern",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "laine magazine",
+      "website": "https://lainemagazine.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "52 Weeks of Accessories",
+          "handle": "52-weeks-of-accessories",
+          "productUrl": "https://lainemagazine.com/products/52-weeks-of-accessories",
+          "price": 47,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Chunky Knits",
+          "handle": "52-weeks-of-chunky-knits",
+          "productUrl": "https://lainemagazine.com/products/52-weeks-of-chunky-knits",
+          "price": 12,
+          "compareAtPrice": 47,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Easy Knits",
+          "handle": "52-weeks-of-easy-knits",
+          "productUrl": "https://lainemagazine.com/products/52-weeks-of-easy-knits",
+          "price": 44,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Scrap Yarn",
+          "handle": "52-weeks-of-scrap-yarn-projects-for-crafters",
+          "productUrl": "https://lainemagazine.com/products/52-weeks-of-scrap-yarn-projects-for-crafters",
+          "price": 47,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Shawls",
+          "handle": "52-weeks-of-shawls",
+          "productUrl": "https://lainemagazine.com/products/52-weeks-of-shawls",
+          "price": 47,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Socks",
+          "handle": "52-weeks-of-socks",
+          "productUrl": "https://lainemagazine.com/products/52-weeks-of-socks",
+          "price": 47,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Socks, Vol. II",
+          "handle": "52-weeks-of-socks-vol-2",
+          "productUrl": "https://lainemagazine.com/products/52-weeks-of-socks-vol-2",
+          "price": 47,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Sweaters",
+          "handle": "52-weeks-of-sweaters",
+          "productUrl": "https://lainemagazine.com/products/52-weeks-of-sweaters",
+          "price": 47,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "A Little Book of Moon-Inspired Shawls",
+          "handle": "a-little-book-of-moon-inspired-shawls",
+          "productUrl": "https://lainemagazine.com/products/a-little-book-of-moon-inspired-shawls",
+          "price": 23,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "Archipelago Knitting Magazine",
+          "handle": "archipelago-knitting-magazine",
+          "productUrl": "https://lainemagazine.com/products/archipelago-knitting-magazine",
+          "price": 20,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine Publishing",
+          "productType": "Magazines",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Hedgehog Fibres",
+      "website": "https://hedgehogfibres.com",
+      "source": null,
+      "products": []
+    },
+    {
+      "vendorName": "String Theory Colorworks",
+      "website": "https://www.stringtheorycolorworks.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "\"...No, this is Patrick.\" Earrings & Stitch Markers",
+          "handle": "no-this-is-patrick-earrings-stitch-markers",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/no-this-is-patrick-earrings-stitch-markers",
+          "price": 2.5,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "String Theory Colorworks",
+          "productType": "Marker",
+          "image": null
+        },
+        {
+          "title": "\"The hum of bees is the voice of the garden\" Stitch Markers & Earrings",
+          "handle": "the-hum-of-bees-is-the-voice-of-the-garden-stitch-markers-earrings",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/the-hum-of-bees-is-the-voice-of-the-garden-stitch-markers-earrings",
+          "price": 10,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "String Theory Colorworks",
+          "productType": "Marker",
+          "image": null
+        },
+        {
+          "title": "*Custom order for Idamarie*",
+          "handle": "custom-order-for-idamarie",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/custom-order-for-idamarie",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "String Theory Colorworks",
+          "productType": "Custom Order",
+          "image": null
+        },
+        {
+          "title": "*Custom order for Jennifer*",
+          "handle": "custom-order-for-jennifer",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/custom-order-for-jennifer",
+          "price": 52.5,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "String Theory Colorworks",
+          "productType": "Custom Order",
+          "image": null
+        },
+        {
+          "title": "100 Acre Woods Earrings & Stitch Markers",
+          "handle": "piglet-earrings-stitch-markers",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/piglet-earrings-stitch-markers",
+          "price": 5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "String Theory Colorworks",
+          "productType": "Marker",
+          "image": null
+        },
+        {
+          "title": "2000's Internet Nostalgia Earrings & Stitch Markers",
+          "handle": "2000s-internet-nostalgia-earrings-stitch-markers",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/2000s-internet-nostalgia-earrings-stitch-markers",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "String Theory Colorworks",
+          "productType": "Marker",
+          "image": null
+        },
+        {
+          "title": "3d Cactus Earrings & Stitch Markers",
+          "handle": "3d-cactus-earrings-stitch-markers",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/3d-cactus-earrings-stitch-markers",
+          "price": 5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "String Theory Colorworks",
+          "productType": "Marker",
+          "image": null
+        },
+        {
+          "title": "3D Howlite Skull Stitch Marker Set",
+          "handle": "3d-skull-stitch-marker-set",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/3d-skull-stitch-marker-set",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "String Theory Colorworks",
+          "productType": "Marker",
+          "image": null
+        },
+        {
+          "title": "3D printed Notions Box",
+          "handle": "3d-printed-notions-box",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/3d-printed-notions-box",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "String Theory Colorworks",
+          "productType": "Accessory",
+          "image": null
+        },
+        {
+          "title": "3D printed Notions Box--Alicorn",
+          "handle": "3d-printed-notions-box-alicorn",
+          "productUrl": "https://www.stringtheorycolorworks.com/products/3d-printed-notions-box-alicorn",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "String Theory Colorworks",
+          "productType": "Accessory",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "La Bien Aimée",
+      "website": "https://labienaimee.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "\"Field Notes: 20 Textured Knits for Everyday Beauty\" by Olga Putano",
+          "handle": "field-notes-20-textured-knits-for-everyday-beauty-by-olga-putano",
+          "productUrl": "https://labienaimee.com/products/field-notes-20-textured-knits-for-everyday-beauty-by-olga-putano",
+          "price": 36.01,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "La Bien Aimee",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "11 July - Herding Hens Colorwork Socks with Charlotte Stone - Workshop at La Bien Aimée",
+          "handle": "herding-hens-colorwork-socks-with-charlotte-stone-workshop-at-la-bien-aimee",
+          "productUrl": "https://labienaimee.com/products/herding-hens-colorwork-socks-with-charlotte-stone-workshop-at-la-bien-aimee",
+          "price": 150,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "La Bien Aimée",
+          "productType": "Classes & Events",
+          "image": null
+        },
+        {
+          "title": "11 July - Knitting and Photography with Jonna Helin - Workshop at La Bien Aimée",
+          "handle": "knitting-and-photography-with-jonna-helin-workshop-at-la-bien-aimee",
+          "productUrl": "https://labienaimee.com/products/knitting-and-photography-with-jonna-helin-workshop-at-la-bien-aimee",
+          "price": 110,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "La Bien Aimée",
+          "productType": "Classes & Events",
+          "image": null
+        },
+        {
+          "title": "12 July - Itty Bitty Berry Colorwork Sock with Charlotte Stone - Workshop at La Bien Aimée",
+          "handle": "itty-bitty-berry-colorwork-socks-knitting-with-charlotte-stone-workshop-at-la-bien-aimee",
+          "productUrl": "https://labienaimee.com/products/itty-bitty-berry-colorwork-socks-knitting-with-charlotte-stone-workshop-at-la-bien-aimee",
+          "price": 150,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "La Bien Aimée",
+          "productType": "Classes & Events",
+          "image": null
+        },
+        {
+          "title": "12 July - Knitting and Mental Health with Jonna Helin - Lecture at La Bien Aimée",
+          "handle": "knitting-and-mental-health-with-jonna-helin-lecture-at-la-bien-aimee",
+          "productUrl": "https://labienaimee.com/products/knitting-and-mental-health-with-jonna-helin-lecture-at-la-bien-aimee",
+          "price": 60,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "La Bien Aimée",
+          "productType": "Classes & Events",
+          "image": null
+        },
+        {
+          "title": "16 May - Aitor Saraiba: Diary of Stitches & Scraps - Workshop at La Bien Aimée",
+          "handle": "aitor-saraiba-diary-of-stitches-scraps-workshop-at-la-bien-aimee",
+          "productUrl": "https://labienaimee.com/products/aitor-saraiba-diary-of-stitches-scraps-workshop-at-la-bien-aimee",
+          "price": 150,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "La Bien Aimée",
+          "productType": "Classes & Events",
+          "image": null
+        },
+        {
+          "title": "17 May - Aitor Saraiba: Snippet Roll - Workshop at La Bien Aimée",
+          "handle": "aitor-saraiba-snippet-roll-workshop-at-la-bien-aimee",
+          "productUrl": "https://labienaimee.com/products/aitor-saraiba-snippet-roll-workshop-at-la-bien-aimee",
+          "price": 150,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "La Bien Aimée",
+          "productType": "Classes & Events",
+          "image": null
+        },
+        {
+          "title": "4 July - Woven Knitting with Nancy Marchant - Workshop at La Bien Aimée",
+          "handle": "woven-knitting-with-nancy-marchant-workshop-at-la-bien-aimee",
+          "productUrl": "https://labienaimee.com/products/woven-knitting-with-nancy-marchant-workshop-at-la-bien-aimee",
+          "price": 150,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "La Bien Aimée",
+          "productType": "Classes & Events",
+          "image": null
+        },
+        {
+          "title": "4 Skein Fade Bundle - Merino DK",
+          "handle": "4-skein-fade-bundle-merino-dk",
+          "productUrl": "https://labienaimee.com/products/4-skein-fade-bundle-merino-dk",
+          "price": 114,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "La Bien Aimée",
+          "productType": "Yarn bundle",
+          "image": null
+        },
+        {
+          "title": "5 July - Top Down Shawls with Stephen West - Workshop at La Bien Aimée",
+          "handle": "top-down-shawls-with-stephen-west-workshop-at-la-bien-aimee",
+          "productUrl": "https://labienaimee.com/products/top-down-shawls-with-stephen-west-workshop-at-la-bien-aimee",
+          "price": 150,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "La Bien Aimée",
+          "productType": "Classes & Events",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Spincycle Yarns",
+      "website": "https://spincycleyarns.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "13° - Trine",
+          "handle": "13",
+          "productUrl": "https://spincycleyarns.com/products/13",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        },
+        {
+          "title": "14° - Trine",
+          "handle": "14",
+          "productUrl": "https://spincycleyarns.com/products/14",
+          "price": 22,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        },
+        {
+          "title": "29° - Trine",
+          "handle": "29",
+          "productUrl": "https://spincycleyarns.com/products/29",
+          "price": 22,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        },
+        {
+          "title": "33° - Trine",
+          "handle": "33-trine",
+          "productUrl": "https://spincycleyarns.com/products/33-trine",
+          "price": 22,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        },
+        {
+          "title": "41° - Trine",
+          "handle": "41-trine",
+          "productUrl": "https://spincycleyarns.com/products/41-trine",
+          "price": 22,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        },
+        {
+          "title": "45° - Trine",
+          "handle": "45",
+          "productUrl": "https://spincycleyarns.com/products/45",
+          "price": 22,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        },
+        {
+          "title": "69° - Trine",
+          "handle": "69",
+          "productUrl": "https://spincycleyarns.com/products/69",
+          "price": 22,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        },
+        {
+          "title": "76° - Trine",
+          "handle": "76",
+          "productUrl": "https://spincycleyarns.com/products/76",
+          "price": 22,
+          "compareAtPrice": 32,
+          "available": false,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        },
+        {
+          "title": "82° - Trine",
+          "handle": "82",
+          "productUrl": "https://spincycleyarns.com/products/82",
+          "price": 22,
+          "compareAtPrice": 32,
+          "available": false,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        },
+        {
+          "title": "90° - Trine",
+          "handle": "90",
+          "productUrl": "https://spincycleyarns.com/products/90",
+          "price": 22,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Spincycle Yarns",
+          "productType": "trine",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Urth Yarns",
+      "website": "https://urthyarns.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "16 Fingering | BL10",
+          "handle": "16-fingering-bl10",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl10",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "16 Fingering | BL100",
+          "handle": "16-fingering-bl100",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl100",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "16 Fingering | BL20",
+          "handle": "16-fingering-bl20",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl20",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "16 Fingering | BL30",
+          "handle": "16-fingering-bl30",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl30",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "16 Fingering | BL40",
+          "handle": "16-fingering-bl40",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl40",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "16 Fingering | BL50",
+          "handle": "16-fingering-bl50",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl50",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "16 Fingering | BL60",
+          "handle": "16-fingering-bl60",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl60",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "16 Fingering | BL70",
+          "handle": "16-fingering-bl70",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl70",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "16 Fingering | BL80",
+          "handle": "16-fingering-bl80",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl80",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "16 Fingering | BL90",
+          "handle": "16-fingering-bl90",
+          "productUrl": "https://urthyarns.com/products/16-fingering-bl90",
+          "price": 9.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Urth Yarns",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Pom Pom Quarterly",
+      "website": "https://pompommag.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Chapman Wrap Pattern",
+          "handle": "chapman-wrap-pattern",
+          "productUrl": "https://pompommag.com/products/chapman-wrap-pattern",
+          "price": 5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Single Pattern PDF",
+          "image": null
+        },
+        {
+          "title": "Dreamscape Vest by Picky Femme",
+          "handle": "dreamscape-vest-by-picky-femme",
+          "productUrl": "https://pompommag.com/products/dreamscape-vest-by-picky-femme",
+          "price": 8.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Single Pattern PDF",
+          "image": null
+        },
+        {
+          "title": "Embody: A Capsule Collection to Knit & Sew by Jaq Cieslak",
+          "handle": "embody-jacqueline-cieslak",
+          "productUrl": "https://pompommag.com/products/embody-jacqueline-cieslak",
+          "price": 19.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "How to Make a Quilt - Zine PDF",
+          "handle": "how-to-make-a-quilt-zine",
+          "productUrl": "https://pompommag.com/products/how-to-make-a-quilt-zine",
+          "price": 4.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Single Pattern PDF",
+          "image": null
+        },
+        {
+          "title": "Issue 10: Autumn 2014",
+          "handle": "issue-10-autumn-2014",
+          "productUrl": "https://pompommag.com/products/issue-10-autumn-2014",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Pom Pom Quarterly",
+          "image": null
+        },
+        {
+          "title": "Issue 11: Winter 2014",
+          "handle": "issue-11-winter-2014",
+          "productUrl": "https://pompommag.com/products/issue-11-winter-2014",
+          "price": 9.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Pom Pom Quarterly",
+          "image": null
+        },
+        {
+          "title": "Issue 12: Spring 2015",
+          "handle": "issue-12-spring-2015",
+          "productUrl": "https://pompommag.com/products/issue-12-spring-2015",
+          "price": 9.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Pom Pom Quarterly",
+          "image": null
+        },
+        {
+          "title": "Issue 13: Summer 2015",
+          "handle": "issue-13-summer-2015",
+          "productUrl": "https://pompommag.com/products/issue-13-summer-2015",
+          "price": 9.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Pom Pom Quarterly",
+          "image": null
+        },
+        {
+          "title": "Issue 14: Autumn 2015",
+          "handle": "issue-14-autumn-2015",
+          "productUrl": "https://pompommag.com/products/issue-14-autumn-2015",
+          "price": 9.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Pom Pom Quarterly",
+          "image": null
+        },
+        {
+          "title": "Issue 15: Winter 2015",
+          "handle": "issue-15-winter-2015",
+          "productUrl": "https://pompommag.com/products/issue-15-winter-2015",
+          "price": 9.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Pom Pom Publishing",
+          "productType": "Pom Pom Quarterly",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Indigodragonfly",
+      "website": "https://indigodragonfly.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "#wiltylettuce (Special Edition) (R.O.U.Sport)",
+          "handle": "wiltylettuce-special-edition-r-o-u-sport",
+          "productUrl": "https://indigodragonfly.ca/products/wiltylettuce-special-edition-r-o-u-sport",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Indigodragonfly",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "*Pre-orders* Custom Light of the Valkyrie kits - Full Kit",
+          "handle": "copy-of-pre-orders-light-of-the-valkyrie-kits-full-kit",
+          "productUrl": "https://indigodragonfly.ca/products/copy-of-pre-orders-light-of-the-valkyrie-kits-full-kit",
+          "price": 142,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Indigodragonfly",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "2026 Not-So-Mysterious (Bumbletee) KAL Virtual Course  -- Made to Measure Raglan",
+          "handle": "2026-not-so-mysterious-kal-course-made-to-measure-raglan-bumbletee",
+          "productUrl": "https://indigodragonfly.ca/products/2026-not-so-mysterious-kal-course-made-to-measure-raglan-bumbletee",
+          "price": 144,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Indigodragonfly",
+          "productType": "Virtual Class",
+          "image": null
+        },
+        {
+          "title": "2026 Not-So-Mysterious KAL Sweater (Bumbletee) - PDF Pattern",
+          "handle": "2026-not-so-mysterious-kal-sweater-bumbletee-pdf-pattern",
+          "productUrl": "https://indigodragonfly.ca/products/2026-not-so-mysterious-kal-sweater-bumbletee-pdf-pattern",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Kim McBrien Evans",
+          "productType": "Knitting Pattern",
+          "image": null
+        },
+        {
+          "title": "A Bedford In The Hand Is Worth Two In The Bushwick (Special VKL NYC Edition)(CaribouBaa)",
+          "handle": "a-bedford-in-the-hand-is-worth-two-in-the-bushwick-special-vkl-nyc-editioncariboubaa",
+          "productUrl": "https://indigodragonfly.ca/products/a-bedford-in-the-hand-is-worth-two-in-the-bushwick-special-vkl-nyc-editioncariboubaa",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Indigodragonfly",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "A Coney Island Of The Mime (Special VKL NYC Edition)(CaribouBaa)",
+          "handle": "a-coney-island-of-the-mime-special-vkl-nyc-editioncariboubaa",
+          "productUrl": "https://indigodragonfly.ca/products/a-coney-island-of-the-mime-special-vkl-nyc-editioncariboubaa",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Indigodragonfly",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "A Fair Of The Heart (Special Fibre Love Affair Edition) (Magpie Sock)",
+          "handle": "a-fair-of-the-heart-special-fibre-love-affair-edition-magpie-sock",
+          "productUrl": "https://indigodragonfly.ca/products/a-fair-of-the-heart-special-fibre-love-affair-edition-magpie-sock",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Indigodragonfly",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "A Mondrian Kind Of Sunrise (Special Edition) (Magpie Sock)",
+          "handle": "a-mondrian-kind-of-sunrise-special-edition-magpie-sock",
+          "productUrl": "https://indigodragonfly.ca/products/a-mondrian-kind-of-sunrise-special-edition-magpie-sock",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Indigodragonfly",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "A Sense of Space Ebook",
+          "handle": "a-sense-of-space-ebook",
+          "productUrl": "https://indigodragonfly.ca/products/a-sense-of-space-ebook",
+          "price": 19,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Kim McBrien Evans",
+          "productType": "Knitting Pattern",
+          "image": null
+        },
+        {
+          "title": "A Smile At The Speed Of Laughter (Dyed to Order)",
+          "handle": "a-smile-at-the-speed-of-laughter-dyed-to-order",
+          "productUrl": "https://indigodragonfly.ca/products/a-smile-at-the-speed-of-laughter-dyed-to-order",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Indigodragonfly",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Addiction Yarns",
+      "website": "https://www.addictionyarns.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Abelia Cardi Crochet Kit",
+          "handle": "abelia-cardi-crochet-kit",
+          "productUrl": "https://www.addictionyarns.com/products/abelia-cardi-crochet-kit",
+          "price": 110,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Angora",
+          "handle": "angora",
+          "productUrl": "https://www.addictionyarns.com/products/angora",
+          "price": 18.7,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bamboo cotton mix sport",
+          "handle": "bamboo-cotton-mix-sport",
+          "productUrl": "https://www.addictionyarns.com/products/bamboo-cotton-mix-sport",
+          "price": 16.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bamboo silk sock - Narnia collection",
+          "handle": "bamboo-silk-sock-narnia-collection",
+          "productUrl": "https://www.addictionyarns.com/products/bamboo-silk-sock-narnia-collection",
+          "price": 60.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Boucle",
+          "handle": "boucle",
+          "productUrl": "https://www.addictionyarns.com/products/boucle",
+          "price": 26.4,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Brillance",
+          "handle": "brillance",
+          "productUrl": "https://www.addictionyarns.com/products/brillance",
+          "price": 24.2,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Brillance Aran",
+          "handle": "merino-tencel-aran",
+          "productUrl": "https://www.addictionyarns.com/products/merino-tencel-aran",
+          "price": 27.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Cloud Cotton",
+          "handle": "cloud-cotton",
+          "productUrl": "https://www.addictionyarns.com/products/cloud-cotton",
+          "price": 16.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Cocoon DK",
+          "handle": "cocoon-dk",
+          "productUrl": "https://www.addictionyarns.com/products/cocoon-dk",
+          "price": 28.6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Confetti Cloud",
+          "handle": "confetti-cloud",
+          "productUrl": "https://www.addictionyarns.com/products/confetti-cloud",
+          "price": 30.8,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addiction yarns ",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Alley Cat Yarns",
+      "website": "https://alleycatyarns.ca/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "80g Ontario Sock: Cool Grey",
+          "handle": "ontario-sock-cool-grey",
+          "productUrl": "https://alleycatyarns.ca/products/ontario-sock-cool-grey",
+          "price": 20.62,
+          "compareAtPrice": 27.98,
+          "available": false,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "80g Ontario Sock: Coral",
+          "handle": "ontario-sock-coral",
+          "productUrl": "https://alleycatyarns.ca/products/ontario-sock-coral",
+          "price": 20.62,
+          "compareAtPrice": 27.98,
+          "available": false,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "80g Ontario Sock: Dove Grey",
+          "handle": "ontario-sock-dove-grey",
+          "productUrl": "https://alleycatyarns.ca/products/ontario-sock-dove-grey",
+          "price": 20.62,
+          "compareAtPrice": 27.98,
+          "available": false,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "80g Ontario Sock: Kribble",
+          "handle": "ontario-sock-kribble",
+          "productUrl": "https://alleycatyarns.ca/products/ontario-sock-kribble",
+          "price": 20.62,
+          "compareAtPrice": 27.98,
+          "available": false,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "80g Ontario Sock: Light Wash",
+          "handle": "ontario-sock-light-wash",
+          "productUrl": "https://alleycatyarns.ca/products/ontario-sock-light-wash",
+          "price": 20.62,
+          "compareAtPrice": 27.98,
+          "available": false,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "80g Ontario Sock: Merlot",
+          "handle": "ontario-sock-merlot",
+          "productUrl": "https://alleycatyarns.ca/products/ontario-sock-merlot",
+          "price": 20.62,
+          "compareAtPrice": 27.98,
+          "available": false,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "80g Ontario Sock: Natural",
+          "handle": "80g-ontario-sock-natural",
+          "productUrl": "https://alleycatyarns.ca/products/80g-ontario-sock-natural",
+          "price": 20.62,
+          "compareAtPrice": 27.98,
+          "available": false,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Alley Cat Yarns Gift Card",
+          "handle": "alley-cat-yarns-gift-card",
+          "productUrl": "https://alleycatyarns.ca/products/alley-cat-yarns-gift-card",
+          "price": 7.36,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "BFL Alpaca Sport: Amber Gold",
+          "handle": "bfl-alpaca-sport-amber-gold",
+          "productUrl": "https://alleycatyarns.ca/products/bfl-alpaca-sport-amber-gold",
+          "price": 30.93,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "BFL Alpaca Sport: Aruba",
+          "handle": "bfl-alpaca-sport-aruba",
+          "productUrl": "https://alleycatyarns.ca/products/bfl-alpaca-sport-aruba",
+          "price": 30.93,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Alley Cat Yarns",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Amaranth Fibres",
+      "website": "https://amaranthfibres.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "4-Skein Bundle",
+          "handle": "geogradient-mkal-4-skein-bundle",
+          "productUrl": "https://amaranthfibres.com/products/geogradient-mkal-4-skein-bundle",
+          "price": 96,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "5-Skein Bundle",
+          "handle": "5-skein-bundle",
+          "productUrl": "https://amaranthfibres.com/products/5-skein-bundle",
+          "price": 118,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bambino",
+          "handle": "hand-dyed-braids-bambino-1",
+          "productUrl": "https://amaranthfibres.com/products/hand-dyed-braids-bambino-1",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bambootiful",
+          "handle": "bambootiful",
+          "productUrl": "https://amaranthfibres.com/products/bambootiful",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Blended Top",
+          "handle": "blended-top",
+          "productUrl": "https://amaranthfibres.com/products/blended-top",
+          "price": 18,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Blended Top: Aurora Borealis",
+          "handle": "blended-top-aurora-borealis",
+          "productUrl": "https://amaranthfibres.com/products/blended-top-aurora-borealis",
+          "price": 23,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Blended Top: Calico",
+          "handle": "blended-top-calico",
+          "productUrl": "https://amaranthfibres.com/products/blended-top-calico",
+          "price": 21,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Blended Top: Cherry",
+          "handle": "blended-top-sea-nymph-copy",
+          "productUrl": "https://amaranthfibres.com/products/blended-top-sea-nymph-copy",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Blended Top: Dragon Wings",
+          "handle": "blended-top-cherry-copy",
+          "productUrl": "https://amaranthfibres.com/products/blended-top-cherry-copy",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Blended Top: Dreamhouse",
+          "handle": "dreamhouse-blended-top-1",
+          "productUrl": "https://amaranthfibres.com/products/dreamhouse-blended-top-1",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Amaranth Fibres",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Ancient Arts",
+      "website": "https://ancientartsfibre.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "\"Why Are Flamingos Pink?\" Yarn Kits",
+          "handle": "why-are-flamingos-pink-yarn-kit",
+          "productUrl": "https://ancientartsfibre.com/products/why-are-flamingos-pink-yarn-kit",
+          "price": 50,
+          "compareAtPrice": 50,
+          "available": true,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Kits",
+          "image": null
+        },
+        {
+          "title": "'Bee Balm' Summer Road Trip Shawl Kit",
+          "handle": "bee-balm-summer-road-trip-shawl-kit",
+          "productUrl": "https://ancientartsfibre.com/products/bee-balm-summer-road-trip-shawl-kit",
+          "price": 45.9,
+          "compareAtPrice": 43,
+          "available": true,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Kits",
+          "image": null
+        },
+        {
+          "title": "2000's Goth Child - Little Nettle Soft Fingering - Dyed Stock",
+          "handle": "2000s-goth-child-little-nettle-soft-fingering-dyed-stock",
+          "productUrl": "https://ancientartsfibre.com/products/2000s-goth-child-little-nettle-soft-fingering-dyed-stock",
+          "price": 34,
+          "compareAtPrice": 34,
+          "available": false,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Yarn In Stock",
+          "image": null
+        },
+        {
+          "title": "2000's Goth Child - Merino DK / Light Worsted - Dyed Stock",
+          "handle": "2000s-goth-child-merino-dk-light-worsted-dyed-stock",
+          "productUrl": "https://ancientartsfibre.com/products/2000s-goth-child-merino-dk-light-worsted-dyed-stock",
+          "price": 32,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Yarn In Stock",
+          "image": null
+        },
+        {
+          "title": "2000's Goth Child - Nettle Soft DK - Dyed Stock",
+          "handle": "2000s-goth-child-nettle-soft-dk-dyed-stock",
+          "productUrl": "https://ancientartsfibre.com/products/2000s-goth-child-nettle-soft-dk-dyed-stock",
+          "price": 32,
+          "compareAtPrice": 32,
+          "available": false,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Yarn In Stock",
+          "image": null
+        },
+        {
+          "title": "2000's Goth Child - Revival Worsted - Dyed Stock",
+          "handle": "2000s-goth-child-revival-worsted-dyed-stock",
+          "productUrl": "https://ancientartsfibre.com/products/2000s-goth-child-revival-worsted-dyed-stock",
+          "price": 32,
+          "compareAtPrice": 32,
+          "available": false,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Yarn In Stock",
+          "image": null
+        },
+        {
+          "title": "2000's Goth Child - Socknado Fingering - Dyed Stock",
+          "handle": "2000s-goth-child-socknado-fingering-dyed-stock",
+          "productUrl": "https://ancientartsfibre.com/products/2000s-goth-child-socknado-fingering-dyed-stock",
+          "price": 32,
+          "compareAtPrice": 32,
+          "available": false,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Yarn In Stock",
+          "image": null
+        },
+        {
+          "title": "2000's Goth Child - Socknado Mini Twister 20 Gram - Dyed Stock",
+          "handle": "2000s-goth-child-socknado-mini-twister-20-gram-dyed-stock",
+          "productUrl": "https://ancientartsfibre.com/products/2000s-goth-child-socknado-mini-twister-20-gram-dyed-stock",
+          "price": 9,
+          "compareAtPrice": 9,
+          "available": false,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Yarn In Stock",
+          "image": null
+        },
+        {
+          "title": "2000's Goth Child in DK Weight",
+          "handle": "2000s-goth-child-in-dk-weight",
+          "productUrl": "https://ancientartsfibre.com/products/2000s-goth-child-in-dk-weight",
+          "price": 32,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "2000's Goth Child in Fingering / Sock Weight",
+          "handle": "2000s-goth-child-in-fingering-sock-weight",
+          "productUrl": "https://ancientartsfibre.com/products/2000s-goth-child-in-fingering-sock-weight",
+          "price": 32,
+          "compareAtPrice": 32,
+          "available": true,
+          "vendor": "Ancient Arts Yarns",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Artfil",
+      "website": "https://artfil.ca/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Belle - Adrenaline",
+          "handle": "belle-adrenaline",
+          "productUrl": "https://artfil.ca/products/belle-adrenaline",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        },
+        {
+          "title": "Belle - Algea",
+          "handle": "belle-algea",
+          "productUrl": "https://artfil.ca/products/belle-algea",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        },
+        {
+          "title": "Belle - Anchor",
+          "handle": "belle-anchor",
+          "productUrl": "https://artfil.ca/products/belle-anchor",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        },
+        {
+          "title": "Belle - Anise",
+          "handle": "belle-anise",
+          "productUrl": "https://artfil.ca/products/belle-anise",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        },
+        {
+          "title": "Belle - Antique Gold",
+          "handle": "belle-antique-gold",
+          "productUrl": "https://artfil.ca/products/belle-antique-gold",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        },
+        {
+          "title": "Belle - Antwerp",
+          "handle": "belle-antwerp",
+          "productUrl": "https://artfil.ca/products/belle-antwerp",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        },
+        {
+          "title": "Belle - Apple",
+          "handle": "belle-apple",
+          "productUrl": "https://artfil.ca/products/belle-apple",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        },
+        {
+          "title": "Belle - Aqua",
+          "handle": "belle-aqua",
+          "productUrl": "https://artfil.ca/products/belle-aqua",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        },
+        {
+          "title": "Belle - Aquamarine",
+          "handle": "belle-aquamarine",
+          "productUrl": "https://artfil.ca/products/belle-aquamarine",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        },
+        {
+          "title": "Belle - Arctic",
+          "handle": "belle-arctic",
+          "productUrl": "https://artfil.ca/products/belle-arctic",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Artfil",
+          "productType": "Belle",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Atelier Perluette",
+      "website": "https://www.atelierperluette.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Cables par Bill King",
+          "handle": "cables",
+          "productUrl": "https://www.atelierperluette.com/products/cables",
+          "price": 28.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "PERLUETTE",
+          "productType": "livres",
+          "image": null
+        },
+        {
+          "title": "Carte-cadeau",
+          "handle": "carte-cadeau-perluette",
+          "productUrl": "https://www.atelierperluette.com/products/carte-cadeau-perluette",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "PERLUETTE",
+          "productType": "Cartes-cadeaux",
+          "image": null
+        },
+        {
+          "title": "Chaussettes Correspondance",
+          "handle": "chaussettes-correspondance",
+          "productUrl": "https://www.atelierperluette.com/products/chaussettes-correspondance",
+          "price": 80,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Atelier Perluette",
+          "productType": "Chaussettes",
+          "image": null
+        },
+        {
+          "title": "Corde de chanvre",
+          "handle": "corde-de-chanvre",
+          "productUrl": "https://www.atelierperluette.com/products/corde-de-chanvre",
+          "price": 8.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "PERLUETTE",
+          "productType": "Fil",
+          "image": null
+        },
+        {
+          "title": "Correspondance | 24g Sable",
+          "handle": "correspondance-terracotta",
+          "productUrl": "https://www.atelierperluette.com/products/correspondance-terracotta",
+          "price": 5.45,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "PERLUETTE",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Correspondance | 90g Gravier",
+          "handle": "correspondance-gravier",
+          "productUrl": "https://www.atelierperluette.com/products/correspondance-gravier",
+          "price": 17.5,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "PERLUETTE",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Coton + Chanvre",
+          "handle": "fil-coton-chanvre",
+          "productUrl": "https://www.atelierperluette.com/products/fil-coton-chanvre",
+          "price": 11.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "PERLUETTE",
+          "productType": "Fil",
+          "image": null
+        },
+        {
+          "title": "Du bout des doigts",
+          "handle": "gants-tactiles",
+          "productUrl": "https://www.atelierperluette.com/products/gants-tactiles",
+          "price": 120,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "PERLUETTE",
+          "productType": "Gants et moufles",
+          "image": null
+        },
+        {
+          "title": "Envol | 60g",
+          "handle": "envol-poids-plume",
+          "productUrl": "https://www.atelierperluette.com/products/envol-poids-plume",
+          "price": 13,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "PERLUETTE",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Envol | 90g",
+          "handle": "copie-de-envol-poids-plume",
+          "productUrl": "https://www.atelierperluette.com/products/copie-de-envol-poids-plume",
+          "price": 20.25,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "PERLUETTE",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Bar A Tricot",
+      "website": "https://baratricot.com/en/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "BAR A TRICOT - CORDSMITH",
+          "handle": "bar-a-tricot-cordsmith",
+          "productUrl": "https://baratricot.com/en/products/bar-a-tricot-cordsmith",
+          "price": 30,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Bar à Tricot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "BERRY BLOSSOM",
+          "handle": "berry-blossom",
+          "productUrl": "https://baratricot.com/en/products/berry-blossom",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bar à Tricot",
+          "productType": "PATRONS",
+          "image": null
+        },
+        {
+          "title": "Bobinage",
+          "handle": "bobinage-1",
+          "productUrl": "https://baratricot.com/en/products/bobinage-1",
+          "price": 4,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bar à Tricot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Brandy Boucle Kit",
+          "handle": "brandy-boucle-kit",
+          "productUrl": "https://baratricot.com/en/products/brandy-boucle-kit",
+          "price": 58,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bar à Tricot",
+          "productType": "BRANDY WORSTED",
+          "image": null
+        },
+        {
+          "title": "Brandy Worsted Mini",
+          "handle": "brandy-worsted-mini",
+          "productUrl": "https://baratricot.com/en/products/brandy-worsted-mini",
+          "price": 14,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bar à Tricot",
+          "productType": "BRANDY WORSTED",
+          "image": null
+        },
+        {
+          "title": "C  - Amazoni",
+          "handle": "c-amazoni",
+          "productUrl": "https://baratricot.com/en/products/c-amazoni",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bar à Tricot",
+          "productType": "COGNAC",
+          "image": null
+        },
+        {
+          "title": "C - Berry Blossom KIT",
+          "handle": "c-must-have-rhubarb-kit",
+          "productUrl": "https://baratricot.com/en/products/c-must-have-rhubarb-kit",
+          "price": 84,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Bar à Tricot",
+          "productType": "COGNAC",
+          "image": null
+        },
+        {
+          "title": "C - Blood & Ink",
+          "handle": "c-blood-ink-1",
+          "productUrl": "https://baratricot.com/en/products/c-blood-ink-1",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Bar à Tricot",
+          "productType": "COGNAC",
+          "image": null
+        },
+        {
+          "title": "C - Blue Lady",
+          "handle": "c-blue-lady",
+          "productUrl": "https://baratricot.com/en/products/c-blue-lady",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bar à Tricot",
+          "productType": "COGNAC",
+          "image": null
+        },
+        {
+          "title": "C  - Blue Wave",
+          "handle": "c-blue-wave",
+          "productUrl": "https://baratricot.com/en/products/c-blue-wave",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bar à Tricot",
+          "productType": "COGNAC",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Big Blue Moma 1",
+      "website": "https://www.bigbluemoma.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Bicycle Basket - Natural Palette (no lid)",
+          "handle": "bicycle-basket-natural-palette-no-lid",
+          "productUrl": "https://www.bigbluemoma.com/products/bicycle-basket-natural-palette-no-lid",
+          "price": 76,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Big Blue Moma",
+          "productType": "Wholesale Basket",
+          "image": null
+        },
+        {
+          "title": "Bicycle Basket - Variety of Colour (no lid)",
+          "handle": "bicycle-basket-no-lid-000-retail",
+          "productUrl": "https://www.bigbluemoma.com/products/bicycle-basket-no-lid-000-retail",
+          "price": 76,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Big Blue Moma",
+          "productType": "Wholesale Basket",
+          "image": null
+        },
+        {
+          "title": "Bolga Pet Basket Bed – Handwoven Ghana Cat & Dog Bed - Bold Zig Zags",
+          "handle": "dog-bed-medium-bold-zig-zags",
+          "productUrl": "https://www.bigbluemoma.com/products/dog-bed-medium-bold-zig-zags",
+          "price": 147,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Big Blue Moma",
+          "productType": "Dog Bed",
+          "image": null
+        },
+        {
+          "title": "Bolga Pet Basket Bed – Handwoven Ghana Cat & Dog Bed - Centre Dark Hourglass",
+          "handle": "dog-bed-medium-centre-dark-triangle",
+          "productUrl": "https://www.bigbluemoma.com/products/dog-bed-medium-centre-dark-triangle",
+          "price": 153,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Big Blue Moma",
+          "productType": "Dog Bed",
+          "image": null
+        },
+        {
+          "title": "Bolga Pet Basket Bed – Handwoven Ghana Cat & Dog Bed - Centre Dark Hourglass",
+          "handle": "dog-bed-large-bold-dark-diamonds-copy",
+          "productUrl": "https://www.bigbluemoma.com/products/dog-bed-large-bold-dark-diamonds-copy",
+          "price": 155,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Big Blue Moma",
+          "productType": "Dog Bed",
+          "image": null
+        },
+        {
+          "title": "Bolga Pet Basket Bed – Handwoven Ghana Cat & Dog Bed - Centre Dark Hourglass",
+          "handle": "dog-bed-small-bold-triangle-stripe",
+          "productUrl": "https://www.bigbluemoma.com/products/dog-bed-small-bold-triangle-stripe",
+          "price": 147,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Big Blue Moma",
+          "productType": "Dog Bed",
+          "image": null
+        },
+        {
+          "title": "Bolga Pet Basket Bed – Handwoven Ghana Cat & Dog Bed - Centred Pin Stripe Diamond",
+          "handle": "dog-bed-medium-centre-diamond-1",
+          "productUrl": "https://www.bigbluemoma.com/products/dog-bed-medium-centre-diamond-1",
+          "price": 151,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Big Blue Moma",
+          "productType": "Dog Bed",
+          "image": null
+        },
+        {
+          "title": "Bolga Pet Basket Bed – Handwoven Ghana Cat & Dog Bed - Centred Pin Stripe Diamond",
+          "handle": "pet-bed-large-centred-pin-stripe-diamond",
+          "productUrl": "https://www.bigbluemoma.com/products/pet-bed-large-centred-pin-stripe-diamond",
+          "price": 151,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Big Blue Moma",
+          "productType": "Dog Bed",
+          "image": null
+        },
+        {
+          "title": "Bolga Pet Basket Bed – Handwoven Ghana Cat & Dog Bed - Checkered Hourglass",
+          "handle": "dog-bed-large-triangle-hourglass",
+          "productUrl": "https://www.bigbluemoma.com/products/dog-bed-large-triangle-hourglass",
+          "price": 153,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Big Blue Moma",
+          "productType": "Dog Bed",
+          "image": null
+        },
+        {
+          "title": "Bolga Pet Basket Bed – Handwoven Ghana Cat & Dog Bed - Checkered Hourglass",
+          "handle": "dog-bed-small-1",
+          "productUrl": "https://www.bigbluemoma.com/products/dog-bed-small-1",
+          "price": 147,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Big Blue Moma",
+          "productType": "Dog Bed",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Biscotte 1",
+      "website": "https://www.biscotteyarns.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "\" Le Grincheux\" KNITTING KIT",
+          "handle": "le-grincheux-knitting-kit",
+          "productUrl": "https://www.biscotteyarns.ca/products/le-grincheux-knitting-kit",
+          "price": 48,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Biscotte Yarns",
+          "productType": "knitting patterns & kits",
+          "image": null
+        },
+        {
+          "title": "\"Western\" Cowgirl Accessory Pouch",
+          "handle": "western-cowgirl-accessory-pouch",
+          "productUrl": "https://www.biscotteyarns.ca/products/western-cowgirl-accessory-pouch",
+          "price": 39.9,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Atenti",
+          "productType": "Knitting accessories",
+          "image": null
+        },
+        {
+          "title": "#430 Berroco Spree",
+          "handle": "430-berroco-spree",
+          "productUrl": "https://www.biscotteyarns.ca/products/430-berroco-spree",
+          "price": 12.95,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Berroco",
+          "productType": "Books and magazines",
+          "image": null
+        },
+        {
+          "title": "#431 Berroco Pima Soft 🐦",
+          "handle": "431-berroco-pima-soft",
+          "productUrl": "https://www.biscotteyarns.ca/products/431-berroco-pima-soft",
+          "price": 12.95,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Berroco",
+          "productType": "Books and magazines",
+          "image": null
+        },
+        {
+          "title": "#447 BERROCO CAROUSEL 🐦",
+          "handle": "447-berroco-carousel",
+          "productUrl": "https://www.biscotteyarns.ca/products/447-berroco-carousel",
+          "price": 12.95,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Berroco",
+          "productType": "Books and magazines",
+          "image": null
+        },
+        {
+          "title": "(Small) triangular stitch markers from Clover",
+          "handle": "marqueurs-de-mailles-triangle-petit-clover",
+          "productUrl": "https://www.biscotteyarns.ca/products/marqueurs-de-mailles-triangle-petit-clover",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Clover",
+          "productType": "Knitting accessories",
+          "image": null
+        },
+        {
+          "title": "100% Merino - Katia",
+          "handle": "merino-100-katia",
+          "productUrl": "https://www.biscotteyarns.ca/products/merino-100-katia",
+          "price": 10.95,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Katia",
+          "productType": "Commercial yarns",
+          "image": null
+        },
+        {
+          "title": "1000 Japanese Knitting & Crochet Stitches",
+          "handle": "1000-japanese-knitting-crochet-stitches",
+          "productUrl": "https://www.biscotteyarns.ca/products/1000-japanese-knitting-crochet-stitches",
+          "price": 29.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ingram",
+          "productType": "Books and magazines",
+          "image": null
+        },
+        {
+          "title": "2025 Calendar Katrinn Pelletier (French only)",
+          "handle": "calendrier-2025-katrinn-pelletier-french-only",
+          "productUrl": "https://www.biscotteyarns.ca/products/calendrier-2025-katrinn-pelletier-french-only",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Katrinn Pelletier",
+          "productType": "Knitting accessories",
+          "image": null
+        },
+        {
+          "title": "24-carat gold-plated scissors - Lykke",
+          "handle": "24-carat-gold-plated-scissors-lykke",
+          "productUrl": "https://www.biscotteyarns.ca/products/24-carat-gold-plated-scissors-lykke",
+          "price": 24.99,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "LYKKE",
+          "productType": "Knitting accessories",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "TOGETHER COLOUR 2020",
+      "website": "https://shop.thebluebrick.ca/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "24 Birds Circular Shawl",
+          "handle": "24-birds-circular-shawl",
+          "productUrl": "https://shop.thebluebrick.ca/products/24-birds-circular-shawl",
+          "price": 232,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Blue Brick | Inspired Works",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Alba",
+          "handle": "alba",
+          "productUrl": "https://shop.thebluebrick.ca/products/alba",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Blue Brick | Inspired Works",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Alba - Accessories",
+          "handle": "alba-accessories",
+          "productUrl": "https://shop.thebluebrick.ca/products/alba-accessories",
+          "price": 44,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Blue Brick | Inspired Works",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Alba - Extensions",
+          "handle": "alba-extensions",
+          "productUrl": "https://shop.thebluebrick.ca/products/alba-extensions",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Blue Brick | Inspired Works",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Alba - Sweaters",
+          "handle": "alba-sweaters",
+          "productUrl": "https://shop.thebluebrick.ca/products/alba-sweaters",
+          "price": 114,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Blue Brick | Inspired Works",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Arya",
+          "handle": "arya-free-pattern",
+          "productUrl": "https://shop.thebluebrick.ca/products/arya-free-pattern",
+          "price": 4,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "TheBlueBrick",
+          "productType": "Knitting Pattern",
+          "image": null
+        },
+        {
+          "title": "Ash",
+          "handle": "ash",
+          "productUrl": "https://shop.thebluebrick.ca/products/ash",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Blue Brick | Inspired Works",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ash",
+          "handle": "ash-1",
+          "productUrl": "https://shop.thebluebrick.ca/products/ash-1",
+          "price": 0,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Blue Brick | Inspired Works",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Aster",
+          "handle": "aster-2",
+          "productUrl": "https://shop.thebluebrick.ca/products/aster-2",
+          "price": 0,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Blue Brick | Inspired Works",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Aurora Pre-2025",
+          "handle": "aurora-pre-2025",
+          "productUrl": "https://shop.thebluebrick.ca/products/aurora-pre-2025",
+          "price": 0,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Blue Brick | Inspired Works",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Brine Dyeworks",
+      "website": "https://brinedyeworks.ca/",
+      "source": null,
+      "products": []
+    },
+    {
+      "vendorName": "BTL Logo 2024 Colour",
+      "website": "https://bythelakeside.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Carry-all Leather Bag",
+          "handle": "carryall-leather-tote-bag-ready-to-ship",
+          "productUrl": "https://bythelakeside.com/products/carryall-leather-tote-bag-ready-to-ship",
+          "price": 218,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "Leather Tote Bag",
+          "image": null
+        },
+        {
+          "title": "Cognac Leather Journal | A4 size",
+          "handle": "cognac-leather-journal-a4-size",
+          "productUrl": "https://bythelakeside.com/products/cognac-leather-journal-a4-size",
+          "price": 85,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "Leather Journal",
+          "image": null
+        },
+        {
+          "title": "Cognac Leather Journal | Regular/Standard Size",
+          "handle": "leather-journal",
+          "productUrl": "https://bythelakeside.com/products/leather-journal",
+          "price": 63,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "Leather Journal",
+          "image": null
+        },
+        {
+          "title": "Everything Leather Tote Bag- READY TO SHIP",
+          "handle": "everything-leather-tote-bag-ready-to-ship",
+          "productUrl": "https://bythelakeside.com/products/everything-leather-tote-bag-ready-to-ship",
+          "price": 247,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "Leather Tote Bag",
+          "image": null
+        },
+        {
+          "title": "Imperial Scissors - Dragon & Phoenix",
+          "handle": "imperial-scissors-dragon-phoenix",
+          "productUrl": "https://bythelakeside.com/products/imperial-scissors-dragon-phoenix",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "notions",
+          "image": null
+        },
+        {
+          "title": "Large Signature Project Bag- Chevron Denim",
+          "handle": "large-signature-project-bag-chevron-denim",
+          "productUrl": "https://bythelakeside.com/products/large-signature-project-bag-chevron-denim",
+          "price": 55,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "Project Bags",
+          "image": null
+        },
+        {
+          "title": "Leather Bunny Bag",
+          "handle": "leather-bunny-bag",
+          "productUrl": "https://bythelakeside.com/products/leather-bunny-bag",
+          "price": 96,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "Leather Pouch",
+          "image": null
+        },
+        {
+          "title": "Leather Medium Zip Pouch with wristlet strap",
+          "handle": "leather-medium-zip-pouch-with-wristlet-strap",
+          "productUrl": "https://bythelakeside.com/products/leather-medium-zip-pouch-with-wristlet-strap",
+          "price": 48,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "Leather Pouch",
+          "image": null
+        },
+        {
+          "title": "Leather Mini Pouch/Stitch Marker Case",
+          "handle": "gratitude-sale-leather-mini-triangle-pouch-copy",
+          "productUrl": "https://bythelakeside.com/products/gratitude-sale-leather-mini-triangle-pouch-copy",
+          "price": 18,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "Leather Notions",
+          "image": null
+        },
+        {
+          "title": "Leather Scissors Sheath",
+          "handle": "leather-scissors-sheath-english-tan",
+          "productUrl": "https://bythelakeside.com/products/leather-scissors-sheath-english-tan",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "by the lakeside",
+          "productType": "Leather Notions",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "the Cozy Knitter",
+      "website": "https://www.thecozyknitter.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "2018 ADVENT | 24-stripe skein",
+          "handle": "2018-advent-24-stripe-skein",
+          "productUrl": "https://www.thecozyknitter.com/products/2018-advent-24-stripe-skein",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Cozy Knitter",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "2019 ADVENT | 24-stripe skein",
+          "handle": "2019-advent-24-stripe-skein",
+          "productUrl": "https://www.thecozyknitter.com/products/2019-advent-24-stripe-skein",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Cozy Knitter",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "2020 ADVENT | 24-stripe skein",
+          "handle": "2020-advent-24-stripe-skein",
+          "productUrl": "https://www.thecozyknitter.com/products/2020-advent-24-stripe-skein",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Cozy Knitter",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "2021 ADVENT | 24-stripe skein",
+          "handle": "2021-advent-24-stripe-skein",
+          "productUrl": "https://www.thecozyknitter.com/products/2021-advent-24-stripe-skein",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Cozy Knitter",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "2022 ADVENT | 24-stripe skein",
+          "handle": "2022-advent-24-stripe-skein",
+          "productUrl": "https://www.thecozyknitter.com/products/2022-advent-24-stripe-skein",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Cozy Knitter",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "2023 ADVENT | 24-stripe skein",
+          "handle": "2023-advent-24-stripe-skein",
+          "productUrl": "https://www.thecozyknitter.com/products/2023-advent-24-stripe-skein",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Cozy Knitter",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "2024 ADVENT | 24-stripe skein",
+          "handle": "2024-advent-24-stripe-skein",
+          "productUrl": "https://www.thecozyknitter.com/products/2024-advent-24-stripe-skein",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Cozy Knitter",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "2025 ADVENT | 24-stripe skein",
+          "handle": "2025-advent-24-stripe-skein",
+          "productUrl": "https://www.thecozyknitter.com/products/2025-advent-24-stripe-skein",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Cozy Knitter",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "2026 ADVENT | 24-stripe skein",
+          "handle": "2026-advent-24-stripe-skein",
+          "productUrl": "https://www.thecozyknitter.com/products/2026-advent-24-stripe-skein",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Cozy Knitter",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "A BEAUTIFUL MESS",
+          "handle": "a-beautiful-mess-bliss",
+          "productUrl": "https://www.thecozyknitter.com/products/a-beautiful-mess-bliss",
+          "price": 40,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Cozy Knitter",
+          "productType": "Self-striping",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Crazy About Yarn",
+      "website": "https://www.crazyaboutyarn.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Alexandrite | Merino/Stellina Blend | Semi Solid | Ready to ship",
+          "handle": "alexandrite-stellina-blend-semi-solid-ready-to-ship",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/alexandrite-stellina-blend-semi-solid-ready-to-ship",
+          "price": 24.3,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Alice",
+          "handle": "copy-of-alice",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/copy-of-alice",
+          "price": 22.09,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Amun-Ra (Egyptian God)",
+          "handle": "horus-egyptian-god-copy",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/horus-egyptian-god-copy",
+          "price": 25.77,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Antennae Galaxy",
+          "handle": "antennae-galaxy",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/antennae-galaxy",
+          "price": 24.3,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Anubis (Egyptian God)",
+          "handle": "tyr-norse-god-copy",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/tyr-norse-god-copy",
+          "price": 25.77,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Ares (Greek God)",
+          "handle": "ares-greek-god",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/ares-greek-god",
+          "price": 29.45,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Autumn Walk | Merino/Cashmere Blend | Gradient Fade | Ready to ship",
+          "handle": "copy-of-fairy-bright-merino-cashmere-blend-gradient-fade-ready-to-ship",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/copy-of-fairy-bright-merino-cashmere-blend-gradient-fade-ready-to-ship",
+          "price": 28.72,
+          "compareAtPrice": 21.54,
+          "available": true,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Autumn | Merino SW DK | Semi Solid | Ready to ship",
+          "handle": "autumn-merino-sw-dk-semi-solid-ready-to-ship",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/autumn-merino-sw-dk-semi-solid-ready-to-ship",
+          "price": 23.56,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Avocado",
+          "handle": "avocado",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/avocado",
+          "price": 40.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Berry Crush",
+          "handle": "berry-crush",
+          "productUrl": "https://www.crazyaboutyarn.ca/products/berry-crush",
+          "price": 22.09,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Crazy About Yarn",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Feisty Fibres",
+      "website": "https://feistyfibres.com",
+      "source": null,
+      "products": []
+    },
+    {
+      "vendorName": "Ferme Fiola Farm",
+      "website": "https://www.fermefiolafarm.ca/",
+      "source": null,
+      "products": []
+    },
+    {
+      "vendorName": "Fibre Goddess",
+      "website": "https://www.fibregoddess.ca",
+      "source": null,
+      "products": []
+    },
+    {
+      "vendorName": "Fibres Filantes",
+      "website": "https://fibresfilantes.ca/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "70% Bluefaced Leister, 30% Alpaca Batt",
+          "handle": "70-bluefaced-leister-30-alpaga-batt",
+          "productUrl": "https://fibresfilantes.ca/products/70-bluefaced-leister-30-alpaga-batt",
+          "price": 35,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Fibres Filantes",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "75% Bluefaced Leicester, 25% Kid Mohair Batt",
+          "handle": "75-bluefaced-leicester-25-kid-mohair-batt",
+          "productUrl": "https://fibresfilantes.ca/products/75-bluefaced-leicester-25-kid-mohair-batt",
+          "price": 30,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Fibres Filantes",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ashford - Bobbins",
+          "handle": "ashford-bobbins",
+          "productUrl": "https://fibresfilantes.ca/products/ashford-bobbins",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ashford",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ashford - Bottle of Oil",
+          "handle": "ashford-bottle-of-oil",
+          "productUrl": "https://fibresfilantes.ca/products/ashford-bottle-of-oil",
+          "price": 20,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ashford",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ashford - Finishing Wax Polish",
+          "handle": "ashford-finishing-wax-polish",
+          "productUrl": "https://fibresfilantes.ca/products/ashford-finishing-wax-polish",
+          "price": 35.75,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ashford",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ashford - Kiwi High Speed Adapter Kit",
+          "handle": "ashford-kiwi-high-speed-adapter-kit",
+          "productUrl": "https://fibresfilantes.ca/products/ashford-kiwi-high-speed-adapter-kit",
+          "price": 61.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ashford",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ashford - Lazy Kate Upright",
+          "handle": "ashford-lazy-kate-upright",
+          "productUrl": "https://fibresfilantes.ca/products/ashford-lazy-kate-upright",
+          "price": 55,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ashford",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ashford - Small Hand Cards",
+          "handle": "ashford-small-hand-cards",
+          "productUrl": "https://fibresfilantes.ca/products/ashford-small-hand-cards",
+          "price": 88,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ashford",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ashford - Tensioned Lazy Kate",
+          "handle": "ashford-tensioned-lazy-kate",
+          "productUrl": "https://fibresfilantes.ca/products/ashford-tensioned-lazy-kate",
+          "price": 110.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ashford",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ashford - Yarn Gauge",
+          "handle": "ashford-yarn-gauge",
+          "productUrl": "https://fibresfilantes.ca/products/ashford-yarn-gauge",
+          "price": 14.5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ashford",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Fireweed Fibre Co",
+      "website": "https://fireweedfibreco.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "1-800-Elaine | 2024 Ally McBeal yarn club",
+          "handle": "1-800-elaine-ally-mcbeal-yarn-club",
+          "productUrl": "https://fireweedfibreco.com/products/1-800-elaine-ally-mcbeal-yarn-club",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "29",
+          "handle": "29",
+          "productUrl": "https://fireweedfibreco.com/products/29",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "29 | anemone lace",
+          "handle": "29-anemone-lace",
+          "productUrl": "https://fireweedfibreco.com/products/29-anemone-lace",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": "Anemone Lace",
+          "image": null
+        },
+        {
+          "title": "29 | sweet pea sock",
+          "handle": "29-sweet-pea-sock",
+          "productUrl": "https://fireweedfibreco.com/products/29-sweet-pea-sock",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": "Sweet Pea Sock",
+          "image": null
+        },
+        {
+          "title": "29 | violet sock",
+          "handle": "29-violet-sock",
+          "productUrl": "https://fireweedfibreco.com/products/29-violet-sock",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": "Violet Sock",
+          "image": null
+        },
+        {
+          "title": "29 | wild rye dk",
+          "handle": "29-wild-rye-dk",
+          "productUrl": "https://fireweedfibreco.com/products/29-wild-rye-dk",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": "Wild Rye Dk",
+          "image": null
+        },
+        {
+          "title": "29 | wood lily dk",
+          "handle": "29-wood-lily-dk",
+          "productUrl": "https://fireweedfibreco.com/products/29-wood-lily-dk",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": "wood lily DK",
+          "image": null
+        },
+        {
+          "title": "32 Is The New 23",
+          "handle": "32-is-the-new-23",
+          "productUrl": "https://fireweedfibreco.com/products/32-is-the-new-23",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "A Time to Stand | 2022 Star Trek yarn club",
+          "handle": "a-time-to-stand",
+          "productUrl": "https://fireweedfibreco.com/products/a-time-to-stand",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": "Star Trek",
+          "image": null
+        },
+        {
+          "title": "Adrift | merino silk flax",
+          "handle": "adrift-merino-silk-flax",
+          "productUrl": "https://fireweedfibreco.com/products/adrift-merino-silk-flax",
+          "price": 22,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FIREWEED FIBRE CO",
+          "productType": "Merino Silk Flax",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "the Frosted Stitch 2",
+      "website": "https://thefrostedstitch.ca/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "\"Juicy\"",
+          "handle": "juicy",
+          "productUrl": "https://thefrostedstitch.ca/products/juicy",
+          "price": 31,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Dyed to Order - Limited Edition",
+          "image": null
+        },
+        {
+          "title": "\"Made in Canada\" Blanket Kit (YARN ONLY)",
+          "handle": "made-in-canada-blanket-kit",
+          "productUrl": "https://thefrostedstitch.ca/products/made-in-canada-blanket-kit",
+          "price": 339,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Dyed to Order - Kit",
+          "image": null
+        },
+        {
+          "title": "\"Made in Canada\" Full Collection",
+          "handle": "made-in-canada-full-collection",
+          "productUrl": "https://thefrostedstitch.ca/products/made-in-canada-full-collection",
+          "price": 268,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Dyed to Order - Kit",
+          "image": null
+        },
+        {
+          "title": "\"The Snuggle is Real\" Cowl Kit (YARN ONLY)",
+          "handle": "the-snuggle-is-real-cowl-kit-yarn-only",
+          "productUrl": "https://thefrostedstitch.ca/products/the-snuggle-is-real-cowl-kit-yarn-only",
+          "price": 85,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Ready to Ship",
+          "image": null
+        },
+        {
+          "title": "50g Sets (Sock/DK)",
+          "handle": "sprigs-deconstructed-50g-set",
+          "productUrl": "https://thefrostedstitch.ca/products/sprigs-deconstructed-50g-set",
+          "price": 63,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Ready to Ship",
+          "image": null
+        },
+        {
+          "title": "50g Skeins - TONALS (Sock and DK)",
+          "handle": "50g-skeins-sock-and-dk",
+          "productUrl": "https://thefrostedstitch.ca/products/50g-skeins-sock-and-dk",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Ready to Ship",
+          "image": null
+        },
+        {
+          "title": "50g Skeins - VARIEGATES (Sock and DK)",
+          "handle": "50g-skeins-variegates-sock-and-dk-copy",
+          "productUrl": "https://thefrostedstitch.ca/products/50g-skeins-variegates-sock-and-dk-copy",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Ready to Ship",
+          "image": null
+        },
+        {
+          "title": "Abandoned (But Loved)",
+          "handle": "abandoned-but-loved",
+          "productUrl": "https://thefrostedstitch.ca/products/abandoned-but-loved",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Dyed to Order - Variegated",
+          "image": null
+        },
+        {
+          "title": "Abandoned (NSW DK)",
+          "handle": "abandoned-nsw-dk",
+          "productUrl": "https://thefrostedstitch.ca/products/abandoned-nsw-dk",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Ready to Ship",
+          "image": null
+        },
+        {
+          "title": "Agave",
+          "handle": "agave",
+          "productUrl": "https://thefrostedstitch.ca/products/agave",
+          "price": 31,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Frosted Stitch",
+          "productType": "Dyed to Order - Tonal",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Full Moon Fibres",
+      "website": "http://www.fullmoonfibres.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "12\" Chiagoo RED Circular Knitting Needles",
+          "handle": "copy-of-32-chiagoo-red-circular-knitting-needles",
+          "productUrl": "http://www.fullmoonfibres.ca/products/copy-of-32-chiagoo-red-circular-knitting-needles",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Full Moon Fibres",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "16\" Chiagoo RED Circular Knitting Needles",
+          "handle": "16-chiagoo-red-circular-knitting-needles",
+          "productUrl": "http://www.fullmoonfibres.ca/products/16-chiagoo-red-circular-knitting-needles",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Full Moon Fibres",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "32\" Chiagoo RED Circular Knitting Needles",
+          "handle": "chiagoo-32-red-circular-knitting-needle",
+          "productUrl": "http://www.fullmoonfibres.ca/products/chiagoo-32-red-circular-knitting-needle",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Full Moon Fibres",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "40\" Chiagoo RED Circular Knitting Needles",
+          "handle": "40-chiagoo-red-circular-knitting-needles",
+          "productUrl": "http://www.fullmoonfibres.ca/products/40-chiagoo-red-circular-knitting-needles",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Full Moon Fibres",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "9\" Chiagoo RED Circular Knitting Needles",
+          "handle": "9-chiagoo-red-circular-knitting-needles",
+          "productUrl": "http://www.fullmoonfibres.ca/products/9-chiagoo-red-circular-knitting-needles",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Full Moon Fibres",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "A Beary Good Time Small Drawstring",
+          "handle": "small-drawstring-9",
+          "productUrl": "http://www.fullmoonfibres.ca/products/small-drawstring-9",
+          "price": 45,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Full Moon Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "A Night of Frolic (Solar Sock)",
+          "handle": "let-the-cauldron-bubble-solar-sock-copy",
+          "productUrl": "http://www.fullmoonfibres.ca/products/let-the-cauldron-bubble-solar-sock-copy",
+          "price": 24,
+          "compareAtPrice": 34,
+          "available": false,
+          "vendor": "Full Moon Fibres",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "A Scary Good Time (Nebula Sock Mini Skein Set)",
+          "handle": "all-about-fall-nebula-sock-mini-skein-set-copy",
+          "productUrl": "http://www.fullmoonfibres.ca/products/all-about-fall-nebula-sock-mini-skein-set-copy",
+          "price": 48,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Full Moon Fibres",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "After Knit Night (Merino DK)",
+          "handle": "rhinestones-merino-dk-copy",
+          "productUrl": "http://www.fullmoonfibres.ca/products/rhinestones-merino-dk-copy",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Full Moon Fibres",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "After Knit Night (Solar Sock Tube)",
+          "handle": "pipsqueak-solar-sock-tube-copy",
+          "productUrl": "http://www.fullmoonfibres.ca/products/pipsqueak-solar-sock-tube-copy",
+          "price": 42,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Full Moon Fibres",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Fyberring Logo New Blue PNG",
+      "website": "https://fyberring.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "10 cm faux fur pompom",
+          "handle": "10-cm-faux-fur-pompom",
+          "productUrl": "https://fyberring.com/products/10-cm-faux-fur-pompom",
+          "price": 3,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FyberRing",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "20 Piece Bamboo Crochet Hook Set",
+          "handle": "20-piece-bamboo-crochet-hook-set",
+          "productUrl": "https://fyberring.com/products/20-piece-bamboo-crochet-hook-set",
+          "price": 41,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FyberRing",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "3D Foam Dots",
+          "handle": "3d-foam-dots",
+          "productUrl": "https://fyberring.com/products/3d-foam-dots",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "PaperCrafts",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "8 black hook set",
+          "handle": "8-blue-hook-set",
+          "productUrl": "https://fyberring.com/products/8-blue-hook-set",
+          "price": 14,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "FyberRing",
+          "productType": "Hook",
+          "image": null
+        },
+        {
+          "title": "8 cm faux fur pompom",
+          "handle": "8-cm-faux-fur-pompom",
+          "productUrl": "https://fyberring.com/products/8-cm-faux-fur-pompom",
+          "price": 3,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FyberRing",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "9 Piece Bamboo Crochet Hook Set",
+          "handle": "9-piece-navy-crochet-hook-set",
+          "productUrl": "https://fyberring.com/products/9-piece-navy-crochet-hook-set",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "FyberRing",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ami-sticks",
+          "handle": "ami-sticks",
+          "productUrl": "https://fyberring.com/products/ami-sticks",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Marjielous Creations",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Angle Left FyberRing Caitlyn",
+          "handle": "angle-left-fyberring-caitlyn",
+          "productUrl": "https://fyberring.com/products/angle-left-fyberring-caitlyn",
+          "price": 23,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FyberRing",
+          "productType": "Yarn Ring",
+          "image": null
+        },
+        {
+          "title": "Angle Left FyberRing Galaxy",
+          "handle": "angle-left-fyberring-galaxy-1",
+          "productUrl": "https://fyberring.com/products/angle-left-fyberring-galaxy-1",
+          "price": 22,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FyberRing",
+          "productType": "Yarn Ring",
+          "image": null
+        },
+        {
+          "title": "Angle Left FyberRing Gold Sparkle",
+          "handle": "angle-left-fyberring-gold",
+          "productUrl": "https://fyberring.com/products/angle-left-fyberring-gold",
+          "price": 21,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "FyberRing",
+          "productType": "Yarn Ring",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Gingersnap",
+      "website": "https://gingersnapthat.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "BB FLORAL    LARGE TRENDY TOTEBAG...CUSTOM FABRIC",
+          "handle": "colourful-master-large-trendy-totebag-custom-fabric-copy",
+          "productUrl": "https://gingersnapthat.com/products/colourful-master-large-trendy-totebag-custom-fabric-copy",
+          "price": 44,
+          "compareAtPrice": 48,
+          "available": true,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        },
+        {
+          "title": "BLUE JAYS BAGS ...NOW LIVE !!!!!",
+          "handle": "copy-of-blooming-lovely-sage-small-wire-frame-bag-custom-print",
+          "productUrl": "https://gingersnapthat.com/products/copy-of-blooming-lovely-sage-small-wire-frame-bag-custom-print",
+          "price": 50,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        },
+        {
+          "title": "BOOGEY WORMS  ...GLOW IN THE DARK  VINYL  .. Lifestyle plus  bag (soft no wire  , but interfaced ) BLACK FAUX LEATHER BOTTOM",
+          "handle": "copy-of-beetle-glow-in-the-dark-vinyl-lifestyle-plus-bag-soft-no-wire-but-interfaced-black-faux-leather-bottom",
+          "productUrl": "https://gingersnapthat.com/products/copy-of-beetle-glow-in-the-dark-vinyl-lifestyle-plus-bag-soft-no-wire-but-interfaced-black-faux-leather-bottom",
+          "price": 43,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        },
+        {
+          "title": "BUFFALO  PLAID GNOMES     ....CAKE CADDY......CUSTOM PRINT",
+          "handle": "lets-go-on-a-adventure-cake-caddy-custom-print-copy",
+          "productUrl": "https://gingersnapthat.com/products/lets-go-on-a-adventure-cake-caddy-custom-print-copy",
+          "price": 22,
+          "compareAtPrice": 24,
+          "available": true,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        },
+        {
+          "title": "CAT SKELETON    ....CAKE CADDY...GLOWS IN THE DARK , ACTIVATE BY NATURAL LIGHT",
+          "handle": "retro-deer-cake-caddy-copy",
+          "productUrl": "https://gingersnapthat.com/products/retro-deer-cake-caddy-copy",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        },
+        {
+          "title": "COFFEE  SMALL STITCHING BAG....CUSTOM PRINTED FABRIC",
+          "handle": "pan-small-stitching-bag-notions-pouch-copy",
+          "productUrl": "https://gingersnapthat.com/products/pan-small-stitching-bag-notions-pouch-copy",
+          "price": 36,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        },
+        {
+          "title": "COFFEE LARGE  STITCHING BAG....CUSTOM PRINTED FABRIC",
+          "handle": "skulls-large-stitching-bag-custom-printed-fabric-copy",
+          "productUrl": "https://gingersnapthat.com/products/skulls-large-stitching-bag-custom-printed-fabric-copy",
+          "price": 46,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        },
+        {
+          "title": "CUTIE BEARS  small  Lifestyle bag (soft no wire  , but interfaced",
+          "handle": "space-wars-comic-strip-small-lifestyle-bag-soft-no-wire-but-interfaced-lining-is-glow-in-the-dark-light-activated-copy",
+          "productUrl": "https://gingersnapthat.com/products/space-wars-comic-strip-small-lifestyle-bag-soft-no-wire-but-interfaced-lining-is-glow-in-the-dark-light-activated-copy",
+          "price": 35,
+          "compareAtPrice": 38,
+          "available": true,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        },
+        {
+          "title": "DASMARK SKULLS   SMALL STITCHING BAG & NOTIONS POUCH",
+          "handle": "stained-glass-beauty-small-stitching-bag-notions-pouch-copy",
+          "productUrl": "https://gingersnapthat.com/products/stained-glass-beauty-small-stitching-bag-notions-pouch-copy",
+          "price": 42,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        },
+        {
+          "title": "FLORAL CRAB  LARGE  STITCHING BAG & NOTIONS POUCH",
+          "handle": "camping-large-stitching-bag-notions-pouch-copy",
+          "productUrl": "https://gingersnapthat.com/products/camping-large-stitching-bag-notions-pouch-copy",
+          "price": 52,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Gingersnapthat",
+          "productType": "bags",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Gobsmacked Yarn 2",
+      "website": "https://gobsmackedyarn.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "ASL fingering gradient: Keep Telling It True",
+          "handle": "asl-fingering-gradient-keep-telling-it-true",
+          "productUrl": "https://gobsmackedyarn.ca/products/asl-fingering-gradient-keep-telling-it-true",
+          "price": 52,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmackedyarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "ASL fingering gradient: The Better We Feel",
+          "handle": "asl-fingering-gradient-the-better-we-feel",
+          "productUrl": "https://gobsmackedyarn.ca/products/asl-fingering-gradient-the-better-we-feel",
+          "price": 52,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmackedyarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "ASL fingering gradient: The Closer to Home",
+          "handle": "asl-fingering-gradient-the-closer-to-home",
+          "productUrl": "https://gobsmackedyarn.ca/products/asl-fingering-gradient-the-closer-to-home",
+          "price": 52,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmackedyarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "ASL fingering gradient: The Farther We Get",
+          "handle": "asl-fingering-gradient-the-farther-we-get",
+          "productUrl": "https://gobsmackedyarn.ca/products/asl-fingering-gradient-the-farther-we-get",
+          "price": 52,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmackedyarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "ASL fingering gradient: The Warmer the Heart",
+          "handle": "asl-fingering-gradient-the-warmer-the-heart",
+          "productUrl": "https://gobsmackedyarn.ca/products/asl-fingering-gradient-the-warmer-the-heart",
+          "price": 52,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmackedyarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "BFL DK 100g gradient: Gardens A-Gloaming",
+          "handle": "bfl-dk-100g-gradient-gardens-a-gloaming",
+          "productUrl": "https://gobsmackedyarn.ca/products/bfl-dk-100g-gradient-gardens-a-gloaming",
+          "price": 48,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmackedyarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "BFL DK 100g gradient: The Stars and the Moon",
+          "handle": "bfl-dk-100g-gradient-the-stars-and-the-moon",
+          "productUrl": "https://gobsmackedyarn.ca/products/bfl-dk-100g-gradient-the-stars-and-the-moon",
+          "price": 48,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmackedyarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Dyeing for Embroidery",
+          "handle": "dyeing-for-embroidery",
+          "productUrl": "https://gobsmackedyarn.ca/products/dyeing-for-embroidery",
+          "price": 65,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmacked yarn",
+          "productType": "Class",
+          "image": null
+        },
+        {
+          "title": "Finn Cross 100g skein (Batch 01): Denim",
+          "handle": "finn-cross-100g-skein-denim",
+          "productUrl": "https://gobsmackedyarn.ca/products/finn-cross-100g-skein-denim",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmacked yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Finn Cross 100g skein (Batch 01): Frog Pond",
+          "handle": "finn-cross-100g-skein-frog-pond",
+          "productUrl": "https://gobsmackedyarn.ca/products/finn-cross-100g-skein-frog-pond",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "gobsmacked yarn",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Good Grief",
+      "website": "https://goodgriefyarn.com/collections/good-grief-yarns",
+      "source": "/products.json?limit=10",
+      "products": [
+        {
+          "title": "Good Grief Dye Studio: Cloud",
+          "handle": "good-grief-cloud",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-cloud",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "75% Brushed Baby Suri Alpaca, 25% Mulberry Silk / Lace-DK / 50g / 300m",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Good Grief Dye Studio: Basica Grande",
+          "handle": "good-grief-bulky-wool",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-bulky-wool",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "100% Wool / Bulky / 100g / 100m",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Good Grief Dye Studio: Pillow",
+          "handle": "good-grief-dye-studio-pillow",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-dye-studio-pillow",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "100% Superwash Merino Wool / Worsted-Aran / 100g / 166m",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Good Grief Dye Studio: Loopy",
+          "handle": "good-grief-dye-studio-loopy",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-dye-studio-loopy",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Good Grief Yarn & Provisions",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Good Grief Dye Studio: Rustico DK",
+          "handle": "good-grief-dye-studio-rustico-dk",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-dye-studio-rustico-dk",
+          "price": 22,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "60% Organic Cotton, 40% Linen / DK / 100g / 225m",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Good Grief Dye Studio: Limited Edition Cotton Lace",
+          "handle": "good-grief-dye-studio-limited-edition-cotton-lace",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-dye-studio-limited-edition-cotton-lace",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "100% Cotton / Lace / 100g / 550m",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Good Grief Custom Dyes: Fresco",
+          "handle": "good-grief-custom-dyes-fresco",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-custom-dyes-fresco",
+          "price": 22,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "50% Bamboo, 30% Linen, 20% Cotton / Fingering / 100g / 308m",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Good Grief Custom Dyes: Lana Burrosa",
+          "handle": "good-grief-custom-dyes-lana-burrosa",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-custom-dyes-lana-burrosa",
+          "price": 27,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "100% Superwash Merino Wool / Super Bulky / 100g / 80m",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Good Grief Fundamental Sock - Christmas Edition",
+          "handle": "good-grief-fundamental-sock-christmas-edition",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-fundamental-sock-christmas-edition",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Good Grief Yarn & Provisions",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Good Grief Custom Dyes: Cotton DK",
+          "handle": "good-grief-custom-dyes-cotton-dk",
+          "productUrl": "https://goodgriefyarn.com/collections/good-grief-yarns/products/good-grief-custom-dyes-cotton-dk",
+          "price": 22,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "100% Pima Cotton / DK / 100g / 200m",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Hamstersyarns",
+      "website": "https://www.hamstersyarns.ca",
+      "source": null,
+      "products": []
+    },
+    {
+      "vendorName": "Hoko Hoko 1",
+      "website": "https://hokohokofibreco.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "AP Wool - [Worsted]",
+          "handle": "the-ap-wool",
+          "productUrl": "https://hokohokofibreco.com/products/the-ap-wool",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": "Superwash",
+          "image": null
+        },
+        {
+          "title": "Double - [Fingering / Sock]",
+          "handle": "copy-of-eloise-70-super-kid-mohair-30-silk",
+          "productUrl": "https://hokohokofibreco.com/products/copy-of-eloise-70-super-kid-mohair-30-silk",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": "Superwash",
+          "image": null
+        },
+        {
+          "title": "Dove (DK) Sock",
+          "handle": "dove-dk",
+          "productUrl": "https://hokohokofibreco.com/products/dove-dk",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": "Superwash",
+          "image": null
+        },
+        {
+          "title": "Dove - [Fingering / Sock]",
+          "handle": "copy-of-dove-mini-fingering-sock",
+          "productUrl": "https://hokohokofibreco.com/products/copy-of-dove-mini-fingering-sock",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": "Superwash",
+          "image": null
+        },
+        {
+          "title": "Dove MINI - [Fingering / Sock]",
+          "handle": "dove-fingering-sock",
+          "productUrl": "https://hokohokofibreco.com/products/dove-fingering-sock",
+          "price": 30,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": "Superwash",
+          "image": null
+        },
+        {
+          "title": "Duncan - [Sport]",
+          "handle": "duncan-dk",
+          "productUrl": "https://hokohokofibreco.com/products/duncan-dk",
+          "price": 21,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": "Non-Superwash",
+          "image": null
+        },
+        {
+          "title": "Duncan MINI - [Sport]",
+          "handle": "copy-of-duncan-sport",
+          "productUrl": "https://hokohokofibreco.com/products/copy-of-duncan-sport",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": "Non-Superwash",
+          "image": null
+        },
+        {
+          "title": "HOKOHOKO Fibre Co. Gift Card",
+          "handle": "hokohoko-fibre-co-gift-card",
+          "productUrl": "https://hokohokofibreco.com/products/hokohoko-fibre-co-gift-card",
+          "price": 7.36,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Momo - [Lace]",
+          "handle": "momomohairsilk",
+          "productUrl": "https://hokohokofibreco.com/products/momomohairsilk",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": "Non-Superwash",
+          "image": null
+        },
+        {
+          "title": "Polwarth",
+          "handle": "polwarth-1",
+          "productUrl": "https://hokohokofibreco.com/products/polwarth-1",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "HOKOHOKO FIBRE CO.",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Hooking Outside the Lines 1",
+      "website": "https://hookingoutsidethelines.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "10\" plastic hoop",
+          "handle": "10-plastic-hoop",
+          "productUrl": "https://hookingoutsidethelines.com/products/10-plastic-hoop",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": "Supplies",
+          "image": null
+        },
+        {
+          "title": "4\" Scissors",
+          "handle": "4-scissors-wholesale",
+          "productUrl": "https://hookingoutsidethelines.com/products/4-scissors-wholesale",
+          "price": 13,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "4\" Scissors /Wholesale",
+          "handle": "4-scissors",
+          "productUrl": "https://hookingoutsidethelines.com/products/4-scissors",
+          "price": 7,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "6\"x 6\" Beginner Rug Hooking Kits by Deanne Fitzpatrick Studio",
+          "handle": "6x6-beginner-rug-hooking-kits-by-deanne-fitzpatrick-studio",
+          "productUrl": "https://hookingoutsidethelines.com/products/6x6-beginner-rug-hooking-kits-by-deanne-fitzpatrick-studio",
+          "price": 37,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": "Kits",
+          "image": null
+        },
+        {
+          "title": "Bent Handle Scissors",
+          "handle": "bent-handle-scissors-1",
+          "productUrl": "https://hookingoutsidethelines.com/products/bent-handle-scissors-1",
+          "price": 21,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bent Handle Scissors  /Wholesale",
+          "handle": "bent-handle-scissors",
+          "productUrl": "https://hookingoutsidethelines.com/products/bent-handle-scissors",
+          "price": 11,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bent Handle Small Scissors (6\")",
+          "handle": "bent-handle-small-scissors-6",
+          "productUrl": "https://hookingoutsidethelines.com/products/bent-handle-small-scissors-6",
+          "price": 19,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": "Supplies",
+          "image": null
+        },
+        {
+          "title": "Blank Linen Wrapped Frames for DYI kit",
+          "handle": "blank-linen-wrapped-frames",
+          "productUrl": "https://hookingoutsidethelines.com/products/blank-linen-wrapped-frames",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": "Supplies",
+          "image": null
+        },
+        {
+          "title": "Bleached Primitive Linen from Dorr Mills",
+          "handle": "bleached-primitive-linen",
+          "productUrl": "https://hookingoutsidethelines.com/products/bleached-primitive-linen",
+          "price": 39,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": "Supplies",
+          "image": null
+        },
+        {
+          "title": "Blue Patch Work Heart Kit",
+          "handle": "blue-patch-work-heart",
+          "productUrl": "https://hookingoutsidethelines.com/products/blue-patch-work-heart",
+          "price": 68,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Hooking Outside The Lines",
+          "productType": "Kits",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Irene Textile 1",
+      "website": "https://irenetextile.com/en",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "A Crafty Sheep's Guide to Tapestry Weaving",
+          "handle": "a-crafty-sheeps-guide-to-tapestry-weaving",
+          "productUrl": "https://irenetextile.com/en/products/a-crafty-sheeps-guide-to-tapestry-weaving",
+          "price": 20,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Irene Textile",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Weaving Sticks - Schacht",
+          "handle": "9-weaving-stick",
+          "productUrl": "https://irenetextile.com/en/products/9-weaving-stick",
+          "price": 10,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Schacht Spindle Company",
+          "productType": "Aiguille à tisser",
+          "image": null
+        },
+        {
+          "title": "Wool Needles",
+          "handle": "3-metal-tapestry-needle",
+          "productUrl": "https://irenetextile.com/en/products/3-metal-tapestry-needle",
+          "price": 3,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Irene Textile",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Alpaca - Weaving yarn - 3/10",
+          "handle": "alpaga-tissage-fil-a-tisser-284-taupe",
+          "productUrl": "https://irenetextile.com/en/products/alpaga-tissage-fil-a-tisser-284-taupe",
+          "price": 92,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Irene Textile",
+          "productType": "Fil",
+          "image": null
+        },
+        {
+          "title": "ART OF TAPESTRY WEAVING",
+          "handle": "art-of-tapestry-weaving",
+          "productUrl": "https://irenetextile.com/en/products/art-of-tapestry-weaving",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Irene Textile",
+          "productType": "Livre Tissage",
+          "image": null
+        },
+        {
+          "title": "Drop In Weaving - Tea Towel",
+          "handle": "atelier-libre-tissage-dun-linge-a-vaisselle-copie",
+          "productUrl": "https://irenetextile.com/en/products/atelier-libre-tissage-dun-linge-a-vaisselle-copie",
+          "price": 67,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Irene Textile",
+          "productType": "Ateliers",
+          "image": null
+        },
+        {
+          "title": "INTRO TO FABRIC LINOCUT PRINTING",
+          "handle": "intro-to-fabric-linocut-printing-workshop-montreal_irene-textile-1",
+          "productUrl": "https://irenetextile.com/en/products/intro-to-fabric-linocut-printing-workshop-montreal_irene-textile-1",
+          "price": 115,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Irene Textile",
+          "productType": "Ateliers",
+          "image": null
+        },
+        {
+          "title": "Lease sticks (per pair) - Leclerc",
+          "handle": "baguette-dencroix-par-paire-leclerc",
+          "productUrl": "https://irenetextile.com/en/products/baguette-dencroix-par-paire-leclerc",
+          "price": 19,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Metiers Leclerc Inc",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Baguette d'encroix 39\" - Paire",
+          "handle": "baguette-dencroix-39-paire",
+          "productUrl": "https://irenetextile.com/en/products/baguette-dencroix-39-paire",
+          "price": 31,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Irene Textile",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Pick Up Sticks - Schacht",
+          "handle": "stick-shuttle-24-schacht",
+          "productUrl": "https://irenetextile.com/en/products/stick-shuttle-24-schacht",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Schacht Spindle Company",
+          "productType": "Navettes à tisser",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Je Laine Yarns",
+      "website": "https://jelaineyarns.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "70% untreated BFL, 30% bright trilobal nylon inspired by Londres colourway",
+          "handle": "70-untreated-bfl-30-bright-trilobal-nylon-inspired-by-londres-colourway",
+          "productUrl": "https://jelaineyarns.com/products/70-untreated-bfl-30-bright-trilobal-nylon-inspired-by-londres-colourway",
+          "price": 20.62,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "JeLaineYarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "70% untreated BFL, 30% bright trilobal nylon inspired by Precious Rock colourway",
+          "handle": "70-untreated-bfl-30-bright-trilobal-nylon-inspired-by-precious-rock-colourway",
+          "productUrl": "https://jelaineyarns.com/products/70-untreated-bfl-30-bright-trilobal-nylon-inspired-by-precious-rock-colourway",
+          "price": 20.62,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "JeLaineYarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "75% Superwash Merino and 25% Nylon, colour is One of a kind (OOAK)",
+          "handle": "75-superwash-merino-and-25-nylon-colour-is-one-of-a-kind-ooak",
+          "productUrl": "https://jelaineyarns.com/products/75-superwash-merino-and-25-nylon-colour-is-one-of-a-kind-ooak",
+          "price": 20.62,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "JeLaineYarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "75% Superwash Merino and 25% Nylon, inspired by Autumn Skyline colourway",
+          "handle": "75-superwash-merino-and-25-nylon-inspired-by-autumn-skyline-colourway",
+          "productUrl": "https://jelaineyarns.com/products/75-superwash-merino-and-25-nylon-inspired-by-autumn-skyline-colourway",
+          "price": 20.62,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "JeLaineYarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "75% Superwash Merino and 25% Nylon, inspired by Flutter colourway",
+          "handle": "75-superwash-merino-and-25-nylon-inspired-by-flutter-colourway",
+          "productUrl": "https://jelaineyarns.com/products/75-superwash-merino-and-25-nylon-inspired-by-flutter-colourway",
+          "price": 20.62,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "JeLaineYarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "75% Superwash Merino and 25% Nylon, inspired by Londre colourway",
+          "handle": "75-superwash-merino-and-25-nylon-inspired-by-londre-colourway",
+          "productUrl": "https://jelaineyarns.com/products/75-superwash-merino-and-25-nylon-inspired-by-londre-colourway",
+          "price": 20.62,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "JeLaineYarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bella - Akoya",
+          "handle": "bella-akoya",
+          "productUrl": "https://jelaineyarns.com/products/bella-akoya",
+          "price": 26.51,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "JeLaineYarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bella - Amherst",
+          "handle": "bella-amherst",
+          "productUrl": "https://jelaineyarns.com/products/bella-amherst",
+          "price": 26.51,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "JeLaineYarns",
+          "productType": "yarn",
+          "image": null
+        },
+        {
+          "title": "Bella - Angelina",
+          "handle": "bella-angelina",
+          "productUrl": "https://jelaineyarns.com/products/bella-angelina",
+          "price": 26.51,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "JeLaineYarns",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bella - Au Naturel",
+          "handle": "bella-au-naturel",
+          "productUrl": "https://jelaineyarns.com/products/bella-au-naturel",
+          "price": 22.09,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "JeLaineYarns",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Knitted Bliss Stitching",
+      "website": "https://shop.knittedbliss.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Avellin Mitts Pattern",
+          "handle": "avellin-mitts-pattern",
+          "productUrl": "https://shop.knittedbliss.com/products/avellin-mitts-pattern",
+          "price": 4.42,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Cat Stick & Stitch (Physical Product)",
+          "handle": "cat-stick-stitch",
+          "productUrl": "https://shop.knittedbliss.com/products/cat-stick-stitch",
+          "price": 15.46,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "Embroidery",
+          "image": null
+        },
+        {
+          "title": "Cats In Sweaters",
+          "handle": "cats-in-sweaters",
+          "productUrl": "https://shop.knittedbliss.com/products/cats-in-sweaters",
+          "price": 28.71,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "kits",
+          "image": null
+        },
+        {
+          "title": "Cats Stick & Stitch (Digital Download)",
+          "handle": "cats-stick-stitch-digital-download",
+          "productUrl": "https://shop.knittedbliss.com/products/cats-stick-stitch-digital-download",
+          "price": 10.31,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "Embroidery",
+          "image": null
+        },
+        {
+          "title": "Causerie Hat & Mitts Pattern",
+          "handle": "causerie-hatt-mitts-pattern",
+          "productUrl": "https://shop.knittedbliss.com/products/causerie-hatt-mitts-pattern",
+          "price": 4.42,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Cozy Winter",
+          "handle": "cozy-winter",
+          "productUrl": "https://shop.knittedbliss.com/products/cozy-winter",
+          "price": 28.71,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "kits",
+          "image": null
+        },
+        {
+          "title": "Daisy Stick & Stitch (Digital Download)",
+          "handle": "daisy-stick-stitch-digital-download",
+          "productUrl": "https://shop.knittedbliss.com/products/daisy-stick-stitch-digital-download",
+          "price": 10.31,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "Embroidery",
+          "image": null
+        },
+        {
+          "title": "Daisy Stick & Stitch (Physical Product)",
+          "handle": "daisy-stick-stitch",
+          "productUrl": "https://shop.knittedbliss.com/products/daisy-stick-stitch",
+          "price": 15.46,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "Embroidery",
+          "image": null
+        },
+        {
+          "title": "Deluxe Embroidery Floss Palette",
+          "handle": "deluxe-embroidery-floss-palette",
+          "productUrl": "https://shop.knittedbliss.com/products/deluxe-embroidery-floss-palette",
+          "price": 20.62,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "Embroidery",
+          "image": null
+        },
+        {
+          "title": "Demi Jour Knitting Pattern",
+          "handle": "demi-jour-knitting-pattern",
+          "productUrl": "https://shop.knittedbliss.com/products/demi-jour-knitting-pattern",
+          "price": 5.15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "knittedbliss",
+          "productType": "Pattern",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "the Lab Fibers",
+      "website": "https://thelabfibers.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Andarna",
+          "handle": "andarna",
+          "productUrl": "https://thelabfibers.com/products/andarna",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Lab Fibers",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Andarna Sock Set - Forth Wing and Iron Flame Inspired",
+          "handle": "andarna-sock-set-forth-wing-and-iron-flame-inspired",
+          "productUrl": "https://thelabfibers.com/products/andarna-sock-set-forth-wing-and-iron-flame-inspired",
+          "price": 31,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Lab Fibers",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Applewood Smoked",
+          "handle": "applewood-smoked",
+          "productUrl": "https://thelabfibers.com/products/applewood-smoked",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Lab Fibers",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Assorted Poison Bottle Stitch Markers",
+          "handle": "assorted-poisin-bottle-stitch-markers",
+          "productUrl": "https://thelabfibers.com/products/assorted-poisin-bottle-stitch-markers",
+          "price": 5,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Lab Fibers",
+          "productType": "Knitting Notions",
+          "image": null
+        },
+        {
+          "title": "Balance",
+          "handle": "balance",
+          "productUrl": "https://thelabfibers.com/products/balance",
+          "price": 26,
+          "compareAtPrice": 23,
+          "available": false,
+          "vendor": "The Lab Fibers",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Bent Tapestry/Darning Needles  - Set of 2",
+          "handle": "bent-tapestry-needles-darning-needles-set-of-two-purple",
+          "productUrl": "https://thelabfibers.com/products/bent-tapestry-needles-darning-needles-set-of-two-purple",
+          "price": 3,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Lab Fibers",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bent Tapestry/Darning Needles - Set of 2",
+          "handle": "bent-tapestry-needles-darning-needles-set-of-two",
+          "productUrl": "https://thelabfibers.com/products/bent-tapestry-needles-darning-needles-set-of-two",
+          "price": 3,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Lab Fibers",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Black Labrador Needle Stoppers",
+          "handle": "black-labrador-needle-stoppers",
+          "productUrl": "https://thelabfibers.com/products/black-labrador-needle-stoppers",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Lab Fibers",
+          "productType": "Needle Keepers",
+          "image": null
+        },
+        {
+          "title": "Blue Hawaiian",
+          "handle": "blue-hawaiian",
+          "productUrl": "https://thelabfibers.com/products/blue-hawaiian",
+          "price": 26,
+          "compareAtPrice": 23,
+          "available": true,
+          "vendor": "The Lab Fibers",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Blue Jeans Frog",
+          "handle": "blue-jeans-frog",
+          "productUrl": "https://thelabfibers.com/products/blue-jeans-frog",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Lab Fibers",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "LDH Scissors",
+      "website": "https://ldhscissors.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "**PRE-ORDER** Midnight Edition Lightweight Gift Set",
+          "handle": "midnight-edition-lightweight-gift-set",
+          "productUrl": "https://ldhscissors.ca/products/midnight-edition-lightweight-gift-set",
+          "price": 95.4,
+          "compareAtPrice": 106,
+          "available": true,
+          "vendor": "LDH Scissors",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "**PRE-ORDER** Midnight Edition One-Piece Thread Snip",
+          "handle": "midnight-edition-one-piece-thread-snip",
+          "productUrl": "https://ldhscissors.ca/products/midnight-edition-one-piece-thread-snip",
+          "price": 20,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LDH Scissors",
+          "productType": "Craft & Office Scissors",
+          "image": null
+        },
+        {
+          "title": "**PRE-ORDER** Prism One-Piece Thread Snip",
+          "handle": "prism-one-piece-thread-snip",
+          "productUrl": "https://ldhscissors.ca/products/prism-one-piece-thread-snip",
+          "price": 20,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LDH Scissors",
+          "productType": "Craft & Office Scissors",
+          "image": null
+        },
+        {
+          "title": "*SECONDS SALE*  Imperial Scissors - Dragon & Phoenix",
+          "handle": "seconds-sale-imperial-scissors-dragon-phoenix",
+          "productUrl": "https://ldhscissors.ca/products/seconds-sale-imperial-scissors-dragon-phoenix",
+          "price": 12,
+          "compareAtPrice": 15,
+          "available": true,
+          "vendor": "LDH Scissors",
+          "productType": "Craft & Office Scissors",
+          "image": null
+        },
+        {
+          "title": "*SECONDS SALE* 14” Midnight Edition Batting Shears",
+          "handle": "seconds-sale-14-midnight-edition-batting-shears",
+          "productUrl": "https://ldhscissors.ca/products/seconds-sale-14-midnight-edition-batting-shears",
+          "price": 64,
+          "compareAtPrice": 80,
+          "available": true,
+          "vendor": "LDH Scissors",
+          "productType": "Craft & Office Scissors",
+          "image": null
+        },
+        {
+          "title": "*SECONDS SALE* Midnight Edition Fabric Shears",
+          "handle": "seconds-sale-midnight-edition-fabric-shears",
+          "productUrl": "https://ldhscissors.ca/products/seconds-sale-midnight-edition-fabric-shears",
+          "price": 40,
+          "compareAtPrice": 50,
+          "available": true,
+          "vendor": "LDH Scissors",
+          "productType": "scissors",
+          "image": null
+        },
+        {
+          "title": "*SECONDS SALE* Midnight Edition Pinking Shears",
+          "handle": "seconds-sale-midnight-edition-pinking-shears",
+          "productUrl": "https://ldhscissors.ca/products/seconds-sale-midnight-edition-pinking-shears",
+          "price": 48,
+          "compareAtPrice": 60,
+          "available": false,
+          "vendor": "LDH Scissors",
+          "productType": "scissors",
+          "image": null
+        },
+        {
+          "title": "*SECONDS SALE* Prism Thread Snip",
+          "handle": "seconds-sale-prism-thread-snip",
+          "productUrl": "https://ldhscissors.ca/products/seconds-sale-prism-thread-snip",
+          "price": 24,
+          "compareAtPrice": 30,
+          "available": true,
+          "vendor": "LDH Scissors",
+          "productType": "scissors",
+          "image": null
+        },
+        {
+          "title": "*SECONDS SALE* Traditional Fabric Shears",
+          "handle": "seconds-sale-traditional-fabric-shears",
+          "productUrl": "https://ldhscissors.ca/products/seconds-sale-traditional-fabric-shears",
+          "price": 38.4,
+          "compareAtPrice": 48,
+          "available": true,
+          "vendor": "LDH Scissors",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "10\" True Left-handed Midnight Edition Fabric Shears",
+          "handle": "true-left-handed-10-midnight-edition-fabric-shears",
+          "productUrl": "https://ldhscissors.ca/products/true-left-handed-10-midnight-edition-fabric-shears",
+          "price": 60,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LDH Scissors",
+          "productType": "scissors",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Leo & Roxy 1",
+      "website": "https://www.leoandroxyyarnco.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Ain’t No Specks on Us - Suri Silk",
+          "handle": "21-suri-silk",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/21-suri-silk",
+          "price": 26.51,
+          "compareAtPrice": 26.51,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": "Suri",
+          "image": null
+        },
+        {
+          "title": "Awkward As Flock Embroidery Yarn Bundle",
+          "handle": "awkward-as-flock-embroidery-bundle",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/awkward-as-flock-embroidery-bundle",
+          "price": 73.63,
+          "compareAtPrice": 99.41,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Awkward As Flock T-Shirts",
+          "handle": "awkward-as-flock-t-shirts",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/awkward-as-flock-t-shirts",
+          "price": 22.09,
+          "compareAtPrice": 22.09,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": "T-Shirt",
+          "image": null
+        },
+        {
+          "title": "Barbie Girl - Natural Sock",
+          "handle": "natural-sock-barbie-girl",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/natural-sock-barbie-girl",
+          "price": 23.56,
+          "compareAtPrice": 23.56,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": "Natural Sock",
+          "image": null
+        },
+        {
+          "title": "Barbie Girl - Sock",
+          "handle": "barbie-girl-sock",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/barbie-girl-sock",
+          "price": 23.56,
+          "compareAtPrice": 23.56,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": "Sock",
+          "image": null
+        },
+        {
+          "title": "Barbie Girl - Suri Silk",
+          "handle": "barbie-girl-suri-silk",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/barbie-girl-suri-silk",
+          "price": 26.51,
+          "compareAtPrice": 26.51,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": "Suri",
+          "image": null
+        },
+        {
+          "title": "BFL Fibre",
+          "handle": "bfl-fibre",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/bfl-fibre",
+          "price": 22.09,
+          "compareAtPrice": 22.09,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": "Fibre",
+          "image": null
+        },
+        {
+          "title": "BFL/Silk Fibre",
+          "handle": "bfl-silk-fibre",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/bfl-silk-fibre",
+          "price": 29.45,
+          "compareAtPrice": 29.45,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": "Fibre",
+          "image": null
+        },
+        {
+          "title": "Black Tulip - Slub",
+          "handle": "bt-slub",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/bt-slub",
+          "price": 26.51,
+          "compareAtPrice": 26.51,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": "Slub",
+          "image": null
+        },
+        {
+          "title": "Blue Spectacle - Suri Silk",
+          "handle": "24-suri-silk",
+          "productUrl": "https://www.leoandroxyyarnco.com/products/24-suri-silk",
+          "price": 26.51,
+          "compareAtPrice": 26.51,
+          "available": true,
+          "vendor": "Leo & Roxy Yarn Co.",
+          "productType": "Suri",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Les Garcons",
+      "website": "https://boutiquelesgarcons.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "\"Je ne sais quoi\" (Spincycle Yarns)",
+          "handle": "je-ne-sais-quoi-spincycle-yarns",
+          "productUrl": "https://boutiquelesgarcons.com/products/je-ne-sais-quoi-spincycle-yarns",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Spincycle Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "\"Les Garçons de Montréal\" Souvenir Pin Bundle (enamel pins)",
+          "handle": "les-garcons-de-montreal-souvenir-pin-bundle-enamel-pins",
+          "productUrl": "https://boutiquelesgarcons.com/products/les-garcons-de-montreal-souvenir-pin-bundle-enamel-pins",
+          "price": 18,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Les Garçons",
+          "productType": "Enamel pin",
+          "image": null
+        },
+        {
+          "title": "0 (Jensen)",
+          "handle": "0-jensen",
+          "productUrl": "https://boutiquelesgarcons.com/products/0-jensen",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Isager",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "0 (Silk Mohair)",
+          "handle": "o-silk-mohair",
+          "productUrl": "https://boutiquelesgarcons.com/products/o-silk-mohair",
+          "price": 19,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Isager",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "0 (Tvinni)",
+          "handle": "0-tvinni",
+          "productUrl": "https://boutiquelesgarcons.com/products/0-tvinni",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Isager",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "0 Eco (Alpaca 1)",
+          "handle": "0-eco-alpaca-1",
+          "productUrl": "https://boutiquelesgarcons.com/products/0-eco-alpaca-1",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Isager",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "0 Eco (Alpaca 2)",
+          "handle": "0-eco-alpaca-2",
+          "productUrl": "https://boutiquelesgarcons.com/products/0-eco-alpaca-2",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Isager",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "0 Eco (Alpaca 3)",
+          "handle": "0-eco-alpaca-3",
+          "productUrl": "https://boutiquelesgarcons.com/products/0-eco-alpaca-3",
+          "price": 13,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Isager",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "0 Eco (Merilin)",
+          "handle": "0-eco-merilin",
+          "productUrl": "https://boutiquelesgarcons.com/products/0-eco-merilin",
+          "price": 13,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Isager",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "0 Eco (Silk Mohair)",
+          "handle": "0-eco-silk-mohair",
+          "productUrl": "https://boutiquelesgarcons.com/products/0-eco-silk-mohair",
+          "price": 19,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Isager",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Les Laines Mailles A Part",
+      "website": "https://www.leslainesmaillesapart.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "BFL Gotland Fingering - Améthyste",
+          "handle": "bfl-gotland-fingering-amethyste",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-amethyste",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "BFL Gotland Fingering - Bitume",
+          "handle": "bfl-gotland-fingering-bitume",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-bitume",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "BFL Gotland Fingering - Bleuet",
+          "handle": "bfl-gotland-fingering-bleuet",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-bleuet",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "BFL Gotland Fingering - Bourgogne",
+          "handle": "bfl-gotland-fingering-bourgogne",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-bourgogne",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "BFL Gotland Fingering - Brique",
+          "handle": "bfl-gotland-fingering-brique",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-brique",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "BFL Gotland Fingering - Champ d'oliviers",
+          "handle": "bfl-gotland-fingering-champ-doliviers",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-champ-doliviers",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "BFL Gotland Fingering - Forêt",
+          "handle": "bfl-gotland-fingering-foret",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-foret",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "BFL Gotland Fingering - Glacier",
+          "handle": "bfl-gotland-fingering-glacier",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-glacier",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "BFL Gotland Fingering - Lagon",
+          "handle": "bfl-gotland-fingering-lagon",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-lagon",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "BFL Gotland Fingering - Lavande",
+          "handle": "bfl-gotland-fingering-lavande",
+          "productUrl": "https://www.leslainesmaillesapart.com/products/bfl-gotland-fingering-lavande",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Les laines Mailles à part s.e.n.c.",
+          "productType": "Laine",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Lichen and Lace",
+      "website": "http://www.lichenandlace.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "a year of embroidery",
+          "handle": "a-year-of-embroidery",
+          "productUrl": "http://www.lichenandlace.com/products/a-year-of-embroidery",
+          "price": 360,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Lichen and Lace",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "a year of rustic",
+          "handle": "a-year-of-rustic",
+          "productUrl": "http://www.lichenandlace.com/products/a-year-of-rustic",
+          "price": 360,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Lichen and Lace",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "a year of socks",
+          "handle": "a-year-of-socks",
+          "productUrl": "http://www.lichenandlace.com/products/a-year-of-socks",
+          "price": 360,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Lichen and Lace",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Advent 2025",
+          "handle": "advent-2025",
+          "productUrl": "http://www.lichenandlace.com/products/advent-2025",
+          "price": 200,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "LichenandLace",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "advent calendar 2023",
+          "handle": "advent-calendar",
+          "productUrl": "http://www.lichenandlace.com/products/advent-calendar",
+          "price": 166,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "LichenandLace",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "amber",
+          "handle": "amber",
+          "productUrl": "http://www.lichenandlace.com/products/amber",
+          "price": 27,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LichenandLace",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "amber",
+          "handle": "amber-1",
+          "productUrl": "http://www.lichenandlace.com/products/amber-1",
+          "price": 5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Lichen and Lace",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "amethyst",
+          "handle": "amethyst",
+          "productUrl": "http://www.lichenandlace.com/products/amethyst",
+          "price": 27,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LichenandLace",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "amethyst",
+          "handle": "amethyst-1",
+          "productUrl": "http://www.lichenandlace.com/products/amethyst-1",
+          "price": 5,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Lichen and Lace",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "amethyst isle",
+          "handle": "amethyst-isle",
+          "productUrl": "http://www.lichenandlace.com/products/amethyst-isle",
+          "price": 42,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LichenandLace",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Little Barn Studio 2",
+      "website": "https://www.littlebarnstudio.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "80s Workout Socks - SW Merino Top - 22 micron",
+          "handle": "80s-workout-socks-sw-merino-top-22-micron",
+          "productUrl": "https://www.littlebarnstudio.ca/products/80s-workout-socks-sw-merino-top-22-micron",
+          "price": 19,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Little Barn Studio",
+          "productType": "Merino",
+          "image": null
+        },
+        {
+          "title": "A Little Book of Big Holes for Hand-Knitters - Ebook - Lucy Neatby",
+          "handle": "a-little-book-of-big-holes-for-hand-knitters-ebook-lucy-neatby",
+          "productUrl": "https://www.littlebarnstudio.ca/products/a-little-book-of-big-holes-for-hand-knitters-ebook-lucy-neatby",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Lucy Neatby",
+          "productType": "Ebook",
+          "image": null
+        },
+        {
+          "title": "A Little of What You Fancy Scarf by Lucy Neatby - Digital Pattern",
+          "handle": "a-little-of-what-you-fancy-scarf-by-lucy-neatby-digital-pattern",
+          "productUrl": "https://www.littlebarnstudio.ca/products/a-little-of-what-you-fancy-scarf-by-lucy-neatby-digital-pattern",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Lucy Neatby",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Abracadabra Scarf by Lucy Neatby - Digital Pattern",
+          "handle": "abracadabra-scarf-by-lucy-neatby-digital-pattern",
+          "productUrl": "https://www.littlebarnstudio.ca/products/abracadabra-scarf-by-lucy-neatby-digital-pattern",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Lucy Neatby",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Achtung Achtung - Snowy Owl Worsted",
+          "handle": "achtung-achtung-snowy-owl-worsted",
+          "productUrl": "https://www.littlebarnstudio.ca/products/achtung-achtung-snowy-owl-worsted",
+          "price": 18,
+          "compareAtPrice": 24,
+          "available": true,
+          "vendor": "Little Barn Studio",
+          "productType": "Snowy Owl",
+          "image": null
+        },
+        {
+          "title": "Adventure Mittens by Lucy Neatby - Digital Pattern",
+          "handle": "adventure-mittens-by-lucy-neatby",
+          "productUrl": "https://www.littlebarnstudio.ca/products/adventure-mittens-by-lucy-neatby",
+          "price": 7,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Lucy Neatby",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "All 16 DVDs Bundle",
+          "handle": "all-16-dvds-bundle",
+          "productUrl": "https://www.littlebarnstudio.ca/products/all-16-dvds-bundle",
+          "price": 111,
+          "compareAtPrice": 222,
+          "available": true,
+          "vendor": "Lucy Neatby",
+          "productType": "Course",
+          "image": null
+        },
+        {
+          "title": "Almost Saintly Socks by Lucy Neatby | Digital Pattern",
+          "handle": "almost-saintly-socks-by-lucy-neatby-digital-pattern",
+          "productUrl": "https://www.littlebarnstudio.ca/products/almost-saintly-socks-by-lucy-neatby-digital-pattern",
+          "price": 7,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Lucy Neatby",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Andean Vest Recipe by Lucy Neatby - Digital Pattern",
+          "handle": "andean-vest-recipe-by-lucy-neatby-digital-pattern",
+          "productUrl": "https://www.littlebarnstudio.ca/products/andean-vest-recipe-by-lucy-neatby-digital-pattern",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Lucy Neatby",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Annapurna 1 & 2 DK Hats by Lucy Neatby | Digital Pattern",
+          "handle": "annapurna-1-2-dk-hats-by-lucy-neatby-digital-pattern",
+          "productUrl": "https://www.littlebarnstudio.ca/products/annapurna-1-2-dk-hats-by-lucy-neatby-digital-pattern",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Lucy Neatby",
+          "productType": "Pattern",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "the Little Red Mitten 1",
+      "website": "https://littleredmitten.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Baa'd Girl Yarns: County Vacay Sock",
+          "handle": "baad-girl-yarns-county-vacay-sock",
+          "productUrl": "https://littleredmitten.com/products/baad-girl-yarns-county-vacay-sock",
+          "price": 24,
+          "compareAtPrice": 24,
+          "available": true,
+          "vendor": "Baaa'd Girl Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Baaa'd Girl Yarns: Blissed Out - County Vacay Yarns",
+          "handle": "baaad-girl-yarns-blissed-out",
+          "productUrl": "https://littleredmitten.com/products/baaad-girl-yarns-blissed-out",
+          "price": 29,
+          "compareAtPrice": 29,
+          "available": true,
+          "vendor": "Baaa'd Girl Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Briggs and Little Durasport",
+          "handle": "briggs-and-little-durasport",
+          "productUrl": "https://littleredmitten.com/products/briggs-and-little-durasport",
+          "price": 7,
+          "compareAtPrice": 7,
+          "available": true,
+          "vendor": "Briggs and Little",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Briggs and Little Heritage",
+          "handle": "briggs-and-little-heritage",
+          "productUrl": "https://littleredmitten.com/products/briggs-and-little-heritage",
+          "price": 7,
+          "compareAtPrice": 7,
+          "available": true,
+          "vendor": "Briggs and Little",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Briggs and Little Tuffy",
+          "handle": "briggs-and-little-tuffy",
+          "productUrl": "https://littleredmitten.com/products/briggs-and-little-tuffy",
+          "price": 7,
+          "compareAtPrice": 7,
+          "available": true,
+          "vendor": "Briggs and Little",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Briggs and Little: Sport",
+          "handle": "briggs-and-little-durasport-1",
+          "productUrl": "https://littleredmitten.com/products/briggs-and-little-durasport-1",
+          "price": 7,
+          "compareAtPrice": 7,
+          "available": true,
+          "vendor": "Briggs and Little",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Bus Trip to Knit City Toronto 2026",
+          "handle": "bus-trip-kct",
+          "productUrl": "https://littleredmitten.com/products/bus-trip-kct",
+          "price": 93,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Little Red Mitten",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Cascade 220 Heathers & Solids",
+          "handle": "cascade-220-heathers-solids",
+          "productUrl": "https://littleredmitten.com/products/cascade-220-heathers-solids",
+          "price": 13,
+          "compareAtPrice": 13,
+          "available": true,
+          "vendor": "Cascade Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Cascade 220 Superwash Merino",
+          "handle": "cascade-220-superwash-merino",
+          "productUrl": "https://littleredmitten.com/products/cascade-220-superwash-merino",
+          "price": 15,
+          "compareAtPrice": 15,
+          "available": true,
+          "vendor": "Cascade Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Cascade Yarns: Botanika",
+          "handle": "cascade-yarns-botanika",
+          "productUrl": "https://littleredmitten.com/products/cascade-yarns-botanika",
+          "price": 15,
+          "compareAtPrice": 15,
+          "available": true,
+          "vendor": "Cascade Yarns",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Ma Laine Maison 1",
+      "website": "https://malainemaison.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "\"Aiguilles & Moi \" - Châle au crochet  \"Lost in time\"",
+          "handle": "aiguilles-moi-chale-au-crochet-lost-in-time",
+          "productUrl": "https://malainemaison.com/products/aiguilles-moi-chale-au-crochet-lost-in-time",
+          "price": 0,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ma laine maison",
+          "productType": "Projet tricot",
+          "image": null
+        },
+        {
+          "title": "Aiguilles circulaires",
+          "handle": "aiguilles-circulaires-rocket-carrees",
+          "productUrl": "https://malainemaison.com/products/aiguilles-circulaires-rocket-carrees",
+          "price": 17.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ma laine maison",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Aiguilles circulaires fixes - Fil ferme (US 0 à US 5)",
+          "handle": "aiguilles-circulaires-fixes-fil-ferme-us-0-a-us-5",
+          "productUrl": "https://malainemaison.com/products/aiguilles-circulaires-fixes-fil-ferme-us-0-a-us-5",
+          "price": 20.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ma laine maison",
+          "productType": "Accessoires de tricot",
+          "image": null
+        },
+        {
+          "title": "Aiguilles circulaires fixes - Fil ferme (US 6 à US 11)",
+          "handle": "aiguilles-circulaires-fixes-fil-ferme-us-6-a-us-11",
+          "productUrl": "https://malainemaison.com/products/aiguilles-circulaires-fixes-fil-ferme-us-6-a-us-11",
+          "price": 20.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ma laine maison",
+          "productType": "Accessoires de tricot",
+          "image": null
+        },
+        {
+          "title": "Aiguilles circulaires fixes - Fil souple (US 0 à US 5)",
+          "handle": "aiguilles-circulaires-fixes-fil-souple",
+          "productUrl": "https://malainemaison.com/products/aiguilles-circulaires-fixes-fil-souple",
+          "price": 20.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ma laine maison",
+          "productType": "Accessoires de tricot",
+          "image": null
+        },
+        {
+          "title": "Aiguilles circulaires fixes - Fil souple (US 6 à US 11)",
+          "handle": "aiguilles-circulaires-fixes-fil-souple-us-6-a-us-11",
+          "productUrl": "https://malainemaison.com/products/aiguilles-circulaires-fixes-fil-souple-us-6-a-us-11",
+          "price": 20.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ma laine maison",
+          "productType": "Accessoires de tricot",
+          "image": null
+        },
+        {
+          "title": "Aiguilles double-pointe",
+          "handle": "aiguilles-double-pointe",
+          "productUrl": "https://malainemaison.com/products/aiguilles-double-pointe",
+          "price": 18.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ma laine maison",
+          "productType": "Accessoires de tricot",
+          "image": null
+        },
+        {
+          "title": "Aiguilles interchangeables",
+          "handle": "aiguilles-interchangeables",
+          "productUrl": "https://malainemaison.com/products/aiguilles-interchangeables",
+          "price": 20.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ma laine maison",
+          "productType": "Accessoires de tricot",
+          "image": null
+        },
+        {
+          "title": "Ancien Berger Autralien/DK",
+          "handle": "ancien-berger-autralien-dk",
+          "productUrl": "https://malainemaison.com/products/ancien-berger-autralien-dk",
+          "price": 45,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Ma laine maison",
+          "productType": "Laine",
+          "image": null
+        },
+        {
+          "title": "Balles de séchage",
+          "handle": "balles-de-sechage",
+          "productUrl": "https://malainemaison.com/products/balles-de-sechage",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Ma laine maison",
+          "productType": "Balles de séchage",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Muster",
+      "website": "https://musterpattern.ca/",
+      "source": null,
+      "products": []
+    },
+    {
+      "vendorName": "Numana Yarns 1",
+      "website": "https://www.numanayarns.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "2025 Countdown Calendar",
+          "handle": "2025-countdown-calendar",
+          "productUrl": "https://www.numanayarns.com/products/2025-countdown-calendar",
+          "price": 220,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Numana Yarns",
+          "productType": "Sock",
+          "image": null
+        },
+        {
+          "title": "60 Quick Granny Squares",
+          "handle": "60-quick-granny-squares",
+          "productUrl": "https://www.numanayarns.com/products/60-quick-granny-squares",
+          "price": 25.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Estelle",
+          "productType": "Book",
+          "image": null
+        },
+        {
+          "title": "60 Quick Knitted Toys",
+          "handle": "60-quick-knitted-toys",
+          "productUrl": "https://www.numanayarns.com/products/60-quick-knitted-toys",
+          "price": 20.95,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Estelle",
+          "productType": "Book",
+          "image": null
+        },
+        {
+          "title": "A Modern Guide To Textured Crochet",
+          "handle": "a-modern-guide-to-textured-crochet",
+          "productUrl": "https://www.numanayarns.com/products/a-modern-guide-to-textured-crochet",
+          "price": 29,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Estelle",
+          "productType": "Book",
+          "image": null
+        },
+        {
+          "title": "Addi Comfort Grip Crochet Hook",
+          "handle": "addi-con-mfort-grip-crochet-hook",
+          "productUrl": "https://www.numanayarns.com/products/addi-con-mfort-grip-crochet-hook",
+          "price": 9.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addi",
+          "productType": "Crochet Hook",
+          "image": null
+        },
+        {
+          "title": "AddiDuett",
+          "handle": "addiduett",
+          "productUrl": "https://www.numanayarns.com/products/addiduett",
+          "price": 9.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addi",
+          "productType": "Crochet Hook",
+          "image": null
+        },
+        {
+          "title": "AddiSwing Crochet Hook",
+          "handle": "addiswing-crochet-hook",
+          "productUrl": "https://www.numanayarns.com/products/addiswing-crochet-hook",
+          "price": 21.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addi",
+          "productType": "Crochet Hook",
+          "image": null
+        },
+        {
+          "title": "AddiSwing Maxi Crochet Hook",
+          "handle": "addiswing-maxi-crochet-hook",
+          "productUrl": "https://www.numanayarns.com/products/addiswing-maxi-crochet-hook",
+          "price": 21.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addi",
+          "productType": "Crochet Hook",
+          "image": null
+        },
+        {
+          "title": "Alterknit Stitch Dictionary",
+          "handle": "alterknit-stitch-dictionary",
+          "productUrl": "https://www.numanayarns.com/products/alterknit-stitch-dictionary",
+          "price": 35.99,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Estelle",
+          "productType": "Book",
+          "image": null
+        },
+        {
+          "title": "Amesbury Fingering Gold - Bloom",
+          "handle": "amesbury-fingering-gold-bloom",
+          "productUrl": "https://www.numanayarns.com/products/amesbury-fingering-gold-bloom",
+          "price": 35,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Numana Yarns",
+          "productType": "Fingering",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Ok Logo 3",
+      "website": "https://www.octoberknits.com",
+      "source": null,
+      "products": []
+    },
+    {
+      "vendorName": "Pretty Little Yarns 1",
+      "website": "https://prettylittleyarns.ca/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "3D Printed Knitting Tools",
+          "handle": "3d-printed-knitting-tools",
+          "productUrl": "https://prettylittleyarns.ca/products/3d-printed-knitting-tools",
+          "price": 4,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Dye Pretty",
+          "productType": "Accessory",
+          "image": null
+        },
+        {
+          "title": "3D Printed Mini Blockers",
+          "handle": "3d-printed-mini-blockers",
+          "productUrl": "https://prettylittleyarns.ca/products/3d-printed-mini-blockers",
+          "price": 4,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bear Valley Fibres",
+          "productType": "Accessory",
+          "image": null
+        },
+        {
+          "title": "Andante",
+          "handle": "andante",
+          "productUrl": "https://prettylittleyarns.ca/products/andante",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sweet Paprika Designs",
+          "productType": "Worsted",
+          "image": null
+        },
+        {
+          "title": "BFL Sport/DK (Formerly Pasture Sport)",
+          "handle": "pasture-sport",
+          "productUrl": "https://prettylittleyarns.ca/products/pasture-sport",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Essence of Autumn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Bracelet Looms",
+          "handle": "bracelet-looms",
+          "productUrl": "https://prettylittleyarns.ca/products/bracelet-looms",
+          "price": 17,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Chip and Sparrow",
+          "productType": "Tool",
+          "image": null
+        },
+        {
+          "title": "Circlet Superwash Merino/Silk Hand-Dyed Fibre Braid",
+          "handle": "circlet",
+          "productUrl": "https://prettylittleyarns.ca/products/circlet",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Dye Pretty",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Coronet Worsted",
+          "handle": "new-coronet-worsted-crystal-collection",
+          "productUrl": "https://prettylittleyarns.ca/products/new-coronet-worsted-crystal-collection",
+          "price": 21,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Dye Pretty",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Diadem Sport",
+          "handle": "new-diadem-sport-crystal-collection",
+          "productUrl": "https://prettylittleyarns.ca/products/new-diadem-sport-crystal-collection",
+          "price": 21,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Dye Pretty",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Dyed to Order: Repeatable Colourways",
+          "handle": "dyed-to-order",
+          "productUrl": "https://prettylittleyarns.ca/products/dyed-to-order",
+          "price": 21,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Dye Pretty",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Escarpment",
+          "handle": "escarpment",
+          "productUrl": "https://prettylittleyarns.ca/products/escarpment",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Essence of Autumn",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Revolution Wool",
+      "website": "https://revolutionwoolco.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "100% Pure Loose Wool Fill",
+          "handle": "loose-wool-filling",
+          "productUrl": "https://revolutionwoolco.com/products/loose-wool-filling",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "Crafting Fibres",
+          "image": null
+        },
+        {
+          "title": "Canadian Felt Yoga Mat",
+          "handle": "wool-felt-yoga-mat-camping-mat",
+          "productUrl": "https://revolutionwoolco.com/products/wool-felt-yoga-mat-camping-mat",
+          "price": 207,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "Yoga & Pilates Mats",
+          "image": null
+        },
+        {
+          "title": "Canadian Wool Blanket - Classic Collection",
+          "handle": "productwool-blanket249",
+          "productUrl": "https://revolutionwoolco.com/products/productwool-blanket249",
+          "price": 185,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "Blankets",
+          "image": null
+        },
+        {
+          "title": "Canadian Wool Blanket - Colours of Canada Premium Collection",
+          "handle": "wool-blanket-premium-collection",
+          "productUrl": "https://revolutionwoolco.com/products/wool-blanket-premium-collection",
+          "price": 277,
+          "compareAtPrice": 277,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "Blankets",
+          "image": null
+        },
+        {
+          "title": "Canadian Wool Filled Pillow",
+          "handle": "productwool-filled-pillow10",
+          "productUrl": "https://revolutionwoolco.com/products/productwool-filled-pillow10",
+          "price": 104,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "Pillows",
+          "image": null
+        },
+        {
+          "title": "Canadian Wool T-Shirt",
+          "handle": "t-shirt",
+          "productUrl": "https://revolutionwoolco.com/products/t-shirt",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "T-shirts",
+          "image": null
+        },
+        {
+          "title": "Crib Size Canadian Wool Duvet",
+          "handle": "wool-filled-duvet-copy",
+          "productUrl": "https://revolutionwoolco.com/products/wool-filled-duvet-copy",
+          "price": 129,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "Quilts & Comforters",
+          "image": null
+        },
+        {
+          "title": "Dryer Balls",
+          "handle": "productdryer-balls4",
+          "productUrl": "https://revolutionwoolco.com/products/productdryer-balls4",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "Laundry Balls",
+          "image": null
+        },
+        {
+          "title": "Felt Laptop Pouch",
+          "handle": "wool-felt-laptop-pouch",
+          "productUrl": "https://revolutionwoolco.com/products/wool-felt-laptop-pouch",
+          "price": 56,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "Office",
+          "image": null
+        },
+        {
+          "title": "Gift Card for Revolution Wool Company",
+          "handle": "gift-card-for-revolution-wool-company",
+          "productUrl": "https://revolutionwoolco.com/products/gift-card-for-revolution-wool-company",
+          "price": 18.41,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Revolution Wool Company",
+          "productType": "Gift Cards",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Roving Textiles",
+      "website": "https://www.rovingtextiles.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Ace: 30” Large Adjustable Weaving Loom",
+          "handle": "30-large-adjustable-weaving-loom",
+          "productUrl": "https://www.rovingtextiles.com/products/30-large-adjustable-weaving-loom",
+          "price": 143,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "rovingtextiles",
+          "productType": "Loom",
+          "image": null
+        },
+        {
+          "title": "Acrylic Weaving Comb",
+          "handle": "square-acrylic-weaving-comb",
+          "productUrl": "https://www.rovingtextiles.com/products/square-acrylic-weaving-comb",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "rovingtextiles",
+          "productType": "Weaving Tool",
+          "image": null
+        },
+        {
+          "title": "Acrylic Weaving Needle",
+          "handle": "acrylic-weaving-needle",
+          "productUrl": "https://www.rovingtextiles.com/products/acrylic-weaving-needle",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "rovingtextiles",
+          "productType": "Weaving Tools",
+          "image": null
+        },
+        {
+          "title": "Annie-France Wholesale Beginner Weaving Looms",
+          "handle": "annie-france-wholesale-beginner-weaving-looms",
+          "productUrl": "https://www.rovingtextiles.com/products/annie-france-wholesale-beginner-weaving-looms",
+          "price": 126,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "rovingtextiles",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Baltic Club - Natural Dye Kit",
+          "handle": "baltic-club-natural-dye-kit",
+          "productUrl": "https://www.rovingtextiles.com/products/baltic-club-natural-dye-kit",
+          "price": 19,
+          "compareAtPrice": 34,
+          "available": true,
+          "vendor": "Baltic Club",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Beginner Weaving E-Class",
+          "handle": "beginner-weaving-e-class",
+          "productUrl": "https://www.rovingtextiles.com/products/beginner-weaving-e-class",
+          "price": 22,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "rovingtextiles",
+          "productType": "Workshop",
+          "image": null
+        },
+        {
+          "title": "Beginner Weaving Loom Kit",
+          "handle": "beginner-weaving-looms",
+          "productUrl": "https://www.rovingtextiles.com/products/beginner-weaving-looms",
+          "price": 30,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "rovingtextiles",
+          "productType": "Weaving Loom",
+          "image": null
+        },
+        {
+          "title": "Bonza: Adjustable Weaving Loom",
+          "handle": "bonza-adjustable-weaving-loom",
+          "productUrl": "https://www.rovingtextiles.com/products/bonza-adjustable-weaving-loom",
+          "price": 324,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "rovingtextiles",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bouquet T-shirt",
+          "handle": "bouquet-t-shirt",
+          "productUrl": "https://www.rovingtextiles.com/products/bouquet-t-shirt",
+          "price": 8,
+          "compareAtPrice": 29,
+          "available": true,
+          "vendor": "rovingtextiles",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Byron: 40\" Adjustable Weaving Loom ",
+          "handle": "40-xl-adjustable-weaving-loom",
+          "productUrl": "https://www.rovingtextiles.com/products/40-xl-adjustable-weaving-loom",
+          "price": 199,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Roving Textiles",
+          "productType": "Weaving Loom",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Ruach Crafts",
+      "website": "https://ruachcrafts.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "10th Anniversary Shamrocks",
+          "handle": "10th-anniversary-shamrocks",
+          "productUrl": "https://ruachcrafts.com/products/10th-anniversary-shamrocks",
+          "price": 10,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Claddagh",
+          "productType": "Cross stitch",
+          "image": null
+        },
+        {
+          "title": "7 Species of Life",
+          "handle": "7-species-of-life",
+          "productUrl": "https://ruachcrafts.com/products/7-species-of-life",
+          "price": 20,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Kooler Designs",
+          "productType": "Cross stitch",
+          "image": null
+        },
+        {
+          "title": "A Floral Renaissance",
+          "handle": "item-1",
+          "productUrl": "https://ruachcrafts.com/products/item-1",
+          "price": 13,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Vickery",
+          "productType": "Cross stitch",
+          "image": null
+        },
+        {
+          "title": "A Life Lived for Others",
+          "handle": "a-life-lived-for-others",
+          "productUrl": "https://ruachcrafts.com/products/a-life-lived-for-others",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Glendon Place",
+          "productType": "Cross stitch",
+          "image": null
+        },
+        {
+          "title": "A Man's a Man",
+          "handle": "copy-of-london-taxi",
+          "productUrl": "https://ruachcrafts.com/products/copy-of-london-taxi",
+          "price": 23,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Textile Heritage",
+          "productType": "Cross stitch",
+          "image": null
+        },
+        {
+          "title": "A Woman of Noble Character",
+          "handle": "a-woman-of-noble-character",
+          "productUrl": "https://ruachcrafts.com/products/a-woman-of-noble-character",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "My Big Toe",
+          "productType": "Cross stitch",
+          "image": null
+        },
+        {
+          "title": "Aberlemno Circle",
+          "handle": "aberlemno-circle",
+          "productUrl": "https://ruachcrafts.com/products/aberlemno-circle",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Claddagh",
+          "productType": "Cross stitch",
+          "image": null
+        },
+        {
+          "title": "Administration",
+          "handle": "administration",
+          "productUrl": "https://ruachcrafts.com/products/administration",
+          "price": 45,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SaggiTaurus",
+          "productType": "Cross stitch",
+          "image": null
+        },
+        {
+          "title": "Aida - 14 Count (Quarters)",
+          "handle": "aida-14-count-halves",
+          "productUrl": "https://ruachcrafts.com/products/aida-14-count-halves",
+          "price": 24,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Fabric Flair",
+          "productType": "Fabric",
+          "image": null
+        },
+        {
+          "title": "Aida - 14 Count (Yards)",
+          "handle": "aida-14-count",
+          "productUrl": "https://ruachcrafts.com/products/aida-14-count",
+          "price": 82,
+          "compareAtPrice": 80,
+          "available": true,
+          "vendor": "Fabric Flair",
+          "productType": "Fabric",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Scrumptiouspurl",
+      "website": "https://www.scrumptiouspurl.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "\"Cork\"alicious",
+          "handle": "corkalicious",
+          "productUrl": "https://www.scrumptiouspurl.com/products/corkalicious",
+          "price": 30,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "scrumptiouspurl",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Ace charm",
+          "handle": "ace-charm",
+          "productUrl": "https://www.scrumptiouspurl.com/products/ace-charm",
+          "price": 4,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "scrumptiouspurl",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Almond Toast",
+          "handle": "almont-toast",
+          "productUrl": "https://www.scrumptiouspurl.com/products/almont-toast",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Scrumptiouspurl",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Astoria",
+          "handle": "astoria",
+          "productUrl": "https://www.scrumptiouspurl.com/products/astoria",
+          "price": 27,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Scrumptiouspurl",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bayou",
+          "handle": "bayou",
+          "productUrl": "https://www.scrumptiouspurl.com/products/bayou",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Scrumptiouspurl",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bazaar Bowls - Set of 3",
+          "handle": "bazaar-bowls-set-of-3",
+          "productUrl": "https://www.scrumptiouspurl.com/products/bazaar-bowls-set-of-3",
+          "price": 65,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "scrumptiouspurl",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bead Heart Stitch Markers",
+          "handle": "bead-heart-stitch-markers",
+          "productUrl": "https://www.scrumptiouspurl.com/products/bead-heart-stitch-markers",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "scrumptiouspurl",
+          "productType": "Notions",
+          "image": null
+        },
+        {
+          "title": "Bead Teardrop Stitch Markers",
+          "handle": "bead-teardrop-stitch-markers",
+          "productUrl": "https://www.scrumptiouspurl.com/products/bead-teardrop-stitch-markers",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "scrumptiouspurl7",
+          "productType": "Notions",
+          "image": null
+        },
+        {
+          "title": "Bicycle Lane",
+          "handle": "bicycle-lan",
+          "productUrl": "https://www.scrumptiouspurl.com/products/bicycle-lan",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Scrumptiouspurl",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Birch",
+          "handle": "birch",
+          "productUrl": "https://www.scrumptiouspurl.com/products/birch",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Scrumptiouspurl",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Sheeps Ahoy",
+      "website": "https://sheepsahoy.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Aal Ower Toorie",
+          "handle": "aal-ower-toorie",
+          "productUrl": "https://sheepsahoy.com/products/aal-ower-toorie",
+          "price": 61,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sheeps Ahoy",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Bonnie Isle Hat (SWW2022) Yarn Only",
+          "handle": "bonnie-isle-hat-sww2022-yarn-only",
+          "productUrl": "https://sheepsahoy.com/products/bonnie-isle-hat-sww2022-yarn-only",
+          "price": 46,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sheeps Ahoy",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Buggiflooer Beanie (SWW 2023) Yarn Only",
+          "handle": "buggiflooer-beanie-sww-2023-yarn-only",
+          "productUrl": "https://sheepsahoy.com/products/buggiflooer-beanie-sww-2023-yarn-only",
+          "price": 53,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sheeps Ahoy",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Colours of Shetland",
+          "handle": "colours-of-shetland",
+          "productUrl": "https://sheepsahoy.com/products/colours-of-shetland",
+          "price": 30,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Kate Davies",
+          "productType": "Book",
+          "image": null
+        },
+        {
+          "title": "Da Crofter's Kep (SWW21) Yarn Only",
+          "handle": "da-crofters-kep-sww21-yarn-only",
+          "productUrl": "https://sheepsahoy.com/products/da-crofters-kep-sww21-yarn-only",
+          "price": 53,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sheeps Ahoy",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Evolution",
+          "handle": "evolution",
+          "productUrl": "https://sheepsahoy.com/products/evolution",
+          "price": 46,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sheeps Ahoy",
+          "productType": "Book",
+          "image": null
+        },
+        {
+          "title": "Flowers of Life",
+          "handle": "flowers-of-life-kit",
+          "productUrl": "https://sheepsahoy.com/products/flowers-of-life-kit",
+          "price": 180,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sheeps Ahoy",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Gift Card",
+          "handle": "gift-card",
+          "productUrl": "https://sheepsahoy.com/products/gift-card",
+          "price": 18.41,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sheeps Ahoy",
+          "productType": "Gift Card",
+          "image": null
+        },
+        {
+          "title": "Grand Shetland Adventure Knits by Mary Jane Mucklestone and Gudrun Johnston",
+          "handle": "grand-shetland-adventure-knits-by-mary-jane-mucklestone-and-gudrun-johnston",
+          "productUrl": "https://sheepsahoy.com/products/grand-shetland-adventure-knits-by-mary-jane-mucklestone-and-gudrun-johnston",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sheeps Ahoy",
+          "productType": "Book",
+          "image": null
+        },
+        {
+          "title": "Hibiscus Kit",
+          "handle": "hibiscus-kit",
+          "productUrl": "https://sheepsahoy.com/products/hibiscus-kit",
+          "price": 136,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Simply Shetland",
+          "productType": "Kit",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Signature Yarns 1",
+      "website": "https://signatureyarns.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Belvedere Wrap Kit: Loam Saki with Kilimanjaro Stuff Version",
+          "handle": "belvedere-wrap-kit-loam-saki-amp-kilimanjaro-stuff-version",
+          "productUrl": "https://signatureyarns.com/products/belvedere-wrap-kit-loam-saki-amp-kilimanjaro-stuff-version",
+          "price": 72,
+          "compareAtPrice": 96,
+          "available": true,
+          "vendor": "Robin Hunter Collection",
+          "productType": "Needlecraft Kits",
+          "image": null
+        },
+        {
+          "title": "Belvedere Wrap Kit: Organic Cotton Cactus",
+          "handle": "belvedere-wrap-organic-cotton-versionl-cactus",
+          "productUrl": "https://signatureyarns.com/products/belvedere-wrap-organic-cotton-versionl-cactus",
+          "price": 49.5,
+          "compareAtPrice": 62,
+          "available": true,
+          "vendor": "Robin Hunter Collection",
+          "productType": "Hand Knitting Kits",
+          "image": null
+        },
+        {
+          "title": "Belvedere Wrap Kit: Organic Cotton Denim",
+          "handle": "belvedere-wrap-organic-cotton-denim",
+          "productUrl": "https://signatureyarns.com/products/belvedere-wrap-organic-cotton-denim",
+          "price": 49.5,
+          "compareAtPrice": 62,
+          "available": true,
+          "vendor": "Robin Hunter Collection",
+          "productType": "Hand Knitting Kits",
+          "image": null
+        },
+        {
+          "title": "Belvedere Wrap Kit: Organic Cotton Flax",
+          "handle": "belvedere-wrap-kit-organic-cotton-flax",
+          "productUrl": "https://signatureyarns.com/products/belvedere-wrap-kit-organic-cotton-flax",
+          "price": 49.5,
+          "compareAtPrice": 62,
+          "available": true,
+          "vendor": "Robin Hunter Collection",
+          "productType": "Hand Knitting Kits",
+          "image": null
+        },
+        {
+          "title": "Belvedere Wrap Kit: Organic Cotton Mossy Place",
+          "handle": "belvedere-wrap-mossy-place-organic-cotton-version",
+          "productUrl": "https://signatureyarns.com/products/belvedere-wrap-mossy-place-organic-cotton-version",
+          "price": 49.5,
+          "compareAtPrice": 62,
+          "available": true,
+          "vendor": "Robin Hunter Collection",
+          "productType": "Hand Knitting Kits",
+          "image": null
+        },
+        {
+          "title": "Belvedere Wrap Kit: Organic Cotton Polar Bear",
+          "handle": "belvedere-wrap-kit-organic-cotton-polar-bear",
+          "productUrl": "https://signatureyarns.com/products/belvedere-wrap-kit-organic-cotton-polar-bear",
+          "price": 49.5,
+          "compareAtPrice": 62,
+          "available": true,
+          "vendor": "Robin Hunter Collection",
+          "productType": "Hand Knitting Kits",
+          "image": null
+        },
+        {
+          "title": "Belvedere Wrap Kit: Organic Cotton Sand",
+          "handle": "75paanvadxz10jlez7w4yccfelsa3c",
+          "productUrl": "https://signatureyarns.com/products/75paanvadxz10jlez7w4yccfelsa3c",
+          "price": 49.5,
+          "compareAtPrice": 62,
+          "available": true,
+          "vendor": "Robin Hunter Collection",
+          "productType": "Hand Knitting Kits",
+          "image": null
+        },
+        {
+          "title": "Belvedere Wrap Kit: Organic Cotton Seahorse",
+          "handle": "belvedere-wrap-kit-organic-cotton-seahorse",
+          "productUrl": "https://signatureyarns.com/products/belvedere-wrap-kit-organic-cotton-seahorse",
+          "price": 49.5,
+          "compareAtPrice": 62,
+          "available": true,
+          "vendor": "Robin Hunter Collection",
+          "productType": "Hand Knitting Kits",
+          "image": null
+        },
+        {
+          "title": "Belvedere Wrap Kit: Organic Cotton Silver",
+          "handle": "belvedere-wrap-organic-cottton",
+          "productUrl": "https://signatureyarns.com/products/belvedere-wrap-organic-cottton",
+          "price": 49.5,
+          "compareAtPrice": 62,
+          "available": true,
+          "vendor": "Robin Hunter Collection",
+          "productType": "Hand Knitting Kits",
+          "image": null
+        },
+        {
+          "title": "Belvedere Wrap Kit: Organic Cotton Sunrise",
+          "handle": "belvedere-wrap-organic-cotton-sunrise",
+          "productUrl": "https://signatureyarns.com/products/belvedere-wrap-organic-cotton-sunrise",
+          "price": 49.5,
+          "compareAtPrice": 62,
+          "available": false,
+          "vendor": "R",
+          "productType": "Hand Knitting Kits",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Smiling Sheep",
+      "website": "https://smilingsheepfineyarns.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "\"Blue jean baby\" - Tickled",
+          "handle": "blue-jean-baby-tickled",
+          "productUrl": "https://smilingsheepfineyarns.com/products/blue-jean-baby-tickled",
+          "price": 36,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "A Horse With  No Name - Smitten",
+          "handle": "a-horse-with-no-name-smitten",
+          "productUrl": "https://smilingsheepfineyarns.com/products/a-horse-with-no-name-smitten",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "A Horse With No Name - Smitten DK",
+          "handle": "a-horse-with-no-name-smitten-dk",
+          "productUrl": "https://smilingsheepfineyarns.com/products/a-horse-with-no-name-smitten-dk",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "A Horse With No Name - The Big Happy",
+          "handle": "a-horse-with-no-name-the-big-happy",
+          "productUrl": "https://smilingsheepfineyarns.com/products/a-horse-with-no-name-the-big-happy",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Ain't Even Done With the Night - Joy DK",
+          "handle": "aint-even-done-with-the-night-joy-dk",
+          "productUrl": "https://smilingsheepfineyarns.com/products/aint-even-done-with-the-night-joy-dk",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Ain't Even Done With the Night - Smitten",
+          "handle": "aint-even-done-with-the-night-smitten",
+          "productUrl": "https://smilingsheepfineyarns.com/products/aint-even-done-with-the-night-smitten",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Ain't Even Done With the Night - Smitten DK",
+          "handle": "aint-even-done-with-the-night-smitten-dk",
+          "productUrl": "https://smilingsheepfineyarns.com/products/aint-even-done-with-the-night-smitten-dk",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Ain't No Sunshine - Smitten",
+          "handle": "aint-no-sunshine-smitten",
+          "productUrl": "https://smilingsheepfineyarns.com/products/aint-no-sunshine-smitten",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Ain't No Sunshine - Smitten DK",
+          "handle": "aint-no-sunshine-smitten-dk",
+          "productUrl": "https://smilingsheepfineyarns.com/products/aint-no-sunshine-smitten-dk",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "All By Myself - Happy DK",
+          "handle": "all-by-myself-happy-dk-1",
+          "productUrl": "https://smilingsheepfineyarns.com/products/all-by-myself-happy-dk-1",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Smiling Sheep Fine Yarns",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Sonder Yarn",
+      "website": "http://www.sonderyarnco.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "A Simple Affair (Haven + Halo)",
+          "handle": "a-simple-affair-haven-halo",
+          "productUrl": "http://www.sonderyarnco.com/products/a-simple-affair-haven-halo",
+          "price": 97,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "A Simple Affair (Sunday Morning 4 Ply + Halo)",
+          "handle": "a-simple-affair-sunday-morning-4-ply-halo",
+          "productUrl": "http://www.sonderyarnco.com/products/a-simple-affair-sunday-morning-4-ply-halo",
+          "price": 126,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Alder Sweater by Rebecca Clow",
+          "handle": "alder-sweater-by-rebecca-clow",
+          "productUrl": "http://www.sonderyarnco.com/products/alder-sweater-by-rebecca-clow",
+          "price": 160,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Alpine Bloom by Caitlin Hunter",
+          "handle": "alpine-bloom-tee-by-caitlin-hunter",
+          "productUrl": "http://www.sonderyarnco.com/products/alpine-bloom-tee-by-caitlin-hunter",
+          "price": 96,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Apollonis Light by Sari Nordlund",
+          "handle": "apollonis-light-by-sari-nordlund",
+          "productUrl": "http://www.sonderyarnco.com/products/apollonis-light-by-sari-nordlund",
+          "price": 189,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Apple Flower by Clara Eggers",
+          "handle": "apple-blossom-by-clara-eggers",
+          "productUrl": "http://www.sonderyarnco.com/products/apple-blossom-by-clara-eggers",
+          "price": 253,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Artus by Natasja Hornby",
+          "handle": "artus-by-natasja-hornby",
+          "productUrl": "http://www.sonderyarnco.com/products/artus-by-natasja-hornby",
+          "price": 192,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Artus by Natasja Hornby (LUX SPORT VERSION)",
+          "handle": "copy-of-artus-by-natasja-hornby",
+          "productUrl": "http://www.sonderyarnco.com/products/copy-of-artus-by-natasja-hornby",
+          "price": 207,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Astera by Inese Sang (Fleece & Flax)",
+          "handle": "aster-fleece-flax",
+          "productUrl": "http://www.sonderyarnco.com/products/aster-fleece-flax",
+          "price": 131,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Astera by Inese Sang (Haven + Halo)",
+          "handle": "astera-by-inese-sanghaven-halo",
+          "productUrl": "http://www.sonderyarnco.com/products/astera-by-inese-sanghaven-halo",
+          "price": 193,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sonder Yarn Co.",
+          "productType": "Kit",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Songbird Yarn & Fibres",
+      "website": "http://songbirdfibres.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "American Blue Jay",
+          "handle": "american-blue-jay",
+          "productUrl": "http://songbirdfibres.ca/products/american-blue-jay",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "American Flamingo",
+          "handle": "american-flamingo",
+          "productUrl": "http://songbirdfibres.ca/products/american-flamingo",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "American Kestrel",
+          "handle": "american-kestrel",
+          "productUrl": "http://songbirdfibres.ca/products/american-kestrel",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Anna's Hummingbird",
+          "handle": "annas-hummingbird",
+          "productUrl": "http://songbirdfibres.ca/products/annas-hummingbird",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Atlantic Puffin",
+          "handle": "atlantic-puffin",
+          "productUrl": "http://songbirdfibres.ca/products/atlantic-puffin",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Baltimore Oriole",
+          "handle": "baltimore-oriole",
+          "productUrl": "http://songbirdfibres.ca/products/baltimore-oriole",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Barn Owl",
+          "handle": "barn-owl-1",
+          "productUrl": "http://songbirdfibres.ca/products/barn-owl-1",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Belted Kingfisher",
+          "handle": "belted-kingfisher",
+          "productUrl": "http://songbirdfibres.ca/products/belted-kingfisher",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Bird Nerd PIN",
+          "handle": "bird-nerd-pin",
+          "productUrl": "http://songbirdfibres.ca/products/bird-nerd-pin",
+          "price": 14,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Black-billed Magpie",
+          "handle": "black-billed-magpie",
+          "productUrl": "http://songbirdfibres.ca/products/black-billed-magpie",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Songbird Yarn & Fibres",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Sound Yarn & Fibre",
+      "website": "http://www.soundyarnandfibre.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "100% BFL/Silk Handspun Yarn | DK/Worsted",
+          "handle": "100-bfl-silk-handspun-yarn-dk-worsted",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/100-bfl-silk-handspun-yarn-dk-worsted",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bear Valley Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "100% Corriedale Handspun Yarn | DK/Worsted | Peachy Sunset",
+          "handle": "100-corriedale-handspun-yarn-dk-worsted",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/100-corriedale-handspun-yarn-dk-worsted",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bear Valley Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "100% Falkland Merino Handspun Yarn | DK | Lichen",
+          "handle": "70-merino-30-sulk-slub-handspun-yarn-dk-crystaline-copy",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/70-merino-30-sulk-slub-handspun-yarn-dk-crystaline-copy",
+          "price": 41,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Bear Valley Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "100% Merino Handspun Yarn | Bulky/Worsted | Berry",
+          "handle": "100-merino-handspun-yarn-bulky-worsted",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/100-merino-handspun-yarn-bulky-worsted",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Bear Valley Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "100% Merino Handspun Yarn | Sock/Fingering Weight",
+          "handle": "100-merino-handspun-yarn-sock-fingering-weight",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/100-merino-handspun-yarn-sock-fingering-weight",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Bear Valley Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "100% Merino Handspun Yarn | Worsted Weight | Cranberry",
+          "handle": "100-merino-handspun-yarn-worsted-weight",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/100-merino-handspun-yarn-worsted-weight",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Bear Valley Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "100% Merino Handspun Yarn| Chunky Worsted Weight | Pinky Purple",
+          "handle": "100-merino-handspun-yarn-chunky-worsted-weight",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/100-merino-handspun-yarn-chunky-worsted-weight",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bear Valley Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "100% Superwash BFL Handspun Yarn | Sport | Georgia",
+          "handle": "100-superwash-bfl-handspun-yarn-sport-pool-party-copy",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/100-superwash-bfl-handspun-yarn-sport-pool-party-copy",
+          "price": 45,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Bear Valley Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "70% Merino, 30% Sulk Slub Handspun Yarn | DK | Crystaline",
+          "handle": "100-superwash-bfl-handspun-yarn-sport-georgia-copy",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/100-superwash-bfl-handspun-yarn-sport-georgia-copy",
+          "price": 52,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Bear Valley Fibres",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Addi Express Hook",
+          "handle": "addi-express-hook",
+          "productUrl": "http://www.soundyarnandfibre.ca/products/addi-express-hook",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Addi",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "STE.MARG.SCOT.",
+      "website": "https://stemargscot.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Gift Card",
+          "handle": "gift-card",
+          "productUrl": "https://stemargscot.com/products/gift-card",
+          "price": 25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SteMargScot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Heart Wool Coasters",
+          "handle": "heart-wool-coasters",
+          "productUrl": "https://stemargscot.com/products/heart-wool-coasters",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SteMargScot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Pebble Wool Coasters",
+          "handle": "pebble-wool-coasters",
+          "productUrl": "https://stemargscot.com/products/pebble-wool-coasters",
+          "price": 38,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SteMargScot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Pure Canadian Felted Wool Sauna Hat",
+          "handle": "pure-canadian-felted-wool-sauna-hat",
+          "productUrl": "https://stemargscot.com/products/pure-canadian-felted-wool-sauna-hat",
+          "price": 88,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SteMargScot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Pure Canadian Wool Ball Cap",
+          "handle": "pure-canadian-wool-baseball-cap",
+          "productUrl": "https://stemargscot.com/products/pure-canadian-wool-baseball-cap",
+          "price": 168,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "STE.MARG.SCOT.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Pure Canadian Wool Bow Jacket",
+          "handle": "pure-canadian-wool-bow-jacket",
+          "productUrl": "https://stemargscot.com/products/pure-canadian-wool-bow-jacket",
+          "price": 498,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SteMargScot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Pure Canadian Wool Coco Jacket",
+          "handle": "pure-canadian-wool-coco-jacket",
+          "productUrl": "https://stemargscot.com/products/pure-canadian-wool-coco-jacket",
+          "price": 398,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SteMargScot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Pure Canadian Wool Crop Jacket",
+          "handle": "pure-canadian-wool-crop-jacket",
+          "productUrl": "https://stemargscot.com/products/pure-canadian-wool-crop-jacket",
+          "price": 498,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SteMargScot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Pure Canadian Wool Daily Tote",
+          "handle": "pure-canadian-wool-daily-tote",
+          "productUrl": "https://stemargscot.com/products/pure-canadian-wool-daily-tote",
+          "price": 338,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SteMargScot",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Pure Canadian Wool Duster",
+          "handle": "pure-canadian-wool-duster",
+          "productUrl": "https://stemargscot.com/products/pure-canadian-wool-duster",
+          "price": 588,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "SteMargScot",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Stix & Stones",
+      "website": "https://www.stixandstonesnb.ca",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "21Quattro",
+          "handle": "quattro",
+          "productUrl": "https://www.stixandstonesnb.ca/products/quattro",
+          "price": 5.52,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Stix and Stones Yarn Boutique",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "220 Grande",
+          "handle": "220-grande",
+          "productUrl": "https://www.stixandstonesnb.ca/products/220-grande",
+          "price": 22.09,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Stix and Stones Yarn Boutique",
+          "productType": "Super Bulky",
+          "image": null
+        },
+        {
+          "title": "220 Superwash",
+          "handle": "220-superwash",
+          "productUrl": "https://www.stixandstonesnb.ca/products/220-superwash",
+          "price": 12.15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Cascade",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "220 Superwash Grande",
+          "handle": "220-superwash-grande",
+          "productUrl": "https://www.stixandstonesnb.ca/products/220-superwash-grande",
+          "price": 22.09,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Stix and Stones Yarn Boutique",
+          "productType": "Super Bulky",
+          "image": null
+        },
+        {
+          "title": "220 Superwash Wave",
+          "handle": "220-superwash-wave",
+          "productUrl": "https://www.stixandstonesnb.ca/products/220-superwash-wave",
+          "price": 14.73,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Cascade",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "220 Worsted",
+          "handle": "220-worsted",
+          "productUrl": "https://www.stixandstonesnb.ca/products/220-worsted",
+          "price": 11.41,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Stix and Stones Yarn Boutique",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "360 SWIV Cable Large (L)",
+          "handle": "360-swiv-cable-large-l",
+          "productUrl": "https://www.stixandstonesnb.ca/products/360-swiv-cable-large-l",
+          "price": 11.05,
+          "compareAtPrice": 4.97,
+          "available": false,
+          "vendor": "Stix and Stones Yarn Boutique",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "addi",
+          "handle": "addi",
+          "productUrl": "https://www.stixandstonesnb.ca/products/addi",
+          "price": 21.35,
+          "compareAtPrice": 21.35,
+          "available": true,
+          "vendor": "Stix and Stones Yarn Boutique",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Allino",
+          "handle": "allino",
+          "productUrl": "https://www.stixandstonesnb.ca/products/allino",
+          "price": 9.2,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Stix and Stones Yarn Boutique",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Amigurumi Kits",
+          "handle": "amigurumi-kits",
+          "productUrl": "https://www.stixandstonesnb.ca/products/amigurumi-kits",
+          "price": 13.25,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Stix and Stones Yarn Boutique",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Thread and Maple",
+      "website": "https://www.threadandmaple.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Alpaca Needle Felted Sculpture",
+          "handle": "handmade-alpaca-ornament",
+          "productUrl": "https://www.threadandmaple.com/products/handmade-alpaca-ornament",
+          "price": 19,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Thread & Maple",
+          "productType": "Peripherals",
+          "image": null
+        },
+        {
+          "title": "Anytime Card \"Name a Better Duo\"",
+          "handle": "anytime-card-name-a-better-duo",
+          "productUrl": "https://www.threadandmaple.com/products/anytime-card-name-a-better-duo",
+          "price": 7,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Tophat & Monocle",
+          "productType": "Stationery",
+          "image": null
+        },
+        {
+          "title": "Bamboo Cable Needle",
+          "handle": "bamboo-cable-needle",
+          "productUrl": "https://www.threadandmaple.com/products/bamboo-cable-needle",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Kinki Amibari",
+          "productType": "Notions",
+          "image": null
+        },
+        {
+          "title": "Bamboo Grooved Cable Needle",
+          "handle": "grooved-cable-needle",
+          "productUrl": "https://www.threadandmaple.com/products/grooved-cable-needle",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Kinki Amibari",
+          "productType": "Notions",
+          "image": null
+        },
+        {
+          "title": "Bamboo Pen",
+          "handle": "bamboo-pen",
+          "productUrl": "https://www.threadandmaple.com/products/bamboo-pen",
+          "price": 11,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Thread & Maple",
+          "productType": "Stationery",
+          "image": null
+        },
+        {
+          "title": "Bazaar Bowl",
+          "handle": "bazaar-bowl",
+          "productUrl": "https://www.threadandmaple.com/products/bazaar-bowl",
+          "price": 27,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Thread & Maple",
+          "productType": "Baskets",
+          "image": null
+        },
+        {
+          "title": "Bazaar Bowls - Set of 3",
+          "handle": "bazaar-bowls-set-of-3",
+          "productUrl": "https://www.threadandmaple.com/products/bazaar-bowls-set-of-3",
+          "price": 82,
+          "compareAtPrice": 72,
+          "available": true,
+          "vendor": "Thread & Maple",
+          "productType": "Baskets",
+          "image": null
+        },
+        {
+          "title": "Bead Heart Stitch Markers",
+          "handle": "bead-heart-stitch-markers",
+          "productUrl": "https://www.threadandmaple.com/products/bead-heart-stitch-markers",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Thread & Maple",
+          "productType": "Notions",
+          "image": null
+        },
+        {
+          "title": "Bead Honeycomb Stitch Markers",
+          "handle": "bead-honeycomb-stitch-markers",
+          "productUrl": "https://www.threadandmaple.com/products/bead-honeycomb-stitch-markers",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Thread & Maple",
+          "productType": "Notions",
+          "image": null
+        },
+        {
+          "title": "Bead Ring Stitch Markers",
+          "handle": "bead-ring-stitch-markers",
+          "productUrl": "https://www.threadandmaple.com/products/bead-ring-stitch-markers",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Thread & Maple",
+          "productType": "Notions",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Tully's Yarn",
+      "website": "https://www.tullysyarn.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Caron Ripple Cakes",
+          "handle": "caron-ripple-cakes",
+          "productUrl": "https://www.tullysyarn.com/products/caron-ripple-cakes",
+          "price": 11.99,
+          "compareAtPrice": 11.99,
+          "available": true,
+          "vendor": "Yarnspirations",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Chocolate Truffle Collection",
+          "handle": "chocolate-truffle-collection",
+          "productUrl": "https://www.tullysyarn.com/products/chocolate-truffle-collection",
+          "price": 180,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "TullysYarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Crib Sheet - Hand Dyed",
+          "handle": "crib-sheet-hand-dyed",
+          "productUrl": "https://www.tullysyarn.com/products/crib-sheet-hand-dyed",
+          "price": 60,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "TullysYarn",
+          "productType": "Baby & Toddler",
+          "image": null
+        },
+        {
+          "title": "Grey Scale Set",
+          "handle": "grey-scale",
+          "productUrl": "https://www.tullysyarn.com/products/grey-scale",
+          "price": 150,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "TullysYarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Hometown U.S.A.",
+          "handle": "lion-brand-hometown-u-s-a",
+          "productUrl": "https://www.tullysyarn.com/products/lion-brand-hometown-u-s-a",
+          "price": 6.95,
+          "compareAtPrice": 6.95,
+          "available": true,
+          "vendor": "Lion Brand Yarns",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Kit - Bunny",
+          "handle": "kit-bunny",
+          "productUrl": "https://www.tullysyarn.com/products/kit-bunny",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "TullysYarn",
+          "productType": "Kits",
+          "image": null
+        },
+        {
+          "title": "Kit - Frog",
+          "handle": "kit-frog",
+          "productUrl": "https://www.tullysyarn.com/products/kit-frog",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "TullysYarn",
+          "productType": "Kits",
+          "image": null
+        },
+        {
+          "title": "Kit - Red Fox",
+          "handle": "kit-red-fox",
+          "productUrl": "https://www.tullysyarn.com/products/kit-red-fox",
+          "price": 30,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "TullysYarn",
+          "productType": "Kits",
+          "image": null
+        },
+        {
+          "title": "Knitted Pumpkin",
+          "handle": "knitted-pumpkin",
+          "productUrl": "https://www.tullysyarn.com/products/knitted-pumpkin",
+          "price": 10,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "TullysYarn",
+          "productType": "Seasonal & Holiday Decorations",
+          "image": null
+        },
+        {
+          "title": "Lotus Flower Beanie - Porrinho/Plomo",
+          "handle": "lotus-flower-beanie-porrinho-plomo",
+          "productUrl": "https://www.tullysyarn.com/products/lotus-flower-beanie-porrinho-plomo",
+          "price": 70,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "TullysYarn",
+          "productType": "Luxury Beanie",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "the Wandering Flock",
+      "website": "http://www.thewanderingflock.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "A5 NoteBook",
+          "handle": "a5-notebook",
+          "productUrl": "http://www.thewanderingflock.com/products/a5-notebook",
+          "price": 12,
+          "compareAtPrice": 16,
+          "available": true,
+          "vendor": "Papier Tigre",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Arah Pullover Pattern",
+          "handle": "arah-pullover",
+          "productUrl": "http://www.thewanderingflock.com/products/arah-pullover",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Wandering Flock",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Baby Paca",
+          "handle": "baby-paca",
+          "productUrl": "http://www.thewanderingflock.com/products/baby-paca",
+          "price": 32,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Wandering Flock",
+          "productType": "Knitting Yarn",
+          "image": null
+        },
+        {
+          "title": "Baby Paca Mini Bundle",
+          "handle": "baby-paca-mini-bundle",
+          "productUrl": "http://www.thewanderingflock.com/products/baby-paca-mini-bundle",
+          "price": 40,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Wandering Flock",
+          "productType": "Knitting Yarn",
+          "image": null
+        },
+        {
+          "title": "Bergamot Body Balm",
+          "handle": "body-balm-bergamot",
+          "productUrl": "http://www.thewanderingflock.com/products/body-balm-bergamot",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Wandering Flock",
+          "productType": "Body Balm",
+          "image": null
+        },
+        {
+          "title": "Birthday Bobba and Bobbles - Fiber Craft Night",
+          "handle": "bobba-and-bobbles-fiber-craft-night",
+          "productUrl": "http://www.thewanderingflock.com/products/bobba-and-bobbles-fiber-craft-night",
+          "price": 15,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Wandering Flock",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Cable Needles",
+          "handle": "cable-needles",
+          "productUrl": "http://www.thewanderingflock.com/products/cable-needles",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Coco Knits",
+          "productType": "Notions",
+          "image": null
+        },
+        {
+          "title": "Cotton Lino",
+          "handle": "cotton-lino",
+          "productUrl": "http://www.thewanderingflock.com/products/cotton-lino",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "The Wandering Flock",
+          "productType": "Knitting Yarn",
+          "image": null
+        },
+        {
+          "title": "Cozy Accessory Kit - Dusty Blue",
+          "handle": "cozy-accessory-kit-dusty-blue",
+          "productUrl": "http://www.thewanderingflock.com/products/cozy-accessory-kit-dusty-blue",
+          "price": 66,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Wandering Flock",
+          "productType": "Knitting Yarn",
+          "image": null
+        },
+        {
+          "title": "Cozy Accessory Kit - Midori",
+          "handle": "cozy-accessory-kit-midori",
+          "productUrl": "http://www.thewanderingflock.com/products/cozy-accessory-kit-midori",
+          "price": 66,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "The Wandering Flock",
+          "productType": "Knitting Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Waxwing 2",
+      "website": "https://www.waxwingyarn.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Aert Mitts Kit",
+          "handle": "aert-mitts-kit",
+          "productUrl": "https://www.waxwingyarn.com/products/aert-mitts-kit",
+          "price": 33,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Waxwing Yarn",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Audrey In Unst Vest Kit",
+          "handle": "audrey-in-unst-vest-kit",
+          "productUrl": "https://www.waxwingyarn.com/products/audrey-in-unst-vest-kit",
+          "price": 40,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Waxwing Yarn",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Birkin Sweater Kit",
+          "handle": "birkin-sweater",
+          "productUrl": "https://www.waxwingyarn.com/products/birkin-sweater",
+          "price": 90,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "WAXWING YARN COMPANY",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Cèdre Sample Card | Single-Ply Woollen-Spun Fingering Yarn",
+          "handle": "cedre-sample-card-single-ply-woollen-spun-fingering-yarn",
+          "productUrl": "https://www.waxwingyarn.com/products/cedre-sample-card-single-ply-woollen-spun-fingering-yarn",
+          "price": 3,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Waxwing Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Cèdre Yarn on Cones – 100% Canadian Wool",
+          "handle": "cedre-yarn-on-cones-100-canadian-wool",
+          "productUrl": "https://www.waxwingyarn.com/products/cedre-yarn-on-cones-100-canadian-wool",
+          "price": 20,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Waxwing Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Cèdre | 100% Canadian Wool Yarn",
+          "handle": "cedre-100-grams",
+          "productUrl": "https://www.waxwingyarn.com/products/cedre-100-grams",
+          "price": 7,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "WAXWING YARN COMPANY",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Discovery Set",
+          "handle": "discovery-kit",
+          "productUrl": "https://www.waxwingyarn.com/products/discovery-kit",
+          "price": 104,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "WAXWING YARN COMPANY",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Épinette",
+          "handle": "epinette",
+          "productUrl": "https://www.waxwingyarn.com/products/epinette",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Waxwing Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Érable Sample Card | 2-Ply Woollen-Spun Worsted Weight",
+          "handle": "erable-yarn-sample-card-2-ply-woollen-spun-worsted-weight",
+          "productUrl": "https://www.waxwingyarn.com/products/erable-yarn-sample-card-2-ply-woollen-spun-worsted-weight",
+          "price": 3,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Waxwing Yarn",
+          "productType": "Yarn",
+          "image": null
+        },
+        {
+          "title": "Érable Worsted | 100% Canadian Wool Yarn",
+          "handle": "erable-100-canadian-wool-worsted-weight-yarn",
+          "productUrl": "https://www.waxwingyarn.com/products/erable-100-canadian-wool-worsted-weight-yarn",
+          "price": 13,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Waxwing Yarn",
+          "productType": "Yarn",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Waypoint Fibreworks 2",
+      "website": "https://waypointfibreworks.ca/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Organic Cotton Bulky",
+          "handle": "organic-cotton-bulky",
+          "productUrl": "https://waypointfibreworks.ca/products/organic-cotton-bulky",
+          "price": 0,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Waypoint Fibreworks",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Winstonfibresco",
+      "website": "https://www.winstonfibresco.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Birch Bark",
+          "handle": "birch-bark",
+          "productUrl": "https://www.winstonfibresco.com/products/birch-bark",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Broody Hen",
+          "handle": "broody-hen",
+          "productUrl": "https://www.winstonfibresco.com/products/broody-hen",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Double it up? Sock Kit (x2)",
+          "handle": "double-it-up-sock-kit-x2",
+          "productUrl": "https://www.winstonfibresco.com/products/double-it-up-sock-kit-x2",
+          "price": 61,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "E-Gift Card",
+          "handle": "e-gift-card",
+          "productUrl": "https://www.winstonfibresco.com/products/e-gift-card",
+          "price": 7.36,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Forest Floor",
+          "handle": "forest-floor",
+          "productUrl": "https://www.winstonfibresco.com/products/forest-floor",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Make it a Triple!? Sock Kit (x3)",
+          "handle": "make-it-a-triple-sock-kit-x3",
+          "productUrl": "https://www.winstonfibresco.com/products/make-it-a-triple-sock-kit-x3",
+          "price": 89,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "OG Single Sock Kit",
+          "handle": "single-sock-kit",
+          "productUrl": "https://www.winstonfibresco.com/products/single-sock-kit",
+          "price": 33,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Potpourri",
+          "handle": "potpourri",
+          "productUrl": "https://www.winstonfibresco.com/products/potpourri",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Rainbow Dash",
+          "handle": "rainbow-dash",
+          "productUrl": "https://www.winstonfibresco.com/products/rainbow-dash",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Robin's Egg",
+          "handle": "robins-egg",
+          "productUrl": "https://www.winstonfibresco.com/products/robins-egg",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Winston Fibres Co.",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Wonder Twin Fibrearts",
+      "website": "http://www.wondertwinfibrearts.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "13th Doctor Scarf",
+          "handle": "13th-doctor-scarf",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/13th-doctor-scarf",
+          "price": 0,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Avance Pattern",
+          "handle": "avance-pattern",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/avance-pattern",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Canadian Indigenous Artist Collection",
+          "handle": "ojibway-floral-collection",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/ojibway-floral-collection",
+          "price": 37,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": "Handbags, Wallets & Cases",
+          "image": null
+        },
+        {
+          "title": "Cat Notions Pouch",
+          "handle": "cat-notions-pouch",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/cat-notions-pouch",
+          "price": 19,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Clover Bag",
+          "handle": "clover-bag",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/clover-bag",
+          "price": 45,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Clover Deluxe",
+          "handle": "clover-deluxe",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/clover-deluxe",
+          "price": 85,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": "Handbags, Wallets & Cases",
+          "image": null
+        },
+        {
+          "title": "Elsbeth Tote",
+          "handle": "elsbeth-tote",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/elsbeth-tote",
+          "price": 111,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Feral Crafter Sticker",
+          "handle": "feral-crafter-sticker",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/feral-crafter-sticker",
+          "price": 4,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Frida Hat",
+          "handle": "frida-hat",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/frida-hat",
+          "price": 2,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": "Pattern",
+          "image": null
+        },
+        {
+          "title": "Joey Project Pouch",
+          "handle": "joey-project-pouch",
+          "productUrl": "http://www.wondertwinfibrearts.com/products/joey-project-pouch",
+          "price": 34,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Wonder Twin Fibrearts",
+          "productType": "Handbags, Wallets & Cases",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Worth Mending",
+      "website": "https://www.worthmending.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "35% US Import Tariff",
+          "handle": "35-us-import-tariff",
+          "productUrl": "https://www.worthmending.com/products/35-us-import-tariff",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Worth Mending",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Compact Zip Pouch",
+          "handle": "compact-zip-pouch",
+          "productUrl": "https://www.worthmending.com/products/compact-zip-pouch",
+          "price": 26,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Worth Mending",
+          "productType": "Upcycled Organizer Bag Pencil Case Pouch",
+          "image": null
+        },
+        {
+          "title": "Darning Yarn",
+          "handle": "darning-yarn",
+          "productUrl": "https://www.worthmending.com/products/darning-yarn",
+          "price": 4,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Worth Mending",
+          "productType": "Small Batch Mending Weaving Yarn for Art and Repair",
+          "image": null
+        },
+        {
+          "title": "DIY Recycled Ornament Kit",
+          "handle": "ornament-kit",
+          "productUrl": "https://www.worthmending.com/products/ornament-kit",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Worth Mending",
+          "productType": "Unique Eco-Friendly Holiday Activity for Kids and All Ages- build Fine Motor Skills",
+          "image": null
+        },
+        {
+          "title": "Extra-long work surface",
+          "handle": "extra-long-work-surface",
+          "productUrl": "https://www.worthmending.com/products/extra-long-work-surface",
+          "price": 35,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Worth Mending",
+          "productType": "Upcycled Mending Tool Darning Loom Made in Canada",
+          "image": null
+        },
+        {
+          "title": "Extra-small work surface",
+          "handle": "small-work-surface",
+          "productUrl": "https://www.worthmending.com/products/small-work-surface",
+          "price": 27,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Worth Mending",
+          "productType": "Upcycled Mending Tool Darning Loom Made in Canada",
+          "image": null
+        },
+        {
+          "title": "Guide: How to Darn (digital download)",
+          "handle": "guide-darning",
+          "productUrl": "https://www.worthmending.com/products/guide-darning",
+          "price": 4,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Worth Mending",
+          "productType": "Mending Instruction Booklet",
+          "image": null
+        },
+        {
+          "title": "Guide: How to Darn (print version)",
+          "handle": "guide-how-to-darn-print-version",
+          "productUrl": "https://www.worthmending.com/products/guide-how-to-darn-print-version",
+          "price": 6,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Worth Mending",
+          "productType": "Mending Instruction Booklet",
+          "image": null
+        },
+        {
+          "title": "Guide: Weave A Tiny Tapestry (digital download)",
+          "handle": "guide-weave-digital-download",
+          "productUrl": "https://www.worthmending.com/products/guide-weave-digital-download",
+          "price": 4,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Worth Mending",
+          "productType": "Weaving Instruction Booklet",
+          "image": null
+        },
+        {
+          "title": "Guide: Weave A Tiny Tapestry (print version)",
+          "handle": "guide-weave-print-version",
+          "productUrl": "https://www.worthmending.com/products/guide-weave-print-version",
+          "price": 8,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Worth Mending",
+          "productType": "Weaving Instruction Booklet",
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Yarnindulgences",
+      "website": "https://YarnIndulgences.com",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "Advent Yarn Box Bridgerton Chaos - Scandal & Skeins - PRE-ORDER",
+          "handle": "advent-yarn-box-bridgerton-chaos-scandal-skeins-pre-order",
+          "productUrl": "https://YarnIndulgences.com/products/advent-yarn-box-bridgerton-chaos-scandal-skeins-pre-order",
+          "price": 183,
+          "compareAtPrice": 183,
+          "available": true,
+          "vendor": "Yarn Indulgences",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "Advent Yarn Box Deck The Docks - Tidings & Twists PRE-ORDER",
+          "handle": "advent-yarn-box-deck-the-docks-tidings-twists-pre-order",
+          "productUrl": "https://YarnIndulgences.com/products/advent-yarn-box-deck-the-docks-tidings-twists-pre-order",
+          "price": 183,
+          "compareAtPrice": 183,
+          "available": true,
+          "vendor": "Yarn Indulgences",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "Advent Yarn Box Get Wicked! Hexes & Hanks PRE-ORDER",
+          "handle": "advent-yarn-box-get-wicked-hexes-hanks-pre-order",
+          "productUrl": "https://YarnIndulgences.com/products/advent-yarn-box-get-wicked-hexes-hanks-pre-order",
+          "price": 183,
+          "compareAtPrice": 183,
+          "available": false,
+          "vendor": "Yarn Indulgences",
+          "productType": "Advent",
+          "image": null
+        },
+        {
+          "title": "Confetti Glow - Aqua Queen",
+          "handle": "confetti-glow-aqua-queen",
+          "productUrl": "https://YarnIndulgences.com/products/confetti-glow-aqua-queen",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Yarn Indulgences",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Confetti Glow - Camel",
+          "handle": "confetti-glow-camel",
+          "productUrl": "https://YarnIndulgences.com/products/confetti-glow-camel",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Yarn Indulgences",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Confetti Glow - Cloudy Day",
+          "handle": "confett-glow-cloudy-day",
+          "productUrl": "https://YarnIndulgences.com/products/confett-glow-cloudy-day",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Yarn Indulgences",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Confetti Glow - Deep Seas",
+          "handle": "confetti-glow-deep-seas",
+          "productUrl": "https://YarnIndulgences.com/products/confetti-glow-deep-seas",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Yarn Indulgences",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Confetti Glow - Fogbound",
+          "handle": "confetti-glow-fogbound",
+          "productUrl": "https://YarnIndulgences.com/products/confetti-glow-fogbound",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Yarn Indulgences",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Confetti Glow - Glow Worm",
+          "handle": "confetti-glow-glow-worm",
+          "productUrl": "https://YarnIndulgences.com/products/confetti-glow-glow-worm",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Yarn Indulgences",
+          "productType": null,
+          "image": null
+        },
+        {
+          "title": "Confetti Glow - Honeysuckle",
+          "handle": "confetti-glow-honeysuckle",
+          "productUrl": "https://YarnIndulgences.com/products/confetti-glow-honeysuckle",
+          "price": 28,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Yarn Indulgences",
+          "productType": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "vendorName": "Your Next Knit",
+      "website": "https://yournextknit.com/",
+      "source": "/collections/all/products.json?limit=10&sort_by=best-selling",
+      "products": [
+        {
+          "title": "12” LYKKE - DRIFTWOOD Fixed Circular Knitting Needles",
+          "handle": "lykke-driftwood-fixed-circular-knitting-needles-12",
+          "productUrl": "https://yournextknit.com/products/lykke-driftwood-fixed-circular-knitting-needles-12",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LYKKE",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "16” LYKKE - DRIFTWOOD Fixed Circular Knitting Needles",
+          "handle": "lykke-driftwood-fixed-circular-knitting-needles-16",
+          "productUrl": "https://yournextknit.com/products/lykke-driftwood-fixed-circular-knitting-needles-16",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LYKKE",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "24” LYKKE - DRIFTWOOD Fixed Circular Knitting Needles",
+          "handle": "lykke-driftwood-fixed-circular-knitting-needles-24",
+          "productUrl": "https://yournextknit.com/products/lykke-driftwood-fixed-circular-knitting-needles-24",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LYKKE",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "32” LYKKE - DRIFTWOOD Fixed Circular Knitting Needles",
+          "handle": "lykke-driftwood-fixed-circular-knitting-needles-32",
+          "productUrl": "https://yournextknit.com/products/lykke-driftwood-fixed-circular-knitting-needles-32",
+          "price": 9,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LYKKE",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "40” LYKKE - DRIFTWOOD Fixed Circular Knitting Needles",
+          "handle": "lykke-driftwood-fixed-circular-knitting-needles-40",
+          "productUrl": "https://yournextknit.com/products/lykke-driftwood-fixed-circular-knitting-needles-40",
+          "price": 10,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "LYKKE",
+          "productType": "Needles",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Accessories - Hats, scarves, socks, mittens & more",
+          "handle": "52-weeks-of-accessories-hats-scarves-socks-mittens-more",
+          "productUrl": "https://yournextknit.com/products/52-weeks-of-accessories-hats-scarves-socks-mittens-more",
+          "price": 51,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Scrap Yarn - Laine Publishing",
+          "handle": "52-weeks-of-scrap-yarn-laine-publishing",
+          "productUrl": "https://yournextknit.com/products/52-weeks-of-scrap-yarn-laine-publishing",
+          "price": 56,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "Laine",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "52 Weeks of Sweaters - Laine Publishing",
+          "handle": "52-weeks-of-sweaters-laine-publishing",
+          "productUrl": "https://yournextknit.com/products/52-weeks-of-sweaters-laine-publishing",
+          "price": 58,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Laine",
+          "productType": "Books",
+          "image": null
+        },
+        {
+          "title": "A Collectible Kit - Holiday Hat Kit by Gudrun Johnston",
+          "handle": "a-collectible-kit-holiday-hat-kit-by-gudrun-johnston",
+          "productUrl": "https://yournextknit.com/products/a-collectible-kit-holiday-hat-kit-by-gudrun-johnston",
+          "price": 39,
+          "compareAtPrice": 0,
+          "available": false,
+          "vendor": "YourNextKnit",
+          "productType": "Kit",
+          "image": null
+        },
+        {
+          "title": "Alpakka (Alpaca) Folgetrad- Sandnes Garn",
+          "handle": "alpakka-alpaca-folgetrad-sandnes-garn",
+          "productUrl": "https://yournextknit.com/products/alpakka-alpaca-folgetrad-sandnes-garn",
+          "price": 12,
+          "compareAtPrice": 0,
+          "available": true,
+          "vendor": "Sandnes Garn -Norway",
+          "productType": "Wool",
+          "image": null
+        }
+      ]
+    }
+  ]
+};
