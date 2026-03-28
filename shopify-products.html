@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shopify Vendors — Top 10 Products | Knit City Toronto 2026</title>
+  <meta
+    name="description"
+    content="Browse the top 10 products for each Shopify vendor in the Knit City Toronto 2026 directory."
+  />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <p class="header-eyebrow">🛍️ Shopify Catalog View</p>
+      <h1>Top 10 Products <span>Per Shopify Vendor</span></h1>
+      <h2 class="page-subtitle">Knit City Toronto 2026</h2>
+      <div class="header-meta">
+        <span id="vendor-summary">Loading vendor count...</span>
+        <span id="product-summary">Loading product count...</span>
+      </div>
+      <div class="page-nav-links">
+        <a href="index.html" class="btn-secondary">← Back to Vendor Directory</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="toolbar" role="search">
+    <div class="toolbar-inner">
+      <div class="search-wrap">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <input
+          type="search"
+          id="vendor-search"
+          placeholder="Search vendor or product..."
+          aria-label="Search vendor or product"
+          autocomplete="off"
+        />
+      </div>
+
+      <div class="filter-wrap">
+        <span class="filter-label">Availability:</span>
+        <select id="availability-filter" aria-label="Filter by availability">
+          <option value="all">All products</option>
+          <option value="in-stock">In stock only</option>
+          <option value="sold-out">Sold out only</option>
+        </select>
+      </div>
+
+      <span class="results-count" id="results-count" aria-live="polite"></span>
+    </div>
+  </div>
+
+  <main>
+    <section class="catalog-meta-card" id="catalog-meta-card">
+      <p id="catalog-generated-at">Loading catalog metadata...</p>
+      <p id="catalog-source-note" class="catalog-source-note"></p>
+    </section>
+
+    <div class="vendor-products-grid" id="vendor-products-grid"></div>
+
+    <div class="empty-state" id="empty-state" role="status">
+      <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+      <h2>No matching products found</h2>
+      <p>Try changing your search term or availability filter.</p>
+    </div>
+
+    <section class="no-products-section" id="no-products-section" hidden>
+      <h2>Shopify vendors with no publicly indexed products</h2>
+      <ul id="no-products-list" class="no-products-list"></ul>
+    </section>
+  </main>
+
+  <script src="shopify-products-data.js"></script>
+  <script src="shopify-products.js"></script>
+</body>
+</html>
